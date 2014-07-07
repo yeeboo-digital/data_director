@@ -1,0 +1,35 @@
+.navigation{
+  padding:10px 40px;
+  border:1px solid #ddd;
+  background:#f2f2f2;
+  overflow:auto;
+  a{
+    text-decoration:none;
+    display:block;
+  }
+  ul,li{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+  }
+  li{
+    float:left;
+    display:block;
+    margin-right:10px;
+    
+  }
+}
+#container{
+  #content{
+    padding:0 20px;
+  }
+  form.new_user{
+    padding: 20px;
+    border:1px solid #ddd;
+    background:#f2f2f2;
+    max-width:450px;
+    input{
+      margin:10px 0;
+    }
+  }
+}

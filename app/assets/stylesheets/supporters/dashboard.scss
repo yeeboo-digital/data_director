@@ -1,0 +1,50 @@
+section.dashboard{
+  padding: 20px;
+}
+
+.supporters-table{
+  width:100%;
+  
+  >tbody >tr >td{
+    width:50%;
+    vertical-align: top;
+  }
+  .title{
+    font-weight: bold;
+    background: #eee;
+    border: 1px solid #ddd;
+    padding: 10px 10px 8px;
+    color: #1E2964;
+    font-size: 12px;
+    .icon-save{
+      margin-top:-5px;
+      float:right;
+    }
+  }
+  .chart{
+    border:1px solid #ddd;
+    min-height: 400px;
+    width: 100%;
+  }
+}
+.chart.loading{
+  background:image-url('ajax-loader.gif') center no-repeat;
+  div{
+    display:none;
+  }
+}
+.table{
+  padding:10px;
+  .chart{
+    border:none;
+    min-height: 380px;
+  }
+}
+
+.icon-save{
+  background:image-url('save.png') no-repeat;
+  width:image-width('save.png');
+  height:image-height('save.png');
+  display:inline-block;
+  text-indent:-9999px;
+}

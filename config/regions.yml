@@ -1,0 +1,13938 @@
+---
+AD-02:
+- canillo
+AD-03:
+- encamp
+AD-04:
+- la massana
+AD-05:
+- ordino
+AD-06:
+- sant juliÃ  de lÃ²ria
+AD-07:
+- andorra la vella
+AD-08:
+- escaldes-engordany
+AE-AJ:
+- ajman
+- ‘ajmān
+AE-AZ:
+- abu dhabi
+- abu dhabi
+AE-DU:
+- dubai
+- dubai
+AE-FU:
+- fujairah
+- al fujayrah
+AE-RK:
+- ras al khaimah
+- r'as al khaymah
+AE-SH:
+- sharjah
+- sharjah
+AE-UQ:
+- um al quwain
+- umm al qaywayn
+AF-BAL:
+- balkh
+- balkh
+AF-BAM:
+- bamyan
+- bāmīān
+AF-BDG:
+- badghis
+- bādghīs
+AF-BDS:
+- badakhshan
+- badakhshān
+AF-BGL:
+- baghlan
+- baghlān
+AF-DAY:
+- daykundi
+AF-FRA:
+- farah
+- farāh
+AF-FYB:
+- faryab
+- fāryāb
+AF-GHA:
+- ghazni
+- ghaznī
+AF-GHO:
+- ghor
+- ghowr
+AF-HEL:
+- helmand
+- helmand
+AF-HER:
+- herat
+- herāt
+AF-JOW:
+- jowzjan
+- jowzjān
+AF-KAB:
+- kabul
+- kabul
+AF-KAN:
+- kandahar
+- kandahār
+AF-KAP:
+- kapisa
+- kāpīsā
+AF-KDZ:
+- kunduz
+- kunduz
+AF-KHO:
+- khost
+AF-KNR:
+- kunar
+- kunar
+AF-LAG:
+- laghman
+- laghmān
+AF-LOW:
+- logar
+- lowgar
+AF-NAN:
+- nangarhar
+- nangrahār
+AF-NIM:
+- nimruz
+- nīmrūz
+AF-NUR:
+- nurestan
+AF-ORU:
+- oruzgan
+- orūzgān
+AF-PAN:
+- panjshir
+AF-PAR:
+- parwan
+- parwān
+AF-PIA:
+- paktia
+- paktīā
+AF-PKA:
+- paktika
+- paktīkā
+AF-SAM:
+- samangan
+- samangān
+AF-SAR:
+- sar-e pol
+- sar-e pol
+AF-TAK:
+- takhar
+- takhār
+AF-WAR:
+- wardak
+- wardag
+AF-ZAB:
+- zabul
+- zābul
+AG-03:
+- saint george
+AG-04:
+- saint john's
+AG-05:
+- saint mary
+AG-06:
+- saint paul
+AG-07:
+- saint peter
+AG-08:
+- saint philip
+AG-10:
+- barbuda
+AG-11:
+- redonda
+AL-BR:
+- berat
+- berat
+AL-BU:
+- bulqizÃ«
+- bulqizë
+AL-DI:
+- dibÃ«r
+- dibër
+AL-DL:
+- delvinÃ«
+- delvinë
+AL-DR:
+- durrÃ«s
+- durrës
+AL-DV:
+- devoll
+- devoll
+AL-EL:
+- elbasan
+- elbasan
+AL-ER:
+- kolonjÃ«
+- kolonjë
+AL-FR:
+- fier
+- fier
+AL-GJ:
+- gjirokastÃ«r
+- gjirokastër
+AL-GR:
+- gramsh
+- gramsh
+AL-HA:
+- has
+- has
+AL-KA:
+- kavajÃ«
+- kavajë
+AL-KB:
+- kurbin
+AL-KC:
+- kuÃ§ovÃ«
+- kucovë
+AL-KO:
+- korÃ§Ã«
+- korcë
+AL-KR:
+- krujÃ«
+- krujë
+AL-KU:
+- kukÃ«s
+- kukës
+AL-LB:
+- librazhd
+- librazhd
+AL-LE:
+- lezhÃ«
+- lezhë
+AL-LU:
+- lushnje
+- lushnjë
+AL-MK:
+- mallakastÃ«r
+- mallakastër
+AL-MM:
+- malÃ«si e madhe
+- malësia e madhe
+AL-MR:
+- mirditÃ«
+- mirditë
+AL-MT:
+- mat
+- mat
+AL-PG:
+- pogradec
+- pogradec
+AL-PQ:
+- peqin
+- peqin
+AL-PR:
+- pÃ«rmet
+- përmet
+AL-PU:
+- pukÃ«
+- pukë
+AL-SH:
+- shkodÃ«r
+- shkodër
+AL-SK:
+- skrapar
+- skrapar
+AL-SR:
+- sarandÃ«
+- sarandë
+AL-TE:
+- tepelenÃ«
+- tepelenë
+AL-TP:
+- tropojÃ«
+- tropojë
+AL-TR:
+- tiranÃ«
+- tiranë
+AL-VL:
+- vlorÃ«
+- vlorë
+AM-AG:
+- aragatsotn
+- Ô±Ö€Õ¡Õ£Õ¡Õ®Õ¸Õ¿Õ¶
+- aragacotn
+AM-AR:
+- ararat
+- Ô±Ö€Õ¡Ö€Õ¡Õ¿
+- ararat
+AM-AV:
+- armavir
+- Ô±Ö€Õ´Õ¡Õ¾Õ«Ö€
+- armavir
+AM-ER:
+- yerevan
+- ÔµÖ€Õ¥Õ¾Õ¡Õ¶
+- erevan
+AM-GR:
+- gegharkunik
+- Ô³Õ¥Õ²Õ¡Ö€Ö„Õ¸Ö‚Õ¶Õ«Õ¯
+- geģark'unik'
+AM-KT:
+- kotayk
+- Ô¿Õ¸Õ¿Õ¡ÕµÖ„
+- kotayk'
+AM-LO:
+- lori
+- Ô¼Õ¸Õ¼Õ«
+- loŕy
+AM-SH:
+- shirak
+- Õ‡Õ«Ö€Õ¡Õ¯
+- Širak
+AM-SU:
+- syunik
+- ! "Õ\x8DÕµÕ¸Ö‚Õ¶Õ«Ö„"
+- syunik'
+AM-TV:
+- tavush
+- ! "Õ\x8FÕ¡Õ¾Õ¸Ö‚Õ·"
+- tavuš
+AM-VD:
+- vayots dzor
+- ! "ÕŽÕ¡ÕµÕ¸Ö\x81 Õ\x81Õ¸Ö€"
+- vayoc jor
+AO-BGO:
+- bengo
+- bengo
+AO-BGU:
+- benguela
+- benguela
+AO-BIE:
+- biÃ©
+- bié
+AO-CAB:
+- cabinda
+- cabinda
+AO-CCU:
+- cuando cubango
+- cuando-cubango
+AO-CNN:
+- cunene
+- cunene
+AO-CNO:
+- cuanza norte
+- cuanza norte
+AO-CUS:
+- cuanza sul
+- cuanza sul
+AO-HUA:
+- huambo
+- huambo
+AO-HUI:
+- huÃ­la
+- huíla
+AO-LNO:
+- lunda norte
+- lunda norte
+AO-LSU:
+- lunda sul
+- lunda sul
+AO-LUA:
+- luanda
+- luanda
+AO-MAL:
+- malanje
+- malange
+AO-MOX:
+- moxico
+- moxico
+AO-NAM:
+- namibe
+- namibe
+AO-UIG:
+- uÃ­ge
+- uíge
+AO-ZAI:
+- zaire
+- zaïre
+AR-A:
+- salta
+- salta
+AR-B:
+- buenos aires
+- buenos aires
+AR-C:
+- capital federal
+- capital federal
+AR-D:
+- san luis
+- san luis
+AR-E:
+- entre rÃ­os
+- entre ríos
+AR-F:
+- la rioja
+- la rioja
+AR-G:
+- santiago del estero
+- santiago del estero
+AR-H:
+- chaco
+- chaco
+AR-J:
+- san juan
+- san juan
+AR-K:
+- catamarca
+- catamarca
+AR-L:
+- la pampa
+- la pampa
+AR-M:
+- mendoza
+- mendoza
+AR-N:
+- misiones
+- misiones
+AR-P:
+- formosa
+- formosa
+AR-Q:
+- neuquÃ©n
+- neuquén
+AR-R:
+- rÃ­o negro
+- río negro
+AR-S:
+- santa fe
+- santa fe
+AR-T:
+- tucumÃ¡n
+- tucumán
+AR-U:
+- chubut
+- chubut
+AR-V:
+- tierra del fuego
+- tierra del fuego
+AR-W:
+- corrientes
+- corrientes
+AR-X:
+- cÃ³rdoba
+- córdoba
+AR-Y:
+- jujuy
+- jujuy
+AR-Z:
+- santa cruz
+- santa cruz
+AT-1:
+- burgenland
+- burgenland
+AT-2:
+- kÃ¤rnten
+- kärnten
+AT-3:
+- niederÃ¶sterreich
+- niederösterreich
+AT-4:
+- oberÃ¶sterreich
+- oberösterreich
+AT-5:
+- salzburg
+- salzburg
+AT-6:
+- steiermark
+- steiermark
+AT-7:
+- tirol
+- tirol
+AT-8:
+- vorarlberg
+- vorarlberg
+AT-9:
+- wien
+- wien
+AU-ACT:
+- australian capital territory
+- australian capital territory
+AU-NSW:
+- new south wales
+- new south wales
+AU-NT:
+- northern territory
+- northern territory
+AU-QLD:
+- queensland
+- queensland
+AU-SA:
+- south australia
+- south australia
+AU-TAS:
+- tasmania
+- tasmania
+AU-VIC:
+- victoria
+- victoria
+AU-WA:
+- western australia
+- western australia
+AZ-AB:
+- ! "Æ\x8Fli-bayramlÄ±"
+- Äli bayramli
+AZ-ABS:
+- abÅŸeron
+- abşeron
+AZ-AGA:
+- aÄŸstafa
+- ağstafa
+AZ-AGC:
+- aÄŸcabÉ™di
+- ağcabädi
+AZ-AGM:
+- aÄŸdam
+- ağdam
+AZ-AGS:
+- aÄŸdaÅŸ
+- ağdas
+AZ-AGU:
+- aÄŸsu
+- ağsu
+AZ-AST:
+- astara
+- astara
+AZ-BA:
+- bakÄ±
+- baki
+AZ-BAB:
+- babÉ™k
+- babäk
+AZ-BAL:
+- balakÉ™n
+- balakän
+AZ-BAR:
+- bÉ™rdÉ™
+- bärdä
+AZ-BEY:
+- beylÉ™qan
+- beyläqan
+AZ-BIL:
+- bilÉ™suvar
+- biläsuvar
+AZ-CAB:
+- cÉ™brayÄ±l
+- cäbrayil
+AZ-CAL:
+- cÉ™lilabad
+- cälilabad
+AZ-CUL:
+- culfa
+- culfa
+AZ-DAS:
+- daÅŸkÉ™sÉ™n
+- daşkäsän
+AZ-DAV:
+- dÉ™vÉ™Ã§i
+- däväçi
+AZ-FUZ:
+- fÃ¼zuli
+- füzuli
+AZ-GA:
+- gÉ™ncÉ™
+- gäncä
+AZ-GAD:
+- gÉ™dÉ™bÉ™y
+- gädäbäy
+AZ-GOR:
+- goranboy
+- goranboy
+AZ-GOY:
+- gÃ¶yÃ§ay
+- göyçay
+AZ-HAC:
+- hacÄ±qabul
+- haciqabul
+AZ-IMI:
+- Ä°miÅŸli
+- imişli
+AZ-ISM:
+- Ä°smayÄ±llÄ±
+- ismayilli
+AZ-KAL:
+- kÉ™lbÉ™cÉ™r
+- kälbäcär
+AZ-KUR:
+- kÃ¼rdÉ™mir
+- kürdämir
+AZ-LA:
+- lÉ™nkÉ™ran city
+- länkäran
+AZ-LAC:
+- laÃ§Ä±n
+- laçin
+AZ-LAN:
+- lÉ™nkÉ™ran
+- länkäran
+AZ-LER:
+- lerik
+- lerik
+AZ-MAS:
+- masallÄ±
+- masalli
+AZ-MI:
+- mingÉ™Ã§evir
+- mingäçevir
+AZ-NA:
+- naftalan
+- naftalan
+AZ-NEF:
+- neftÃ§ala
+- neftçala
+AZ-NX:
+- naxÃ§Ä±van
+AZ-OGU:
+- oÄŸuz
+- oğuz
+AZ-ORD:
+- ordubad
+- ordubad
+AZ-QAB:
+- qÉ™bÉ™lÉ™
+- qäbälä
+AZ-QAX:
+- qax
+- qax
+AZ-QAZ:
+- qazax
+- qazax
+AZ-QBA:
+- quba
+- quba
+AZ-QBI:
+- qubadlÄ±
+- qubadlı
+AZ-QOB:
+- qobustan
+- qobustan
+AZ-QUS:
+- qusar
+- qusar
+AZ-SA:
+- ÅžÉ™ki city
+- Şäki
+AZ-SAB:
+- sabirabad
+- sabirabad
+AZ-SAD:
+- sÉ™dÉ™rÉ™k
+- sädäräk
+AZ-SAH:
+- Åžahbuz
+- Şahbuz
+AZ-SAK:
+- ÅžÉ™ki
+- Şäki
+AZ-SAL:
+- salyan
+- salyan
+AZ-SAR:
+- ÅžÉ™rur
+- Şärur
+AZ-SAT:
+- saatlÄ±
+- saatli
+AZ-SIY:
+- siyÉ™zÉ™n
+- siyäzän
+AZ-SKR:
+- ÅžÉ™mkir
+- Şämkir
+AZ-SM:
+- sumqayit
+- sumqayit
+AZ-SMI:
+- ÅžamaxÄ±
+- Şamaxı
+AZ-SMX:
+- samux
+- samux
+AZ-SS:
+- ÅžuÅŸa city
+- Şuşa
+AZ-SUS:
+- ÅžuÅŸa
+- Şuşa
+AZ-TAR:
+- tÉ™r-tÉ™r
+- tärtär
+AZ-TOV:
+- tovuz
+- tovuz
+AZ-UCA:
+- ucar
+- ucar
+AZ-XA:
+- xankÉ™ndi
+- xankändi
+AZ-XAC:
+- xaÃ§maz
+- xaçmaz
+AZ-XAN:
+- goygol
+- xanlar
+AZ-XCI:
+- xocalÄ±
+- xocalı
+AZ-XIZ:
+- xÄ±zÄ±
+- xizi
+AZ-XVD:
+- xocavÉ™nd
+- xocavänd
+AZ-YAR:
+- yardÄ±mlÄ±
+- yardimli
+AZ-YE:
+- yevlax city
+- yevlax
+AZ-YEV:
+- yevlax
+- yevlax
+AZ-ZAN:
+- zÉ™ngilan
+- zängılan
+AZ-ZAQ:
+- zaqatala
+- zaqatala
+AZ-ZAR:
+- zÉ™rdab
+- zärdab
+BA-BIH:
+- federacija bosne i hercegovine
+- federacija bosna i hercegovina
+BA-BRC:
+- ! "brÄ\x8Dko distrikt"
+BA-SRP:
+- republika srpska
+- republika srpska
+BB-01:
+- christ church
+BB-02:
+- saint andrew
+BB-03:
+- saint george
+BB-04:
+- saint james
+BB-05:
+- saint john
+BB-06:
+- saint joseph
+BB-07:
+- saint lucy
+BB-08:
+- saint michael
+BB-09:
+- saint peter
+BB-10:
+- saint philip
+BB-11:
+- saint thomas
+BD-01:
+- bandarban
+BD-02:
+- barguna
+BD-03:
+- bogra
+BD-04:
+- brahmanbaria
+BD-05:
+- bagerhat
+BD-06:
+- barisal
+BD-07:
+- bhola
+BD-08:
+- comilla
+BD-09:
+- chandpur
+BD-10:
+- chittagong
+BD-11:
+- cox's bazar
+BD-12:
+- chuadanga
+BD-13:
+- dhaka
+BD-14:
+- dinajpur
+BD-15:
+- faridpur
+BD-16:
+- feni
+BD-17:
+- gopalganj
+BD-18:
+- gazipur
+BD-19:
+- gaibandha
+BD-20:
+- hobiganj
+BD-21:
+- jamalpur
+BD-22:
+- jessore
+BD-23:
+- jinaidaha
+BD-24:
+- joypurhat
+BD-25:
+- jhalokati
+BD-26:
+- kishoreganj
+BD-27:
+- khulna
+BD-28:
+- kurigram
+BD-29:
+- khagrachari
+BD-30:
+- kustia
+BD-31:
+- lakshmipur
+BD-32:
+- lalmonirhat
+BD-33:
+- manikganj
+BD-34:
+- mymensingh
+BD-35:
+- munshiganj
+BD-36:
+- madaripur
+BD-37:
+- magura
+BD-38:
+- moulvibazar
+BD-39:
+- meherpur
+BD-40:
+- narayanganj
+BD-41:
+- netrakona
+BD-42:
+- narshingdi
+BD-43:
+- narail
+BD-44:
+- natore
+BD-45:
+- chapai nawabganj
+BD-46:
+- nilphamari
+BD-47:
+- noakhali
+BD-48:
+- naogaon
+BD-49:
+- pabna
+BD-50:
+- pirojpur
+BD-51:
+- potuakhali
+BD-52:
+- panchagarh
+BD-53:
+- rajbari
+BD-54:
+- rajshahi
+BD-55:
+- rangpur
+BD-56:
+- rangamati
+BD-57:
+- sherpur
+BD-58:
+- satkhira
+BD-59:
+- sirajganj
+BD-60:
+- sylhet
+BD-61:
+- sunamganj
+BD-62:
+- shariatpur
+BD-63:
+- tangail
+BD-64:
+- thakurgaon
+BE-BRU:
+- bruxelles-capitale
+- brussels hoofdstedelijk gewest
+- bruxelles-capitale
+BE-VAN:
+- anvers
+- antwerpen
+- antwerpen
+BE-VBR:
+- brabant flamand
+- vlaams-brabant
+- vlaams brabant
+BE-VLI:
+- limbourg
+- limburg
+- limburg
+BE-VOV:
+- flandre orientale
+- oost-vlaanderen
+- oost-vlaanderen
+BE-VWV:
+- flandre occidentale
+- west-vlaanderen
+- west-vlaanderen
+BE-WBR:
+- brabant wallon
+- waals-brabant
+- brabant wallon
+BE-WHT:
+- hainaut
+- henegouwen
+- hainaut
+BE-WLG:
+- liÃ¨ge
+- luik
+- liège
+BE-WLX:
+- luxembourg
+- luxemburg
+- luxembourg
+BE-WNA:
+- namur
+- namen
+- namur
+BF-BAL:
+- balÃ©
+- balé
+BF-BAM:
+- bam
+- bam
+BF-BAN:
+- banwa
+- banwa
+BF-BAZ:
+- bazÃ¨ga
+- bazèga
+BF-BGR:
+- bougouriba
+- bougouriba
+BF-BLG:
+- boulgou
+- boulgou
+BF-BLK:
+- boulkiemdÃ©
+- boulkiemdé
+BF-COM:
+- comoÃ©
+- comoé
+BF-GAN:
+- ganzourgou
+- ganzourgou
+BF-GNA:
+- gnagna
+- gnagna
+BF-GOU:
+- gourma
+- gourma
+BF-HOU:
+- houet
+- houet
+BF-IOB:
+- ioba
+- ioba
+BF-KAD:
+- kadiogo
+- kadiogo
+BF-KEN:
+- kÃ©nÃ©dougou
+- kénédougou
+BF-KMD:
+- komondjari
+- komondjari
+BF-KMP:
+- kompienga
+- kompienga
+BF-KOP:
+- koulpÃ©logo
+- koulpélogo
+BF-KOS:
+- kossi
+- kossi
+BF-KOT:
+- kouritenga
+- kouritenga
+BF-KOW:
+- kourwÃ©ogo
+- kourwéogo
+BF-LER:
+- lÃ©raba
+- léraba
+BF-LOR:
+- loroum
+- loroum
+BF-MOU:
+- mouhoun
+- mouhoun
+BF-NAM:
+- namentenga
+- namentenga
+BF-NAO:
+- nahouri
+- nahouri
+BF-NAY:
+- nayala
+- nayala
+BF-NOU:
+- noumbiel
+- noumbiel
+BF-OUB:
+- oubritenga
+- oubritenga
+BF-OUD:
+- oudalan
+- oudalan
+BF-PAS:
+- passorÃ©
+- passoré
+BF-PON:
+- poni
+- poni
+BF-SEN:
+- sÃ©no
+- séno
+BF-SIS:
+- sissili
+- sissili
+BF-SMT:
+- sanmatenga
+- sanmatenga
+BF-SNG:
+- sanguiÃ©
+- sanguié
+BF-SOM:
+- soum
+- soum
+BF-SOR:
+- sourou
+- sourou
+BF-TAP:
+- tapoa
+- tapoa
+BF-TUI:
+- tui
+- tui
+BF-YAG:
+- yagha
+- yagha
+BF-YAT:
+- yatenga
+- yatenga
+BF-ZIR:
+- ziro
+- ziro
+BF-ZON:
+- zondoma
+- zondoma
+BF-ZOU:
+- zoundwÃ©ogo
+- zoundwéogo
+BG-01:
+- Ð‘Ð»Ð°Ð³Ð¾ÐµÐ²Ð³Ñ€Ð°Ð´
+- blagoevgrad
+- sofija-grad
+BG-02:
+- ! "Ð‘ÑƒÑ€Ð³Ð°Ñ\x81"
+- burgas
+- burgas
+BG-03:
+- Ð’Ð°Ñ€Ð½Ð°
+- varna
+- varna
+BG-04:
+- Ð’ÐµÐ»Ð¸ÐºÐ¾ Ð¢ÑŠÑ€Ð½Ð¾Ð²Ð¾
+- veliko turnovo
+- loveč
+BG-05:
+- Ð’Ð¸Ð´Ð¸Ð½
+- vidin
+- montana
+BG-06:
+- Ð’Ñ€Ð°Ñ†Ð°
+- vratsa
+- plovdiv
+BG-07:
+- Ð“Ð°Ð±Ñ€Ð¾Ð²Ð¾
+- gabrovo
+- ruse
+BG-08:
+- Ð”Ð¾Ð±Ñ€Ð¸Ñ‡
+- dobrich
+- sofija
+BG-09:
+- ÐšÑŠÑ€Ð´Ð¶Ð°Ð»Ð¸
+- kurdzhali
+- haskovo
+BG-10:
+- ! "ÐšÑŽÑ\x81Ñ‚ÐµÐ½Ð´Ð¸Ð»"
+- kjustendil
+BG-11:
+- Ð›Ð¾Ð²ÐµÑ‡
+- lovech
+BG-12:
+- ÐœÐ¾Ð½Ñ‚Ð°Ð½Ð°
+- montana
+BG-13:
+- ÐŸÐ°Ð·Ð°Ñ€Ð´Ð¶Ð¸Ðº
+- pazardzhik
+BG-14:
+- ÐŸÐµÑ€Ð½Ð¸Ðº
+- pernik
+BG-15:
+- ÐŸÐ»ÐµÐ²ÐµÐ½
+- pleven
+BG-16:
+- ÐŸÐ»Ð¾Ð²Ð´Ð¸Ð²
+- plovdiv
+BG-17:
+- Ð Ð°Ð·Ð³Ñ€Ð°Ð´
+- razgrad
+BG-18:
+- ! "Ð ÑƒÑ\x81Ðµ"
+- ruse
+BG-19:
+- ! "Ð¡Ð¸Ð»Ð¸Ñ\x81Ñ‚Ñ€Ð°"
+- silistra
+BG-20:
+- Ð¡Ð»Ð¸Ð²ÐµÐ½
+- sliven
+BG-21:
+- ! "Ð¡Ð¼Ð¾Ð»Ñ\x8FÐ½"
+- smoljan
+BG-22:
+- ! "Ð¡Ð¾Ñ„Ð¸Ñ\x8F-Ð³Ñ€Ð°Ð´"
+- sofia city
+BG-23:
+- ! "Ð¡Ð¾Ñ„Ð¸Ñ\x8F"
+- sofia
+BG-24:
+- Ð¡Ñ‚Ð°Ñ€Ð° Ð—Ð°Ð³Ð¾Ñ€Ð°
+- stara zagora
+BG-25:
+- Ð¢ÑŠÑ€Ð³Ð¾Ð²Ð¸Ñ‰Ðµ
+- turgovishhe
+BG-26:
+- ! "Ð¥Ð°Ñ\x81ÐºÐ¾Ð²Ð¾"
+- khaskovo
+BG-27:
+- Ð¨ÑƒÐ¼ÐµÐ½
+- shumen
+BG-28:
+- Ð¯Ð¼Ð±Ð¾Ð»
+- jambol
+BH-13:
+- capital governorate
+BH-14:
+- southern governorate
+BH-15:
+- muharraq governorate
+BH-16:
+- central governorate
+BH-17:
+- northern governorate
+BI-BB:
+- bubanza
+- bubanza
+BI-BL:
+- bujumbura rural
+BI-BM:
+- bujumbura mairie
+BI-BR:
+- bururi
+- bururi
+BI-CA:
+- cankuzo
+- cankuzo
+BI-CI:
+- cibitoke
+- cibitoke
+BI-GI:
+- gitega
+- gitega
+BI-KI:
+- kirundo
+- kirundo
+BI-KR:
+- karuzi
+- karuzi
+BI-KY:
+- kayanza
+- kayanza
+BI-MA:
+- makamba
+- makamba
+BI-MU:
+- muramvya
+- muramvya
+BI-MW:
+- mwaro
+BI-MY:
+- muyinga
+- muyinga
+BI-NG:
+- ngozi
+- ngozi
+BI-RT:
+- rutana
+- rutana
+BI-RY:
+- ruyigi
+- ruyigi
+BJ-AK:
+- atacora
+- atakora
+BJ-AL:
+- alibori
+BJ-AQ:
+- atlantique
+- atlantique
+BJ-BO:
+- borgou
+- borgou
+BJ-CO:
+- collines
+BJ-DO:
+- donga
+BJ-KO:
+- couffo
+BJ-LI:
+- littoral
+BJ-MO:
+- mono
+- mono
+BJ-OU:
+- ouÃ©mÃ©
+- ouémé
+BJ-PL:
+- plateau
+BJ-ZO:
+- zou
+- zou
+BN-BE:
+- belait
+- belait
+BN-BM:
+- brunei muara
+- brunei-muara
+BN-TE:
+- temburong
+- temburong
+BN-TU:
+- tutong
+- tutong
+BO-B:
+- beni
+- el beni
+BO-C:
+- cochabamba
+- cochabamba
+BO-H:
+- chuquisaca
+- chuquisaca
+BO-L:
+- la paz
+- la paz
+BO-N:
+- pando
+- pando
+BO-O:
+- oruro
+- oruro
+BO-P:
+- potosÃ­
+- potosi
+BO-S:
+- santa cruz
+- santa cruz
+BO-T:
+- tarija
+- tarija
+BR-AC:
+- acre
+- acre
+BR-AL:
+- alagoas
+- alagoas
+BR-AM:
+- amazonas
+- amazonas
+BR-AP:
+- amapÃ¡
+- amapá
+BR-BA:
+- bahia
+- bahia
+BR-CE:
+- cearÃ¡
+- ceará
+BR-DF:
+- distrito federal
+- distrito federal
+BR-ES:
+- espÃ­rito santo
+- espírito santo
+BR-GO:
+- goiÃ¡s
+- goiás
+BR-MA:
+- maranhÃ£o
+- maranhāo
+BR-MG:
+- minas gerais
+- minas gerais
+BR-MS:
+- mato grosso do sul
+- mato grosso do sul
+BR-MT:
+- mato grosso
+- mato grosso
+BR-PA:
+- parÃ¡
+- pará
+BR-PB:
+- paraÃ­ba
+- paraíba
+BR-PE:
+- pernambuco
+- pernambuco
+BR-PI:
+- piauÃ­
+- piauí
+BR-PR:
+- paranÃ¡
+- paraná
+BR-RJ:
+- rio de janeiro
+- rio de janeiro
+BR-RN:
+- rio grande do norte
+- rio grande do norte
+BR-RO:
+- rondÃ´nia
+BR-RR:
+- roraima
+- roraima
+BR-RS:
+- rio grande do sul
+- rio grande do sul
+BR-SC:
+- santa catarina
+- santa catarina
+BR-SE:
+- sergipe
+- sergipe
+BR-SP:
+- sÃ£o paulo
+- são paulo
+BR-TO:
+- tocantins
+- tocantins
+BS-AC:
+- acklins and crooked islands
+- acklins and crooked islands
+BS-BI:
+- bimini
+- bimini
+BS-CI:
+- cat island
+- cat island
+BS-EX:
+- exuma
+- exuma
+BS-FC:
+- fresh creek
+- fresh creek
+BS-FP:
+- freeport
+- freeport
+BS-GH:
+- governor's harbour
+- governor's harbour
+BS-GT:
+- green turtle cay
+- green turtle cay
+BS-HI:
+- harbour island
+- harbour island
+BS-HR:
+- high rock
+- high rock
+BS-IN:
+- inagua
+- inagua
+BS-KB:
+- kemps bay
+- kemps bay
+BS-LI:
+- long island
+- long island
+BS-MG:
+- mayaguana
+- mayaguana
+BS-MH:
+- marsh harbour
+- marsh harbour
+BS-NB:
+- nicholls town and berry islands
+- nicholls town and berry islands
+BS-NP:
+- new providence
+- new providence
+BS-RI:
+- ragged island
+- ragged island
+BS-RS:
+- rock sound
+- rock sound
+BS-SP:
+- sandy point
+- sandy point
+BS-SR:
+- san salvador and rum cay
+- san salvador and rum cay
+BT-11:
+- paro
+- paro
+BT-12:
+- chhukha
+- chhukha
+BT-13:
+- ha
+- ha
+BT-14:
+- samtse
+- samtse
+BT-15:
+- thimphu
+- thimphu
+BT-21:
+- tsirang
+- tsirang
+BT-22:
+- dagana
+- dagana
+BT-23:
+- punakha
+- punakha
+BT-24:
+- wangdue phodrang
+- wangdue phodrang
+BT-31:
+- sarpang
+- sarpang
+BT-32:
+- trongsa
+- trongsa
+BT-33:
+- bumthang
+- bumthang
+BT-34:
+- zhemgang
+- zhemgang
+BT-41:
+- trashigang
+- trashigang
+BT-42:
+- mongar
+- monggar
+BT-43:
+- pemagatshel
+- pemagatshel
+BT-44:
+- lhuntse
+- lhuentse
+BT-45:
+- samdrup jongkhar
+- samdrup jongkha
+BT-GA:
+- gasa
+- gasa
+BT-TY:
+- trashiyangtse
+- trashi yangtse
+BW-CE:
+- central
+- central
+BW-GH:
+- ghanzi
+- ghanzi
+BW-KG:
+- kgalagadi
+- kgalagadi
+BW-KL:
+- kgatleng
+- kgatleng
+BW-KW:
+- kweneng
+- kweneng
+BW-NE:
+- north-east
+- north-east
+BW-NW:
+- north-west
+BW-SE:
+- south-east
+- south-east
+BW-SO:
+- southern
+- southern
+BY-BR:
+- ! "Ð‘Ñ€ÐµÑ\x81Ñ‚Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- brest voblast
+- brestskaya voblasts'
+BY-HO:
+- ! "Ð“Ð¾Ð¼ÐµÐ»ÑŒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- homiel voblast
+- homyel'skaya voblasts’
+BY-HR:
+- ! "Ð“Ñ€Ð¾Ð´Ð½ÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- hrodna voblast
+- hrodnenskaya voblasts'
+BY-MA:
+- ! "ÐœÐ¾Ð³Ð¸Ð»Ñ‘Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- mahilyow voblast
+- mahilyowskaya voblasts'
+BY-MI:
+- ! "ÐœÐ¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- minsk voblast
+- minskaya voblasts'
+BY-VI:
+- ! "Ð’Ð¸Ñ‚ÐµÐ±Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- vitsebsk voblast
+- vitsyebskaya voblasts'
+BZ-BZ:
+- belize
+- belize
+BZ-CY:
+- cayo
+- cayo
+BZ-CZL:
+- corozal
+- corozal
+BZ-OW:
+- orange walk
+- orange walk
+BZ-SC:
+- stann creek
+- stann creek
+BZ-TOL:
+- toledo
+- toledo
+CA-AB:
+- alberta
+- alberta
+CA-BC:
+- british columbia
+- colombie britanique
+- british columbia
+CA-MB:
+- manitoba
+- manitoba
+CA-NB:
+- new brunswick
+- nouveau-brunswick
+- new brunswick
+CA-NL:
+- newfoundland & labrador
+- terre-neuve-et-labrador
+CA-NS:
+- nova scotia
+- nouvelle-Ã‰cosse
+- nova scotia
+CA-NT:
+- northwest territories
+- northwest territories
+CA-NU:
+- nunavut
+CA-ON:
+- ontario
+- ontario
+CA-PE:
+- prince edward island
+- ÃŽle-du-prince-Ã‰douard
+- printe edward island
+CA-QC:
+- quebec
+- quÃ©bec
+- quebec
+CA-SK:
+- saskatchewan
+- saskatchewan
+CA-YT:
+- yukon
+- yukon territory
+CD-BC:
+- bas-congo
+- bas-congo
+CD-BN:
+- bandundu
+- bandundu
+CD-EQ:
+- Ã‰quateur
+- Équateur
+CD-KA:
+- katanga
+- katanga
+CD-KE:
+- kasai-oriental
+- kasai-oriental
+CD-KN:
+- kinshasa
+- kinshasa
+CD-KW:
+- kasai-occidental
+- kasai-occidental
+CD-MA:
+- maniema
+- maniema
+CD-NK:
+- nord-kivu
+- nord-kivu
+CD-OR:
+- orientale
+CD-SK:
+- sud-kivu
+- sud-kivu
+CF-AC:
+- ouham
+- ouham
+CF-BB:
+- bamingui-bangoran
+- bamingui-bangoran
+CF-BGF:
+- bangui
+- bangui
+CF-BK:
+- basse-kotto
+- basse-kotto
+CF-HK:
+- haute-kotto
+- haute-kotto
+CF-HM:
+- haut-mbomou
+- haut-mbomou
+CF-HS:
+- mambÃ©rÃ©-kadÃ©Ã¯
+- mambéré-kadéï
+CF-KB:
+- nana-grÃ©bizi
+- nana-grébizi
+CF-KG:
+- kÃ©mo
+- kémo
+CF-LB:
+- lobaye
+- lobaye
+CF-MB:
+- mbomou
+- mbomou
+CF-MP:
+- ombella-mpoko
+- ombella-mpoko
+CF-NM:
+- nana-mambÃ©rÃ©
+- nana-mambéré
+CF-OP:
+- ouham-pendÃ©
+- ouham-pendé
+CF-SE:
+- sangha-mbaÃ©rÃ©
+- sangha-mbaéré
+CF-UK:
+- ouaka
+- ouaka
+CF-VK:
+- vakaga
+- vakaga
+CG-11:
+- bouenza
+- bouenza
+CG-12:
+- pool
+- pool
+CG-13:
+- sangha
+- sangha
+CG-14:
+- plateaux
+- plateaux
+CG-15:
+- cuvette-ouest
+- cuvette-ouest
+CG-2:
+- lÃ©koumou
+- lékoumou
+CG-5:
+- kouilou
+- kouilou
+CG-7:
+- likouala
+- likouala
+CG-8:
+- cuvette
+- cuvette
+CG-9:
+- niari
+- niari
+CG-BZV:
+- brazzaville
+- brazzaville
+CH-AG:
+- aargau
+- argovie
+- argovia
+- aargau
+CH-AI:
+- appenzell innerrhoden
+- appenzell rhodes-intÃ©rieures
+- appenzello interno
+- appenzell inner-rhoden
+CH-AR:
+- appenzell ausserrhoden
+- appenzell rhodes-extÃ©rieures
+- appenzello esterno
+- appenzell ausser-rhoden
+CH-BE:
+- bern
+- berne
+- berna
+- bern
+CH-BL:
+- basel-landschaft
+- bÃ¢le-campagne
+- basilea campagna
+- basel-landschaft
+CH-BS:
+- basel-stadt
+- bÃ¢le-ville
+- basilea cittÃ
+- basel-stadt
+CH-FR:
+- freiburg
+- fribourg
+- friburgo
+- freiburg
+CH-GE:
+- genf
+- genÃ¨ve
+- ginevra
+- geneve
+CH-GL:
+- glarus
+- glaris
+- glarona
+- glarus
+CH-GR:
+- graubÃ¼nden
+- grisons
+- grigioni
+- graubünden
+CH-JU:
+- jura
+- jura
+- giura
+- jura
+CH-LU:
+- luzern
+- lucerne
+- lucerna
+- luzern
+CH-NE:
+- neuenburg
+- neuchÃ¢tel
+- neuchÃ¢tel
+- neuchatel
+CH-NW:
+- nidwalden
+- nidwald
+- nidvaldo
+- nidwalden
+CH-OW:
+- obwalden
+- obwald
+- obvaldo
+- obwalden
+CH-SG:
+- sankt gallen
+- saint-gall
+- san gallo
+- sankt gallen
+CH-SH:
+- schaffhausen
+- schaffhouse
+- sciaffusa
+- schaffhausen
+CH-SO:
+- solothurn
+- soleure
+- soletta
+- solothurn
+CH-SZ:
+- schwyz
+- schwytz
+- svitto
+- schwyz
+CH-TG:
+- thurgau
+- thurgovie
+- turgovia
+- thurgau
+CH-TI:
+- ticino
+- tessin
+- ticino
+- ticino
+CH-UR:
+- uri
+- uri
+- uri
+- uri
+CH-VD:
+- waadt
+- vaud
+- vaud
+- vaud
+CH-VS:
+- wallis
+- valais
+- vallese
+- wallis
+CH-ZG:
+- zug
+- zug
+- zugo
+- zug
+CH-ZH:
+- zÃ¼rich
+- zurich
+- zurigo
+- zürich
+CI-01:
+- lagunes
+- lagunes
+CI-02:
+- haut-sassandra
+- haut-sassandra
+CI-03:
+- savanes
+- savanes
+CI-04:
+- vallÃ©e du bandama
+- vallée du bandama
+CI-05:
+- moyen-comoÃ©
+- moyen-comoé
+CI-06:
+- dix-huit montagnes
+- 18 montagnes
+CI-07:
+- lacs
+- lacs
+CI-08:
+- zanzan
+- zanzan
+CI-09:
+- bas-sassandra
+- bas-sassandra
+CI-10:
+- denguÃ©lÃ©
+- denguélé
+CI-11:
+- n'zi-comoÃ©
+- nzi-comoé
+CI-12:
+- marahouÃ©
+- marahoué
+CI-13:
+- sud-comoÃ©
+- sud-comoé
+CI-14:
+- worodougou
+- worodougou
+CI-15:
+- sud-bandama
+- sud-bandama
+CI-16:
+- agnÃ©by
+- agnébi
+CI-17:
+- bafing
+CI-18:
+- fromager
+CI-19:
+- moyen-cavally
+CL-AI:
+- aysen del general carlos ibÃ¡Ã±ez del campo
+- aisén del general carlos ibáñiez del campo
+CL-AN:
+- antofagasta
+- antofagasta
+CL-AP:
+- arica y parinacota
+CL-AR:
+- la araucanÃ­a
+- araucanía
+CL-AT:
+- atacama
+- atacama
+CL-BI:
+- bÃ­o-bÃ­o
+- bío-bío
+CL-CO:
+- coquimbo
+- coquimbo
+CL-LI:
+- libertador general bernardo o'higgins
+- libertador general bernardo o'higgins
+CL-LL:
+- los lagos
+- los lagos
+CL-LR:
+- los rÃ­os
+CL-MA:
+- magallanes y de la antÃ¡rtica chilena
+- magallanes
+CL-ML:
+- maule
+- maule
+CL-RM:
+- regiÃ³n metropolitana de santiago
+- regíon metropolitana de santiago
+CL-TA:
+- tarapacÃ¡
+- tarapacá
+CL-VS:
+- valparaÃ­so
+- valparaiso
+CM-AD:
+- adamaoua
+- adamaoua
+CM-CE:
+- centre
+- centre
+CM-EN:
+- extrÃªme-nord
+- far north
+CM-ES:
+- est
+- est
+CM-LT:
+- littoral
+- littoral
+CM-NO:
+- nord
+- north
+CM-NW:
+- nord-ouest
+- north-west
+CM-OU:
+- ouest
+- west
+CM-SU:
+- sud
+- south
+CM-SW:
+- sud-ouest
+- south-west
+CN-11:
+- beijing
+- åŒ—äº¬
+- beijing
+CN-12:
+- tianjin
+- å¤©æ´¥
+- tianjin
+CN-13:
+- hebei
+- æ²³åŒ—
+- hebei
+CN-14:
+- shanxi
+- å±±è¥¿
+- shanxi
+CN-15:
+- inner mongolia
+- ! "å†…è’™å\x8F¤"
+- nei monggol
+CN-21:
+- liaoning
+- ! "è¾½å®\x81"
+- liaoning
+CN-22:
+- jilin
+- ! "å\x90‰æž—"
+- jilin
+CN-23:
+- heilongjiang
+- é»‘é¾™æ±Ÿ
+- heilongjiang
+CN-31:
+- shanghai
+- ä¸Šæµ·
+- shanghai
+CN-32:
+- jiangsu
+- ! "æ±Ÿè‹\x8F"
+- jiangsu
+CN-33:
+- zhejiang
+- æµ™æ±Ÿ
+- zhejiang
+CN-34:
+- anhui
+- å®‰å¾½
+- anhui
+CN-35:
+- fujian
+- ! "ç¦\x8Få»º"
+- fujian
+CN-36:
+- jiangxi
+- æ±Ÿè¥¿
+- jiangxi
+CN-37:
+- shandong
+- å±±ä¸œ
+- shandong
+CN-41:
+- henan
+- ! "æ²³å\x8D—"
+- henan
+CN-42:
+- hubei
+- æ¹–åŒ—
+- hubei
+CN-43:
+- hunan
+- ! "æ¹–å\x8D—"
+- hunan
+CN-44:
+- guangdong
+- å¹¿ä¸œ
+- guangdong
+CN-45:
+- guangxi
+- å¹¿è¥¿
+- guangxi
+CN-46:
+- hainan
+- ! "æµ·å\x8D—"
+- hainan
+CN-50:
+- chongqing
+- ! "é‡\x8Dåº†"
+- chongqing
+CN-51:
+- sichuan
+- ! "å››å·\x9D"
+- sichuan
+CN-52:
+- guizhou
+- è´µå·ž
+- guizhou
+CN-53:
+- yunnan
+- ! "äº‘å\x8D—"
+- yunnan
+CN-54:
+- tibet
+- ! "è¥¿è—\x8F"
+- xizang
+CN-61:
+- shaanxi
+- é™•è¥¿
+- shaanxi
+CN-62:
+- gansu
+- ç”˜è‚ƒ
+- gansu
+CN-63:
+- qinghai
+- ! "é\x9D’æµ·"
+- qinghai
+CN-64:
+- ningxia
+- ! "å®\x81å¤\x8F"
+- ningxia
+CN-65:
+- xinjiang
+- æ–°ç–†
+- xinjiang
+CN-91:
+- hong kong
+- é¦™æ¸¯
+- hong kong
+CN-92:
+- macau
+- æ¾³é–€
+CO-AMA:
+- amazonas
+- amazonas
+CO-ANT:
+- antioquia
+- antioguia
+CO-ARA:
+- arauca
+- arauca
+CO-ATL:
+- atlÃ¡ntico
+- atlántico
+CO-BOL:
+- bolÃ­var
+- bolívar
+CO-BOY:
+- boyacÃ¡
+- boyacá
+CO-CAL:
+- caldas
+- caldas
+CO-CAQ:
+- caquetÃ¡
+- caquetá
+CO-CAS:
+- casanare
+- casanare
+CO-CAU:
+- cauca
+- cauca
+CO-CES:
+- cesar
+- cesar
+CO-CHO:
+- chocÃ³
+- chocó
+CO-COR:
+- cÃ³rdoba
+- córdoba
+CO-CUN:
+- cundinamarca
+- cundinamarca
+CO-DC:
+- bogotÃ¡ d.c.
+- distrito capital de bogota
+CO-GUA:
+- guainÃ­a
+- guainía
+CO-GUV:
+- guaviare
+- guaviare
+CO-HUI:
+- huila
+- huila
+CO-LAG:
+- la guajira
+- la guajira
+CO-MAG:
+- magdalena
+- magdalena
+CO-MET:
+- meta
+- meta
+CO-NAR:
+- nariÃ±o
+- nariño
+CO-NSA:
+- norte de santander
+- norte de santander
+CO-PUT:
+- putumayo
+- putumayo
+CO-QUI:
+- quindÃ­o
+- quindío
+CO-RIS:
+- risaralda
+- risaralda
+CO-SAN:
+- santander
+- santander
+CO-SAP:
+- archipiÃ©lago de san andrÃ©s
+- san andrés y providencia
+CO-SUC:
+- sucre
+- sucre
+CO-TOL:
+- tolima
+- tolima
+CO-VAC:
+- valle del cauca
+- valle del cauca
+CO-VAU:
+- vaupÃ©s
+- vaupés
+CO-VID:
+- vichada
+- vichada
+CR-A:
+- alajuela
+- alajuela
+CR-C:
+- cartago
+- cartago
+CR-G:
+- guanacaste
+- guanacaste
+CR-H:
+- heredia
+- heredia
+CR-L:
+- limÃ³n
+- limón
+CR-P:
+- puntarenas
+- puntarenas
+CR-SJ:
+- san josÃ©
+- san josé
+CU-01:
+- pinar del rÃ­o
+- pinar del río
+CU-02:
+- la habana
+- la habana
+CU-03:
+- ciudad de la habana
+- ciudad de la habana
+CU-04:
+- matanzas
+- matanzas
+CU-05:
+- villa clara
+- villa clara
+CU-06:
+- cienfuegos
+CU-07:
+- sancti spÃ­ritus
+- sancti spíritus
+CU-08:
+- ! "ciego de Ã\x81vila"
+CU-09:
+- camagÃ¼ey
+- camagüey
+CU-10:
+- las tunas
+- las tunas
+CU-11:
+- holguÃ­n
+- holguín
+CU-12:
+- granma
+- granma
+CU-13:
+- santiago de cuba
+- santiago de cuba
+CU-14:
+- guantÃ¡namo
+- guantánamo
+CU-99:
+- isla de la juventud
+- isla de la juventud
+CV-BR:
+- brava
+- brava
+CV-BV:
+- boa vista
+- boa vista
+CV-CA:
+- santa catarina
+- santa catarina
+CV-CF:
+- santa catarina do fogo
+CV-CM:
+- sÃ£o miguel
+CV-CR:
+- santa cruz
+- santa cruz
+CV-MA:
+- maio
+- maio
+CV-MO:
+- mosteiros
+CV-PA:
+- paÃºl
+- paul
+CV-PN:
+- porto novo
+- porto novo
+CV-PR:
+- praia
+- praia
+CV-RB:
+- ribeira brava
+CV-RG:
+- ribeira grande
+- ribeira grande
+CV-RS:
+- ribeira grande de santiago
+CV-SD:
+- sÃ£o domingos
+CV-SF:
+- sÃ£o filipe
+CV-SL:
+- sal
+- sÃ£o lourenÃ§o dos Ã“rgÃ£os
+- sal
+CV-SS:
+- sÃ£o salvador do mundo
+CV-SV:
+- sÃ£o vicente
+- sāo vicente
+CV-TA:
+- tarrafal
+- tarrafal
+CV-TS:
+- tarrafal de sÃ£o nicolau
+CY-01:
+- Î›ÎµÏ…ÎºÏ‰ÏƒÎ¯Î±
+- lefkosia
+- lefkosia
+CY-02:
+- Î›ÎµÎ¼ÎµÏƒÏŒÏ‚
+- lemesos
+- lemesos
+CY-03:
+- ! "Î›Î¬Ï\x81Î½Î±ÎºÎ±"
+- larnaka
+- larnaka
+CY-04:
+- Î‘Î¼Î¼ÏŒÏ‡Ï‰ÏƒÏ„Î¿Ï‚
+- ammochostos
+- ammochostos
+CY-05:
+- Î Î¬Ï†Î¿Ï‚
+- pafos
+- pafos
+CY-06:
+- ! "ÎšÎµÏ\x81Ï\x8DÎ½ÎµÎ¹Î±"
+- keryneia
+- keryneia
+CZ-JC:
+- ! "jihoÄ\x8DeskÃ½ kraj"
+CZ-JM:
+- jihomoravskÃ½ kraj
+CZ-KA:
+- karlovarskÃ½ kraj
+CZ-KR:
+- krÃ¡lovÃ©hradeckÃ½ kraj
+CZ-LI:
+- libereckÃ½ kraj
+CZ-MO:
+- moravskoslezskÃ½ kraj
+CZ-OL:
+- olomouckÃ½ kraj
+CZ-PA:
+- pardubickÃ½ kraj
+CZ-PL:
+- plzeÅˆskÃ½ kraj
+CZ-PR:
+- hlavnÃ­ mÄ›sto praha
+CZ-ST:
+- ! "stÅ™edoÄ\x8DeskÃ½ kraj"
+CZ-US:
+- ÃšsteckÃ½ kraj
+CZ-VY:
+- ! "vysoÄ\x8Dina"
+CZ-ZL:
+- zlÃ­nskÃ½ kraj
+DE-BB:
+- brandenburg
+- brandenburg
+DE-BE:
+- berlin
+- berlin
+DE-BW:
+- baden-wÃ¼rttemberg
+- baden-württemberg
+DE-BY:
+- bayern
+- bayern
+DE-HB:
+- bremen
+- bremen
+DE-HE:
+- hessen
+- hessen
+DE-HH:
+- hamburg
+- hamburg
+DE-MV:
+- mecklenburg-vorpommern
+- mecklenburg-vorpommern
+DE-NI:
+- niedersachsen
+- niedersachsen
+DE-NW:
+- nordrhein-westfalen
+- nordrhein-westfalen
+DE-RP:
+- rheinland-pfalz
+- rheinland-pfalz
+DE-SH:
+- schleswig-holstein
+- schleswig-holstein
+DE-SL:
+- saarland
+- saarland
+DE-SN:
+- sachsen
+- sachsen
+DE-ST:
+- sachsen-anhalt
+- sachsen-anhalt
+DE-TH:
+- thÃ¼ringen
+- thüringen
+DJ-AR:
+- arta
+DJ-AS:
+- ali sabieh
+- ali sabieh
+DJ-DI:
+- dikhil
+- dikhil
+DJ-DJ:
+- djibouti
+- djibouti
+DJ-OB:
+- obock
+- obock
+DJ-TA:
+- tadjourah
+- tadjoura
+DK-81:
+- nordjylland
+DK-82:
+- midtjylland
+DK-83:
+- syddanmark
+DK-84:
+- hovedstaden
+DK-85:
+- sjÃ¦lland
+DM-02:
+- saint andrew
+DM-03:
+- saint david
+DM-04:
+- saint george
+DM-05:
+- saint john
+DM-06:
+- saint joseph
+DM-07:
+- saint luke
+DM-08:
+- saint mark
+DM-09:
+- saint patrick
+DM-10:
+- saint paul
+DM-11:
+- saint peter
+DO-01:
+- distrito nacional (santo domingo)
+DO-02:
+- azua
+DO-03:
+- bahoruco
+DO-04:
+- barahona
+DO-05:
+- dajabÃ³n
+DO-06:
+- duarte
+DO-07:
+- elÃ­as piÃ±a
+DO-08:
+- el seibo
+DO-09:
+- espaillat
+DO-10:
+- independencia
+DO-11:
+- la altagracia
+DO-12:
+- la romana
+DO-13:
+- la vega
+DO-14:
+- marÃ­a trinidad sÃ¡nchez
+DO-15:
+- monte cristi
+DO-16:
+- pedernales
+DO-17:
+- peravia
+DO-18:
+- puerto plata
+DO-19:
+- hermanas mirabal
+DO-20:
+- samanÃ¡
+DO-21:
+- san cristÃ³bal
+DO-22:
+- san juan
+DO-23:
+- san pedro de macorÃ­s
+DO-24:
+- sÃ¡nchez ramÃ­rez
+DO-25:
+- santiago
+DO-26:
+- santiago rodrÃ­guez
+DO-27:
+- valverde
+DO-28:
+- monseÃ±or nouel
+DO-29:
+- monte plata
+DO-30:
+- hato mayor
+DO-31:
+- san josÃ© de ocoa
+DO-32:
+- santo domingo
+DZ-01:
+- adrar
+- adrar
+DZ-02:
+- chlef
+- chlef
+DZ-03:
+- laghouat
+- laghouat
+DZ-04:
+- oum-el-bouaghi
+- oum el bouaghi
+DZ-05:
+- batna
+- batna
+DZ-06:
+- bÃ©jaÃ¯a
+- béjaïa
+DZ-07:
+- biskra
+- biskra
+DZ-08:
+- bÃ©char
+- béchar
+DZ-09:
+- blida
+- blida
+DZ-10:
+- bouira
+- bouira
+DZ-11:
+- tamanrasset
+- tamanghasset
+DZ-12:
+- tÃ©bessa
+- tébessa
+DZ-13:
+- tlemcen
+- tlemcen
+DZ-14:
+- tiaret
+- tiaret
+DZ-15:
+- tizi-ouzou
+- tizi ouzou
+DZ-16:
+- alger
+- alger
+DZ-17:
+- djelfa
+- djelfa
+DZ-18:
+- jijel
+- jijel
+DZ-19:
+- sÃ©tif
+- sétif
+DZ-20:
+- saida
+- saïda
+DZ-21:
+- skikda
+- skikda
+DZ-22:
+- sidi-bel-abbÃ¨s
+- sidi bel abbès
+DZ-23:
+- annaba
+DZ-24:
+- guelma
+- guelma
+DZ-25:
+- constantine
+- constantine
+DZ-26:
+- mÃ©dÃ©a
+- médéa
+DZ-27:
+- mostaganem
+- mostaganem
+DZ-28:
+- m'sila
+- msila
+DZ-29:
+- mascara
+- mascara
+DZ-30:
+- ouargla
+- ouargla
+DZ-31:
+- oran
+- oran
+DZ-32:
+- el-bayadh
+- el bayadh
+DZ-33:
+- illizi
+- illizi
+DZ-34:
+- bordj-bou-arreridj
+- bordj bou arréridj
+DZ-35:
+- boumerdÃ¨s
+- boumerdès
+DZ-36:
+- el-taref
+- el tarf
+DZ-37:
+- tindouf
+- tindouf
+DZ-38:
+- tissemsilt
+- tissemsilt
+DZ-39:
+- el-oued
+- el oued
+DZ-40:
+- khenchela
+- khenchela
+DZ-41:
+- souk-ahras
+- souk ahras
+DZ-42:
+- tipaza
+- tipaza
+DZ-43:
+- mila
+- mila
+DZ-44:
+- aÃ¯n-defla
+- aïn defla
+DZ-45:
+- naÃ¢ma
+- naama
+DZ-46:
+- aÃ¯n-tÃ©mouchent
+- aïn témouchent
+DZ-47:
+- ghardaia
+- ghardaïa
+DZ-48:
+- relizane
+- relizane
+EC-A:
+- azuay
+- azuay
+EC-B:
+- bolÃ­var
+- bolívar
+EC-C:
+- carchi
+- carchi
+EC-D:
+- orellana
+EC-E:
+- esmeraldas
+- esmeraldas
+EC-F:
+- caÃ±ar
+- cañar
+EC-G:
+- guayas
+- guayas
+EC-H:
+- chimborazo
+- chimborazo
+EC-I:
+- imbabura
+- imbabura
+EC-L:
+- loja
+- loja
+EC-M:
+- manabÃ­
+- manabí
+EC-N:
+- napo
+- napo
+EC-O:
+- el oro
+- el oro
+EC-P:
+- pichincha
+- pichincha
+EC-R:
+- los rÃ­os
+- los ríos
+EC-S:
+- morona-santiago
+- morona-santiago
+EC-SD:
+- santo domingo de los tsÃ¡chilas
+EC-SE:
+- santa elena
+EC-T:
+- tungurahua
+- tungurahua
+EC-U:
+- sucumbÃ­os
+- sucumbíos
+EC-W:
+- galÃ¡pagos
+- galápagos
+EC-X:
+- cotopaxi
+- cotopaxi
+EC-Y:
+- pastaza
+- pastaza
+EC-Z:
+- zamora-chinchipe
+- zarnora-chinchipe
+EE-37:
+- harjumaa
+- harjumaa
+EE-39:
+- hiiumaa
+- hiiumaa
+EE-44:
+- ida-virumaa
+- ida-virumaa
+EE-49:
+- jÃµgevamaa
+- jōgevamaa
+EE-51:
+- jÃ¤rvamaa
+- järvamaa
+EE-57:
+- lÃ¤Ã¤nemaa
+- läänemaa
+EE-59:
+- lÃ¤Ã¤ne-virumaa
+- lääne-virumaa
+EE-65:
+- pÃµlvamaa
+- pōlvamaa
+EE-67:
+- pÃ¤rnumaa
+- pärnumaa
+EE-70:
+- raplamaa
+- raplamaa
+EE-74:
+- saaremaa
+- saaremaa
+EE-78:
+- tartumaa
+- tartumaa
+EE-82:
+- valgamaa
+- valgamaa
+EE-84:
+- viljandimaa
+- viljandimaa
+EE-86:
+- vÃµrumaa
+- vōrumaa
+EG-ALX:
+- alexandria
+- al iskandarīyah
+EG-ASN:
+- aswan
+- aswān
+EG-AST:
+- asyut
+- asyūţ
+EG-BA:
+- red sea
+- al baḩr al aḩmar
+EG-BH:
+- beheira
+- al buḩayrah
+EG-BNS:
+- beni suef
+- banī suwayf
+EG-C:
+- cairo
+- al qāhirah
+EG-DK:
+- dakahlia
+- ad daqahlīyah
+EG-DT:
+- damietta
+- dumyāţ
+EG-FYM:
+- faiyum
+- al fayyūm
+EG-GH:
+- gharbia
+- al gharbīyah
+EG-GZ:
+- giza
+- al jīzah
+EG-HU:
+- hulwan
+EG-IS:
+- ismailia
+- al ismā‘īlīyah
+EG-JS:
+- south sinai
+- janūb sīnā'
+EG-KB:
+- qalyubia
+- al qalyūbīyah
+EG-KFS:
+- kafr el-sheikh
+- kafr ash shaykh
+EG-KN:
+- qena
+- qinā
+EG-LX:
+- luxor
+EG-MN:
+- minya
+- al minyā
+EG-MNF:
+- monufia
+- al minūfīyah
+EG-MT:
+- matruh
+- maţrūḩ
+EG-PTS:
+- port said
+- būr sa‘īd
+EG-SHG:
+- sohag
+- sūhāj
+EG-SHR:
+- sharqia
+- ash sharqīyah
+EG-SIN:
+- north sinai
+- shamāl sīnā'
+EG-SU:
+- as sadis min uktubar
+EG-SUZ:
+- suez
+- as suways
+EG-WAD:
+- new valley
+- al wādī al jadīd
+EH-BOD:
+- boujdour
+EH-ESM:
+- es semara
+EH-LAA:
+- laayoune
+EH-OUD:
+- oued el dahab
+ER-AN:
+- anseba
+ER-DK:
+- southern red sea
+ER-DU:
+- southern
+ER-GB:
+- gash-barka
+ER-MA:
+- central
+ER-SK:
+- northern red sea
+ES-A:
+- alicante
+- alicante
+ES-AB:
+- albacete
+- albacete
+ES-AL:
+- almerÃ­a
+- almería
+ES-AV:
+- ! "Ã\x81vila"
+- Ávila
+ES-B:
+- barcelona
+- barcelona
+ES-BA:
+- badajoz
+- badajoz
+ES-BI:
+- vizcaya
+- vizcaya
+ES-BU:
+- burgos
+- burgos
+ES-C:
+- la coruÃ±a
+- la coruña
+ES-CA:
+- cÃ¡diz
+- cádiz
+ES-CC:
+- cÃ¡ceres
+- cáceres
+ES-CE:
+- ceuta
+ES-CO:
+- cÃ³rdoba
+- córdoba
+ES-CR:
+- ciudad real
+- ciudad real
+ES-CS:
+- castellÃ³n
+- castellón
+ES-CU:
+- cuenca
+- cuenca
+ES-GC:
+- las palmas
+- las palmas
+ES-GI:
+- girona
+ES-GR:
+- granada
+- granada
+ES-GU:
+- guadalajara
+- guadalajara
+ES-H:
+- huelva
+- huelva
+ES-HU:
+- huesca
+- huesca
+ES-J:
+- jaÃ©n
+- jaén
+ES-L:
+- lleida
+- lérida
+ES-LE:
+- leÃ³n
+- león
+ES-LO:
+- la rioja
+- la rioja
+ES-LU:
+- lugo
+- lugo
+ES-M:
+- madrid
+- madrid
+- comunidad de madrid
+ES-MA:
+- mÃ¡laga
+- málaga
+ES-ML:
+- melilla
+ES-MU:
+- murcia
+- murcia
+ES-NA:
+- navarra
+- navarra
+ES-O:
+- asturias
+- asturias
+- asturias
+ES-OR:
+- ourense
+- orense
+ES-P:
+- palencia
+- palencia
+ES-PM:
+- islas baleares
+- baleares
+- islas baleares
+ES-PO:
+- pontevedra
+- pontevedra
+ES-S:
+- cantabria
+- cantabria
+ES-SA:
+- salamanca
+- salamanca
+ES-SE:
+- sevilla
+- sevilla
+ES-SG:
+- segovia
+- segovia
+ES-SO:
+- soria
+- soria
+ES-SS:
+- guipÃºzcoa
+- guipúzcoa
+ES-T:
+- tarragona
+- tarragona
+ES-TE:
+- teruel
+- teruel
+ES-TF:
+- santa cruz de tenerife
+- santa cruz de tenerife
+ES-TO:
+- toledo
+- toledo
+ES-V:
+- valencia
+- valencia
+ES-VA:
+- valladolid
+- valladolid
+ES-VI:
+- ! "Ã\x81lava"
+- Álava
+ES-Z:
+- zaragoza
+- zaragoza
+ES-ZA:
+- zamora
+- zamora
+ET-AA:
+- addis ababa
+- addis ababa
+ET-AF:
+- afar
+- afar
+ET-AM:
+- amhara
+- amara
+ET-BE:
+- benishangul-gumuz
+- benshangul-gumaz
+ET-DD:
+- dire dawa
+ET-GA:
+- gambela
+- gambela peoples
+ET-HA:
+- harari
+- harari people
+ET-OR:
+- oromia
+- oromia
+ET-SN:
+- southern nations
+- southern nations
+- nationalities and peoples
+ET-SO:
+- somali
+- somali
+ET-TI:
+- tigray
+- tigrai
+FI-AL:
+- ahvenanmaan lÃ¤Ã¤ni
+- Ã…lands lÃ¤n
+- ahvenanmaan lääni
+FI-ES:
+- etelÃ¤-suomen lÃ¤Ã¤ni
+- sÃ¶dra finlands lÃ¤n
+- etelä-suomen lääni
+FI-IS:
+- itÃ¤-suomen lÃ¤Ã¤ni
+- Ã–stra finlands lÃ¤n
+- itä-suomen lääni
+FI-LL:
+- lapin lÃ¤Ã¤ni
+- lappland lÃ¤n
+- lapin lääni
+FI-LS:
+- lÃ¤nsi-suomen lÃ¤Ã¤ni
+- vÃ¤stra finlands lÃ¤n
+- länsi-suomen lääni
+FI-OL:
+- oulun lÃ¤Ã¤ni
+- uleÃ¥borgs lÃ¤n
+- oulun lääni
+FJ-C:
+- central
+- central
+FJ-E:
+- eastern
+- eastern
+FJ-N:
+- northern
+- northern
+FJ-R:
+- rotuma
+- rotuma
+FJ-W:
+- western
+- western
+FM-KSA:
+- kosrae
+- kosrae
+FM-PNI:
+- pohnpei
+- pohnpei
+FM-TRK:
+- chuuk
+- chuuk
+FM-YAP:
+- yap
+- yap
+FR-01:
+- ain
+- ain
+FR-02:
+- aisne
+- aisne
+FR-03:
+- allier
+- allier
+FR-04:
+- alpes-de-haute-provence
+- alpes-de-haute-provence
+FR-05:
+- hautes-alpes
+- hautes-alpes
+FR-06:
+- alpes-maritimes
+- alpes-maritimes
+FR-07:
+- ardÃ¨che
+- ardèche
+FR-08:
+- ardennes
+- ardennes
+FR-09:
+- ariÃ¨ge
+- ariège
+FR-10:
+- aube
+- aube
+FR-11:
+- aude
+- aude
+FR-12:
+- aveyron
+- aveyron
+FR-13:
+- bouches-du-rhÃ´ne
+- bauches-du-rhône
+FR-14:
+- calvados
+- calvados
+FR-15:
+- cantal
+- cantal
+FR-16:
+- charente
+- charente
+FR-17:
+- charente-maritime
+- charente-maritime
+FR-18:
+- cher
+- cher
+FR-19:
+- corrÃ¨ze
+- corrèze
+FR-21:
+- cÃ´te-d'or
+- côte-d'or
+FR-22:
+- cÃ´tes-d'armor
+- cotes-d'armor
+FR-23:
+- creuse
+- creuse
+FR-24:
+- dordogne
+- dordogne
+FR-25:
+- doubs
+- doubs
+FR-26:
+- drÃ´me
+- drôme
+FR-27:
+- eure
+- eure
+FR-28:
+- eure-et-loir
+- eure-et-loir
+FR-29:
+- finistÃ¨re
+- finistère
+FR-2A:
+- corse-du-sud
+- corse-du-sud
+FR-2B:
+- haute-corse
+- haute-corse
+FR-30:
+- gard
+- gard
+FR-31:
+- haute-garonne
+- haute-garonne
+FR-32:
+- gers
+- gers
+FR-33:
+- gironde
+- gironde
+FR-34:
+- hÃ©rault
+- hérault
+FR-35:
+- ille-et-vilaine
+- ille-et-vilaine
+FR-36:
+- indre
+- indre
+FR-37:
+- indre-et-loire
+- indre-et-loire
+FR-38:
+- isÃ¨re
+- isère
+FR-39:
+- jura
+- jura
+FR-40:
+- landes
+- landes
+FR-41:
+- loir-et-cher
+- loir-et-cher
+FR-42:
+- loire
+- loire
+FR-43:
+- haute-loire
+- haute-loire
+FR-44:
+- loire-atlantique
+- loire-atlantique
+FR-45:
+- loiret
+- loiret
+FR-46:
+- lot
+- lot
+FR-47:
+- lot-et-garonne
+- lot-et-garonne
+FR-48:
+- lozÃ¨re
+- lozère
+FR-49:
+- maine-et-loire
+- maine-et-loire
+FR-50:
+- manche
+- manche
+FR-51:
+- marne
+- marne
+FR-52:
+- haute-marne
+- haute-marne
+FR-53:
+- mayenne
+- mayenne
+FR-54:
+- meurthe-et-moselle
+- meurthe-et-moselle
+FR-55:
+- meuse
+- meuse
+FR-56:
+- morbihan
+- morbihan
+FR-57:
+- moselle
+- moselle
+FR-58:
+- niÃ¨vre
+- nièvre
+FR-59:
+- nord
+- nord
+FR-60:
+- oise
+- oise
+FR-61:
+- orne
+- orne
+FR-62:
+- pas-de-calais
+- pas-de-calais
+FR-63:
+- puy-de-dÃ´me
+- puy-de-dôme
+FR-64:
+- pyrÃ©nÃ©es-atlantiques
+- pyrénées-atlantiques
+FR-65:
+- hautes-pyrÃ©nÃ©es
+- hautes-pyrénées
+FR-66:
+- pyrÃ©nÃ©es-orientales
+- pyrénées-orientales
+FR-67:
+- bas-rhin
+- bas-rhin
+FR-68:
+- haut-rhin
+- haut-rhin
+FR-69:
+- rhÃ´ne
+- rhône
+FR-70:
+- haute-saÃ´ne
+- haute-saône
+FR-71:
+- saÃ´ne-et-loire
+- saône-et-loire
+FR-72:
+- sarthe
+- sarthe
+FR-73:
+- savoie
+- savoie
+FR-74:
+- haute-savoie
+- haute-savoie
+FR-75:
+- paris
+- paris
+FR-76:
+- seine-maritime
+- seine-maritime
+FR-77:
+- seine-et-marne
+- seine-et-marne
+FR-78:
+- yvelines
+- yvelines
+FR-79:
+- deux-sÃ¨vres
+- deux-sèvres
+FR-80:
+- somme
+- somme
+FR-81:
+- tarn
+- tarn
+FR-82:
+- tarn-et-garonne
+- tarn-et-garonne
+FR-83:
+- var
+- var
+FR-84:
+- vaucluse
+- vaucluse
+FR-85:
+- vendÃ©e
+- vendée
+FR-86:
+- vienne
+- vienne
+FR-87:
+- haute-vienne
+- haute-vienne
+FR-88:
+- vosges
+- vosges
+FR-89:
+- yonne
+- yonne
+FR-90:
+- territoire de belfort
+- territoire de belfort
+FR-91:
+- essonne
+- essonne
+FR-92:
+- hauts-de-seine
+- hauts-de-seine
+FR-93:
+- seine-saint-denis
+- seine-saint-denis
+FR-94:
+- val-de-marne
+- val-de-marne
+FR-95:
+- val-d'oise
+- val-d'oise
+FR-BL:
+- saint-barthÃ©lemy
+FR-GF:
+- guyane
+- guyane
+FR-GP:
+- guadeloupe
+- guadeloupe
+FR-MF:
+- saint-martin
+FR-MQ:
+- martinique
+- martinique
+FR-NC:
+- nouvelle-calÃ©donie
+- nouvelle-calédonie
+FR-PF:
+- polynÃ©sie franÃ§aise
+- polynésie française
+FR-PM:
+- saint-pierre et miquelon
+- saint-pierre-et-miquelon
+FR-RE:
+- la rÃ©union
+- réunion
+FR-TF:
+- terres australes et antarctiques
+- terres australes
+FR-WF:
+- wallis et futuna
+- wallis et futuna
+FR-YT:
+- mayotte
+- mayotte
+GA-1:
+- estuaire
+- estuaire
+GA-2:
+- haut-ogoouÃ©
+- haut-ogooué
+GA-3:
+- moyen-ogoouÃ©
+- moyen-ogooué
+GA-4:
+- ngouniÃ©
+- ngounié
+GA-5:
+- nyanga
+- nyanga
+GA-6:
+- ogoouÃ©-ivindo
+- ogooué-ivindo
+GA-7:
+- ogoouÃ©-lolo
+- ogooué-lolo
+GA-8:
+- ogoouÃ©-maritime
+- ogooué-maritime
+GA-9:
+- woleu-ntem
+- woleu-ntem
+GB-ABD:
+- aberdeenshire
+- aberdeenshire
+GB-ABE:
+- aberdeen city
+- aberdeen city
+GB-AGB:
+- argyll and bute
+- argyll and bute
+GB-AGY:
+- isle of anglesey
+- isle of anglesey
+GB-ANS:
+- angus
+- angus
+GB-ANT:
+- antrim
+- antrim
+GB-ARD:
+- ards
+- ards
+GB-ARM:
+- armagh
+- armagh
+GB-BAS:
+- bath and north east somerset
+- bath and north east somerset
+GB-BBD:
+- blackburn with darwen
+- blackburn with darwen
+GB-BDF:
+- bedford
+- bedfordshire
+GB-BDG:
+- barking and dagenham
+- barking and dagenham
+GB-BEN:
+- brent
+- brent
+GB-BEX:
+- bexley
+- bexley
+GB-BFS:
+- belfast city
+- belfast
+GB-BGE:
+- bridgend
+- bridgend
+GB-BGW:
+- blaenau gwent
+- blaenau gwent
+GB-BIR:
+- birmingham
+- birmingham
+GB-BKM:
+- buckinghamshire
+- buckinghamshire
+GB-BLA:
+- ballymena
+- ballymena
+GB-BLY:
+- ballymoney
+- ballymoney
+GB-BMH:
+- bournemouth
+- bournemouth
+GB-BNB:
+- banbridge
+- banbridge
+GB-BNE:
+- barnet
+- barnet
+GB-BNH:
+- the city of brighton and hove
+- brighton and hove
+GB-BNS:
+- barnsley
+- barnsley
+GB-BOL:
+- bolton
+- bolton
+GB-BPL:
+- blackpool
+- blackpool
+GB-BRC:
+- bracknell forest
+- bracknell forest
+GB-BRD:
+- bradford
+- bradford
+GB-BRY:
+- bromley
+- bromley
+GB-BST:
+- city of bristol
+- bristol city
+GB-BUR:
+- bury
+- bury
+GB-CAM:
+- cambridgeshire
+- cambridgeshire
+GB-CAY:
+- caerphilly
+- caerphilly
+GB-CBF:
+- central bedfordshire
+GB-CGN:
+- ceredigion
+- ceredigion
+GB-CGV:
+- craigavon
+- craigavon
+GB-CHE:
+- cheshire east
+GB-CHW:
+- cheshire west and chester
+GB-CKF:
+- carrickfergus
+- carrickfergus
+GB-CKT:
+- cookstown
+- cookstown
+GB-CLD:
+- calderdale
+- calderdale
+GB-CLK:
+- clackmannanshire
+- clackmannanshire
+GB-CLR:
+- coleraine
+- coleraine
+GB-CMA:
+- cumbria
+- cumbria
+GB-CMD:
+- camden
+- camden
+GB-CMN:
+- carmarthenshire
+- carmarthenshire
+GB-CON:
+- cornwall
+- cornwall
+GB-COV:
+- coventry
+- coventry
+GB-CRF:
+- cardiff
+- cardiff
+GB-CRY:
+- croydon
+- croydon
+GB-CSR:
+- castlereagh
+- castlereagh
+GB-CWY:
+- conwy
+- conwy
+GB-DAL:
+- darlington
+- darlington
+GB-DBY:
+- derbyshire
+- derbyshire
+GB-DEN:
+- denbighshire
+- denbighshire
+GB-DER:
+- city of derby
+- derby
+GB-DEV:
+- devon
+- devon
+GB-DGN:
+- dungannon and south tyrone
+- dungannon
+GB-DGY:
+- dumfries and galloway
+- dumfries and galloway
+GB-DNC:
+- doncaster
+- doncaster
+GB-DND:
+- dundee city
+- dundee city
+GB-DOR:
+- dorset
+- dorset
+GB-DOW:
+- down
+- down
+GB-DRY:
+- derry city
+- derry
+GB-DUD:
+- dudley
+- dudley
+GB-DUR:
+- durham
+- durharn
+GB-EAL:
+- ealing
+- ealing
+GB-EAY:
+- east ayrshire
+- east ayrshire
+GB-EDH:
+- city of edinburgh
+- edinburgh
+GB-EDU:
+- east dunbartonshire
+- east dunbartonshire
+GB-ELN:
+- east lothian
+- east lothian
+GB-ELS:
+- outer hebrides
+- eilean siar
+GB-ENF:
+- enfield
+- enfield
+GB-ERW:
+- east renfrewshire
+- east renfrewshire
+GB-ERY:
+- east riding of yorkshire
+- east riding of yorkshire
+GB-ESS:
+- essex
+- essex
+GB-ESX:
+- east sussex
+- east sussex
+GB-FAL:
+- falkirk
+- falkirk
+GB-FER:
+- fermanagh
+- fermanagh
+GB-FIF:
+- fife
+- fife
+GB-FLN:
+- flintshire
+- flintshire
+GB-GAT:
+- gateshead
+- gateshead
+GB-GLG:
+- glasgow city
+- glasgow city
+GB-GLS:
+- gloucestershire
+- gloucestershire
+GB-GRE:
+- greenwich
+- greenwich
+GB-GWN:
+- gwynedd
+- gwynedd
+GB-HAL:
+- halton
+- haiton
+GB-HAM:
+- hampshire
+- hampshire
+GB-HAV:
+- havering
+- havering
+GB-HCK:
+- hackney
+- hackney
+GB-HEF:
+- herefordshire
+- herefordshire
+GB-HIL:
+- hillingdon
+- hillingdon
+GB-HLD:
+- highland
+- highland
+GB-HMF:
+- hammersmith and fulham
+- hammersmith and fulham
+GB-HNS:
+- hounslow
+- hounslow
+GB-HPL:
+- hartlepool
+- hartlepool
+GB-HRT:
+- hertfordshire
+- hertfordshire
+GB-HRW:
+- harrow
+- harrow
+GB-HRY:
+- haringey
+- haringey
+GB-IOW:
+- isle of wight
+- isle of wight
+GB-ISL:
+- islington
+- islington
+GB-IVC:
+- inverclyde
+- inverclyde
+GB-KEC:
+- kensington and chelsea
+- kensington and chelsea
+GB-KEN:
+- kent
+- kent
+GB-KHL:
+- kingston upon hull
+- kingston upon hull
+GB-KIR:
+- kirklees
+- kirklees
+GB-KTT:
+- kingston upon thames
+- kingston upon thames
+GB-KWL:
+- knowsley
+- knowsley
+GB-LAN:
+- lancashire
+- lancashire
+GB-LBH:
+- lambeth
+- lambeth
+GB-LCE:
+- city of leicester
+- leitester
+GB-LDS:
+- leeds
+- leeds
+GB-LEC:
+- leicestershire
+- leicestershire
+GB-LEW:
+- lewisham
+- lewisham
+GB-LIN:
+- lincolnshire
+- lincolnshire
+GB-LIV:
+- liverpool
+- liverpool
+GB-LMV:
+- limavady
+- limavady
+GB-LND:
+- city of london
+- london
+GB-LRN:
+- larne
+- larne
+GB-LSB:
+- lisburn
+- lisburn
+GB-LUT:
+- luton
+- luton
+GB-MAN:
+- city of manchester
+- manchester
+GB-MDB:
+- middlesbrough
+- middlesbrough
+GB-MDW:
+- medway
+- medway
+GB-MFT:
+- magherafelt
+- magherafelt
+GB-MIK:
+- milton keynes
+- milton keynes
+GB-MLN:
+- midlothian
+- midlothian
+GB-MON:
+- monmouthshire
+- monmouthshire
+GB-MRT:
+- merton
+- merton
+GB-MRY:
+- moray
+- moray
+GB-MTY:
+- merthyr tydfil
+- merthyr tydfil
+GB-MYL:
+- moyle
+- moyle
+GB-NAY:
+- north ayrshire
+- north ayrshire
+GB-NBL:
+- northumberland
+- northumberland
+GB-NDN:
+- north down
+- north down
+GB-NEL:
+- north east lincolnshire
+- north east lincolnshire
+GB-NET:
+- newcastle upon tyne
+- newcastle upon tyne
+GB-NFK:
+- norfolk
+- norfolk
+GB-NGM:
+- city of nottingham
+- nottingham
+GB-NLK:
+- north lanarkshire
+- north lanarkshire
+GB-NLN:
+- north lincolnshire
+- north lincolnshire
+GB-NSM:
+- north somerset
+- north somerset
+GB-NTA:
+- newtownabbey
+- newtownabbey
+GB-NTH:
+- northamptonshire
+- northamptonshire
+GB-NTL:
+- neath port talbot
+- neath port talbot
+GB-NTT:
+- nottinghamshire
+- nottinghamshire
+GB-NTY:
+- north tyneside
+- north tyneside
+GB-NWM:
+- newham
+- newham
+GB-NWP:
+- newport
+- newport
+GB-NYK:
+- north yorkshire
+- north yorkshire
+GB-NYM:
+- newry and mourne
+- newry and mourne
+GB-OLD:
+- oldham
+- oldham
+GB-OMH:
+- omagh
+- omagh
+GB-ORK:
+- orkney islands
+- orkney islands
+GB-OXF:
+- oxfordshire
+- oxfordshire
+GB-PEM:
+- pembrokeshire
+- pembrokeshire
+GB-PKN:
+- perth and kinross
+- perth and kinross
+GB-PLY:
+- city of plymouth
+- plymouth
+GB-POL:
+- poole
+- poole
+GB-POR:
+- city of portsmouth
+- portsmouth
+GB-POW:
+- powys
+- powys
+GB-PTE:
+- city of peterborough
+- peterborough
+GB-RCC:
+- redcar and cleveland
+- redcar and cleveland
+GB-RCH:
+- rochdale
+- rochdale
+GB-RCT:
+- rhondda cynon taf
+- rhondda
+- cynon
+- taff
+GB-RDB:
+- redbridge
+- redbridge
+GB-RDG:
+- reading
+- reading
+GB-RFW:
+- renfrewshire
+- renfrewshire
+GB-RIC:
+- richmond upon thames
+- richmond upon thames
+GB-ROT:
+- rotherham
+- rotherharn
+GB-RUT:
+- rutland
+- rutland
+GB-SAW:
+- sandwell
+- sandweil
+GB-SAY:
+- south ayrshire
+- south ayrshire
+GB-SCB:
+- scottish borders
+- scottish borders
+GB-SFK:
+- suffolk
+- suffolk
+GB-SFT:
+- sefton
+- sefton
+GB-SGC:
+- south gloucestershire
+- south gloucestershire
+GB-SHF:
+- sheffield
+- sheffield
+GB-SHN:
+- st. helens
+- st. helens
+GB-SHR:
+- shropshire
+- shropshire
+GB-SKP:
+- stockport
+- stockport
+GB-SLF:
+- city of salford
+- salford
+GB-SLG:
+- slough
+- slough
+GB-SLK:
+- south lanarkshire
+- south lanarkshire
+GB-SND:
+- sunderland
+- sunderland
+GB-SOL:
+- solihull
+- solihull
+GB-SOM:
+- somerset
+- somerset
+GB-SOS:
+- southend-on-sea
+- southend-on-sea
+GB-SRY:
+- surrey
+- surrey
+GB-STB:
+- strabane
+- strabane
+GB-STE:
+- city of stoke-on-trent
+- stoke-on-trent
+GB-STG:
+- stirling
+- stirling
+GB-STH:
+- city of southampton
+- southampton
+GB-STN:
+- sutton
+- sutton
+GB-STS:
+- staffordshire
+- staffordshire
+GB-STT:
+- stockton-on-tees
+- stockton-on-tees
+GB-STY:
+- south tyneside
+- south tyneside
+GB-SWA:
+- swansea
+- swansea
+GB-SWD:
+- swindon
+- swindon
+GB-SWK:
+- southwark
+- southwark
+GB-TAM:
+- tameside
+- tameside
+GB-TFW:
+- telford and wrekin
+- telford and wrekin
+GB-THR:
+- thurrock
+- thurrock
+GB-TOB:
+- torbay
+- torbay
+GB-TOF:
+- torfaen
+- torfaen
+GB-TRF:
+- trafford
+- trafford
+GB-TWH:
+- tower hamlets
+- tower hamlets
+GB-VGL:
+- vale of glamorgan
+- vale of glamorgan
+GB-WAR:
+- warwickshire
+- warwickshire
+GB-WBK:
+- west berkshire
+- west berkshire
+GB-WDU:
+- west dunbartonshire
+- west dunbartonshire
+GB-WFT:
+- waltham forest
+- waltham forest
+GB-WGN:
+- wigan
+- wigan
+GB-WIL:
+- wiltshire
+- wiltshire
+GB-WKF:
+- wakefield
+- wakefield
+GB-WLL:
+- walsall
+- walsall
+GB-WLN:
+- west lothian
+- west lothian
+GB-WLV:
+- city of wolverhampton
+- wolverhampton
+GB-WND:
+- wandsworth
+- wandsworth
+GB-WNM:
+- windsor and maidenhead
+- windsor and maidenhead
+GB-WOK:
+- wokingham
+- wokingham
+GB-WOR:
+- worcestershire
+- worcestershire
+GB-WRL:
+- wirral
+- wirral
+GB-WRT:
+- warrington
+- warrington
+GB-WRX:
+- wrexham
+- wrexham
+GB-WSM:
+- city of westminster
+- westminster
+GB-WSX:
+- west sussex
+- west sussex
+GB-YOR:
+- york
+- york
+GB-ZET:
+- shetland islands
+- shetland islands
+GD-01:
+- saint andrew
+GD-02:
+- saint david
+GD-03:
+- saint george
+GD-04:
+- saint john
+GD-05:
+- saint mark
+GD-06:
+- saint patrick
+GD-10:
+- southern grenadine islands
+GE-AB:
+- abkhazia
+- abkhazia
+GE-AJ:
+- adjara
+- ajaria
+GE-GU:
+- guria
+GE-IM:
+- imereti
+GE-KA:
+- kakheti
+GE-KK:
+- kvemo kartli
+GE-MM:
+- mtskheta-mtianeti
+GE-RL:
+- racha-lechkhumi and kvemo svaneti
+GE-SJ:
+- samtskhe-javakheti
+GE-SK:
+- shida kartli
+GE-SZ:
+- samegrelo-zemo svaneti
+GE-TB:
+- tbilisi
+GH-AA:
+- greater accra
+- greater accra
+GH-AH:
+- ashanti
+- ashanti
+GH-BA:
+- brong-ahafo
+- brong-ahafo
+GH-CP:
+- central
+- central
+GH-EP:
+- eastern
+- eastern
+GH-NP:
+- northern
+- northern
+GH-TV:
+- volta
+- volta
+GH-UE:
+- upper east
+- upper east
+GH-UW:
+- upper west
+- upper west
+GH-WP:
+- western
+- western
+GL-KU:
+- kommune kujalleq
+GL-QA:
+- qaasuitsup kommunia
+GL-QE:
+- qeqqata kommunia
+GL-SM:
+- kommuneqarfik sermersooq
+GM-B:
+- banjul
+- banjul
+GM-L:
+- lower river
+- lower river
+GM-M:
+- maccarthy island
+- maccarthy island
+GM-N:
+- north bank
+- north bank
+GM-U:
+- upper river
+- upper river
+GM-W:
+- western
+- western
+GN-BE:
+- beyla
+- beyla
+GN-BF:
+- boffa
+- boffa
+GN-BK:
+- bokÃ©
+- boké
+GN-C:
+- conakry
+- conakry
+GN-CO:
+- coyah
+- coyah
+GN-DB:
+- dabola
+- dabola
+GN-DI:
+- dinguiraye
+- dinguiraye
+GN-DL:
+- dalaba
+- dalaba
+GN-DU:
+- dubrÃ©ka
+- dubréka
+GN-FA:
+- faranah
+- faranah
+GN-FO:
+- forÃ©cariah
+- forécariah
+GN-FR:
+- fria
+- fria
+GN-GA:
+- gaoual
+- gaoual
+GN-GU:
+- guÃ©kÃ©dou
+- guékédou
+GN-KA:
+- kankan
+- kankan
+GN-KB:
+- koubia
+- koubia
+GN-KD:
+- kindia
+- koundara
+- kindia
+GN-KE:
+- kÃ©rouanÃ©
+- kérouané
+GN-KN:
+- koundara
+GN-KO:
+- kouroussa
+- kouroussa
+GN-KS:
+- kissidougou
+- kissidougou
+GN-LA:
+- labÃ©
+- labé
+GN-LE:
+- lÃ©louma
+- lélouma
+GN-LO:
+- lola
+- lola
+GN-MC:
+- macenta
+- macenta
+GN-MD:
+- mandiana
+- mandiana
+GN-ML:
+- mali
+- mali
+GN-MM:
+- mamou
+- mamou
+GN-NZ:
+- nzÃ©rÃ©korÃ©
+- nzérékoré
+GN-PI:
+- pita
+- pita
+GN-SI:
+- siguiri
+- siguiri
+GN-TE:
+- tÃ©limÃ©lÃ©
+- télimélé
+GN-TO:
+- touguÃ©
+- tougué
+GN-YO:
+- yomou
+- yomou
+GQ-AN:
+- annobÃ³n
+- annobón
+GQ-BN:
+- bioko norte
+- bioko norte
+GQ-BS:
+- bioko sur
+- bioko sur
+GQ-C:
+- regiÃ³n continental
+- región continental
+GQ-CS:
+- centro sur
+- centro sur
+GQ-I:
+- regiÃ³n insular
+- región insular
+GQ-KN:
+- kie-ntem
+- kie-ntem
+GQ-LI:
+- litoral
+- litoral
+GQ-WN:
+- wele-nzÃ¡s
+- wele-nzás
+GR-01:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î‘Î¹Ï„Ï‰Î»Î¿Î±ÎºÎ±Ï\x81Î½Î±Î½Î¯Î±Ï‚"
+- aetolia-acarnania
+- aitolia-akarnania
+GR-03:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î’Î¿Î¹Ï‰Ï„Î¯Î±Ï‚"
+- boeotia
+- voiotia
+GR-04:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î•Ï\x8DÎ²Î¿Î¹Î±Ï‚"
+- euboea
+- evvoia
+GR-05:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î•Ï…Ï\x81Ï…Ï„Î±Î½Î¯Î±Ï‚"
+- evrytania
+- evrytania
+GR-06:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¦Î¸Î¹ÏŽÏ„Î¹Î´Î±Ï‚"
+- phthiotis
+- fthiotis
+GR-07:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¦Ï‰ÎºÎ¯Î´Î±Ï‚"
+- phocis
+- fokis
+GR-11:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î‘Ï\x81Î³Î¿Î»Î¯Î´Î±Ï‚"
+- argolis
+- argolis
+GR-12:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î‘Ï\x81ÎºÎ±Î´Î¯Î±Ï‚"
+- arcadia
+- arkadia
+GR-13:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î‘Ï‡Î±Î\x90Î±Ï‚"
+- achaea
+- achaïa
+GR-14:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î—Î»ÎµÎ¯Î±Ï‚"
+- ilia
+- ileia
+GR-15:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ¿Ï\x81Î¹Î½Î¸Î¯Î±Ï‚"
+- corinthia
+- korinthia
+GR-16:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î›Î±ÎºÏ‰Î½Î¯Î±Ï‚"
+- laconia
+- lakonia
+GR-17:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎœÎµÏƒÏƒÎ·Î½Î¯Î±Ï‚"
+- messinia
+- messinia
+GR-21:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î–Î±ÎºÏ\x8DÎ½Î¸Î¿Ï…"
+- zakynthos
+- zakynthos
+GR-22:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ­Ï\x81ÎºÏ…Ï\x81Î±Ï‚"
+- corfu
+- kerkyra
+GR-23:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎµÏ†Î±Î»Î»Î·Î½Î¯Î±Ï‚"
+- kefalonia and ithaca
+- kefallinia
+GR-24:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î›ÎµÏ…ÎºÎ¬Î´Î±Ï‚"
+- lefkada
+- lefkas
+GR-31:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î†Ï\x81Ï„Î±Ï‚"
+- arta
+- arta
+GR-32:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î˜ÎµÏƒÏ€Ï\x81Ï‰Ï„Î¯Î±Ï‚"
+- thesprotia
+- thesprotia
+GR-33:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î™Ï‰Î±Î½Î½Î¯Î½Ï‰Î½"
+- ioannina
+- ioannina
+GR-34:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î Ï\x81Î­Î²ÎµÎ¶Î±Ï‚"
+- preveza
+- preveza
+GR-41:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ±Ï\x81Î´Î¯Ï„ÏƒÎ±Ï‚"
+- karditsa
+- karditsa
+GR-42:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î›Î¬Ï\x81Î¹ÏƒÎ±Ï‚"
+- larissa
+- larisa
+GR-43:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎœÎ±Î³Î½Î·ÏƒÎ¯Î±Ï‚"
+- magnesia
+- magnisia
+GR-44:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¤Ï\x81Î¹ÎºÎ¬Î»Ï‰Î½"
+- trikala
+- trikala
+GR-51:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î“Ï\x81ÎµÎ²ÎµÎ½ÏŽÎ½"
+- grevena
+- grevena
+GR-52:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î”Ï\x81Î¬Î¼Î±Ï‚"
+- drama
+- drama
+GR-53:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î—Î¼Î±Î¸Î¯Î±Ï‚"
+- imathia
+- imathia
+GR-54:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î˜ÎµÏƒÏƒÎ±Î»Î¿Î½Î¯ÎºÎ·Ï‚"
+- thessaloniki
+- thessaloniki
+GR-55:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ±Î²Î¬Î»Î±Ï‚"
+- kavala
+- kavalla
+GR-56:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ±ÏƒÏ„Î¿Ï\x81Î¹Î¬Ï‚"
+- kastoria
+- kastoria
+GR-57:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ¹Î»ÎºÎ¯Ï‚"
+- kilkis
+- kilkis
+GR-58:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÎ¿Î¶Î¬Î½Î·Ï‚"
+- kozani
+- kozani
+GR-59:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î Î­Î»Î»Î±Ï‚"
+- pella
+- pella
+GR-61:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î Î¹ÎµÏ\x81Î¯Î±Ï‚"
+- pieria
+- pieria
+GR-62:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î£ÎµÏ\x81Ï\x81ÏŽÎ½"
+- serres
+- serrai
+GR-63:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¦Î»ÏŽÏ\x81Î¹Î½Î±Ï‚"
+- florina
+- florina
+GR-64:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î§Î±Î»ÎºÎ¹Î´Î¹ÎºÎ®Ï‚"
+- chalkidiki
+- chalkidiki
+GR-69:
+- ! "Î\x9DÎ¿Î¼Î±Ï\x81Ï‡Î¯Î± Î ÎµÎ¹Ï\x81Î±Î¹Î¬"
+- piraeus
+GR-71:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎˆÎ²Ï\x81Î¿Ï…"
+- evros
+- evros
+GR-72:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎžÎ¬Î½Î¸Î·Ï‚"
+- xanthi
+- xanthi
+GR-73:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¡Î¿Î´ÏŒÏ€Î·Ï‚"
+- rhodope
+- rodopi
+GR-81:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î”Ï‰Î´ÎµÎºÎ±Î½Î®ÏƒÎ¿Ï…"
+- dodecanese
+- dodekanisos
+GR-82:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ ÎšÏ…ÎºÎ»Î¬Î´Ï‰Î½"
+- cyclades
+- kyklades
+GR-83:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î›Î­ÏƒÎ²Î¿Ï…"
+- lesbos
+- lesvos
+GR-84:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î£Î¬Î¼Î¿Ï…"
+- samos
+- samos
+GR-85:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î§Î¯Î¿Ï…"
+- chios
+- chios
+GR-91:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î—Ï\x81Î±ÎºÎ»ÎµÎ¯Î¿Ï…"
+- heraklion
+- irakleion
+GR-92:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î›Î±ÏƒÎ¹Î¸Î¯Î¿Ï…"
+- lasithi
+- lasithion
+GR-93:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î¡ÎµÎ¸Ï\x8DÎ¼Î½Î¿Ï…"
+- rethymno
+- rethymnon
+GR-94:
+- ! "Î\x9DÎ¿Î¼ÏŒÏ‚ Î§Î±Î½Î¯Ï‰Î½"
+- chania
+- chania
+GR-A1:
+- ! "Î\x9DÎ¿Î¼Î±Ï\x81Ï‡Î¯Î± Î”Ï…Ï„Î¹ÎºÎ®Ï‚ Î‘Ï„Ï„Î¹ÎºÎ®Ï‚"
+- west attica
+- ! "Î\x9DÎ¿Î¼Î±Ï\x81Ï‡Î¯Î± Î‘Î½Î±Ï„Î¿Î»Î¹ÎºÎ®Ï‚ Î‘Ï„Ï„Î¹ÎºÎ®Ï‚"
+- east attica
+- ! "Î\x9DÎ¿Î¼Î±Ï\x81Ï‡Î¯Î± Î‘Î¸Î·Î½ÏŽÎ½"
+- athens
+- attiki
+GT-AV:
+- alta verapaz
+- alta verapaz
+GT-BV:
+- baja verapaz
+- baja verapaz
+GT-CM:
+- chimaltenango
+- chimaltenango
+GT-CQ:
+- chiquimula
+- chiquimula
+GT-ES:
+- escuintla
+- escuintla
+GT-GU:
+- guatemala
+- guatemala
+GT-HU:
+- huehuetenango
+- huehuetenango
+GT-IZ:
+- izabal
+- izabal
+GT-JA:
+- jalapa
+- jalapa
+GT-JU:
+- jutiapa
+- jutiapa
+GT-PE:
+- petÃ©n
+- petén
+GT-PR:
+- el progreso
+- el progreso
+GT-QC:
+- quichÃ©
+- quiché
+GT-QZ:
+- quetzaltenango
+- quezaltenango
+GT-RE:
+- retalhuleu
+- retalhuleu
+GT-SA:
+- sacatepÃ©quez
+- sacatepéquez
+GT-SM:
+- san marcos
+- san marcos
+GT-SO:
+- sololÃ¡
+- sololá
+GT-SR:
+- santa rosa
+- santa rosa
+GT-SU:
+- suchitepÃ©quez
+- suchitepéquez
+GT-TO:
+- totonicapÃ¡n
+- totonicapán
+GT-ZA:
+- zacapa
+- zacapa
+GW-BA:
+- bafatÃ¡
+- bafatá
+GW-BL:
+- bolama
+- bolama
+GW-BM:
+- biombo
+- biombo
+GW-BS:
+- bissau
+- bissau
+GW-CA:
+- cacheu
+- cacheu
+GW-GA:
+- gabÃº
+- gabú
+GW-OI:
+- oio
+- oio
+GW-QU:
+- quinara
+- quinara
+GW-TO:
+- tombali
+GY-BA:
+- barima-waini
+- barima-waini
+GY-CU:
+- cuyuni-mazaruni
+- cuyuni-mazaruni
+GY-DE:
+- demerara-mahaica
+- demerara-mahaica
+GY-EB:
+- east berbice-corentyne
+- east berbice-corentyne
+GY-ES:
+- essequibo islands-west demerara
+- essequibo islands-west demerara
+GY-MA:
+- mahaica-berbice
+- mahaica-berbice
+GY-PM:
+- pomeroon-supenaam
+- pomeroon-supenaam
+GY-PT:
+- potaro-siparuni
+- potaro-siparuni
+GY-UD:
+- upper demerara-berbice
+- upper demerara-berbice
+GY-UT:
+- upper takutu-upper essequibo
+- upper takutu-upper essequibo
+HN-AT:
+- atlÃ¡ntida
+- atlántida
+HN-CH:
+- choluteca
+- choluteca
+HN-CL:
+- colÃ³n
+- colón
+HN-CM:
+- comayagua
+- comayagua
+HN-CP:
+- copÃ¡n
+- copán
+HN-CR:
+- cortÃ©s
+- cortés
+HN-EP:
+- el paraÃ­so
+- el paraíso
+HN-FM:
+- francisco morazÃ¡n
+- francisco morazán
+HN-GD:
+- gracias a dios
+- gracias a dios
+HN-IB:
+- islas de la bahÃ­a
+- islas de la bahía
+HN-IN:
+- intibucÃ¡
+- intibucá
+HN-LE:
+- lempira
+- lempira
+HN-LP:
+- la paz
+- la paz
+HN-OC:
+- ocotepeque
+- ocotepeque
+HN-OL:
+- olancho
+- olancho
+HN-SB:
+- santa bÃ¡rbara
+- santa bárbara
+HN-VA:
+- valle
+- valle
+HN-YO:
+- yoro
+- yoro
+HR-01:
+- ! "zagrebaÄ\x8Dka"
+- zagrebačka
+HR-02:
+- krapinsko-zagorska
+- krapinsko-zagorska
+HR-03:
+- ! "sisaÄ\x8Dko-moslavaÄ\x8Dka"
+- sisaško-moslavačka
+HR-04:
+- ! "karlovaÄ\x8Dka"
+- karlovačka
+HR-05:
+- varaÅ¾dinska
+- varaždinska
+HR-06:
+- ! "koprivniÄ\x8Dko-kriÅ¾evaÄ\x8Dka"
+- koprivničkco-križevačka
+HR-07:
+- bjelovarsko-bilogorska
+- bjelovarsko-bilogorska
+HR-08:
+- primorsko-goranska
+- primorsko-goranska
+HR-09:
+- ! "liÄ\x8Dko-senjska"
+- ličko-senjska
+HR-10:
+- ! "virovitiÄ\x8Dko-podravska"
+- virovitičko-podravska
+HR-11:
+- poÅ¾eÅ¡ko-slavonska
+- požeško-slavonska
+HR-12:
+- brodsko-posavska
+- brodsko-posavska
+HR-13:
+- zadarska
+- zadarska
+HR-14:
+- ! "osjeÄ\x8Dko-baranjska"
+- osječko-baranjska
+HR-15:
+- Å ibensko-kninska
+- Šibensko-kninska
+HR-16:
+- vukovarsko-srijemska
+- vukovarsko-srijemska
+HR-17:
+- splitsko-dalmatinska
+- splitsko-dalmatinska
+HR-18:
+- istarska
+- istarska
+HR-19:
+- ! "dubrovaÄ\x8Dko-neretvanska"
+- dubrovačko-neretvanska
+HR-20:
+- meÄ‘imurska
+- medjimurska
+HR-21:
+- grad zagreb
+HT-AR:
+- artibonite
+- artibonite
+HT-CE:
+- centre
+- centre
+HT-GA:
+- grand'anse
+- grande-anse
+HT-ND:
+- nord
+- nord
+HT-NE:
+- nord-est
+- nord-est
+HT-NI:
+- nippes
+HT-NO:
+- nord-ouest
+- nord-ouest
+HT-OU:
+- ouest
+- ouest
+HT-SD:
+- sud
+- sud
+HT-SE:
+- sud-est
+- sud-est
+HU-BA:
+- baranya
+- baranya
+HU-BC:
+- bÃ©kÃ©scsabai
+- békéscsaba
+HU-BE:
+- bÃ©kÃ©s
+- békés
+HU-BK:
+- bÃ¡cs-kiskun
+- bács-kiskun
+HU-BU:
+- budapesti
+- budapest
+HU-BZ:
+- borsod-abaÃºj-zemplÃ©n
+- borsod-abaúj-zemplén
+HU-CS:
+- csongrÃ¡d
+- csongrád
+HU-DE:
+- debreceni
+- debrecen
+HU-DU:
+- dunaÃºjvÃ¡rosi
+- dunaújváros
+HU-EG:
+- egri
+- eger
+HU-ER:
+- budaÃ¶rsi
+HU-FE:
+- fejÃ©r
+- fejér
+HU-GS:
+- gyÅ‘r-moson-sopron
+- gyór-moson-sopron
+HU-GY:
+- gyÅ‘ri
+- gyór
+HU-HB:
+- hajdÃº-bihar
+- hajdú-bihar
+HU-HE:
+- heves
+- heves
+HU-HV:
+- hÃ³dmezÅ‘vÃ¡sÃ¡rhelyi
+- hódmezóvásárhely
+HU-JN:
+- jÃ¡sz-nagykun-szolnok
+- jasz-nagykun-szolnok
+HU-KE:
+- komÃ¡rom-esztergom
+- komárom-esztergom
+HU-KM:
+- kecskemÃ©ti
+- kecskemét
+HU-KV:
+- kaposvÃ¡ri
+- kaposvár
+HU-MI:
+- miskolci
+- miskolc
+HU-NK:
+- nagykanizsai
+- nagykanizsa
+HU-NO:
+- nÃ³grÃ¡d
+- nógrád
+HU-NY:
+- nyÃ­regyhÃ¡zai
+- nyíregyháza
+HU-PE:
+- pest
+- pest
+HU-PS:
+- pÃ©csi
+- pécs
+HU-SD:
+- szegedi
+- szeged
+HU-SF:
+- szÃ©kesfehÃ©rvÃ¡ri
+- székesfehérvár
+HU-SH:
+- szombathelyi
+- szombathely
+HU-SK:
+- szolnoki
+- szolnok
+HU-SN:
+- sopron-fertÅ‘di
+- sopron
+HU-SO:
+- somogy
+- somogy
+HU-SS:
+- szekszÃ¡rdi
+- szekszárd
+HU-ST:
+- salgÃ³tarjÃ¡ni
+- salgótarján
+HU-SZ:
+- szabolcs-szatmÃ¡r-bereg
+- szabolcs-szatmár-bereg
+HU-TB:
+- tatabÃ¡nyai
+- tatabánya
+HU-TO:
+- tolna
+- tolna
+HU-VA:
+- vas
+- vas
+HU-VE:
+- veszprÃ©m
+- veszprém
+HU-VM:
+- veszprÃ©mi
+- veszprém
+HU-ZA:
+- zala
+- zala
+HU-ZE:
+- zalaegerszegi
+- zalaegerszeg
+ID-AC:
+- aceh
+- d.i aceh
+ID-BA:
+- bali
+- bali
+ID-BB:
+- bangka-belitung
+- kepulauan bangka-belitung
+ID-BE:
+- bengkulu
+- bengkulu
+ID-BT:
+- banten
+- banten
+ID-GO:
+- gorontalo
+- gorontalo
+ID-JA:
+- jambi
+- jambi
+ID-JB:
+- west java
+- jawa barat
+ID-JI:
+- east java
+- jawa timur
+ID-JK:
+- jakarta
+- d.k.i jakarta
+- dki jakarta
+ID-JT:
+- central java
+- jawa tengah
+ID-KB:
+- west kalimantan
+- kalimantan barat
+ID-KI:
+- east kalimantan
+- kalimantan timur
+- kalimantan utara
+ID-KR:
+- riau islands
+- kepulauan riau
+ID-KS:
+- south kalimantan
+- kalimantan selatan
+ID-KT:
+- central kalimantan
+- kalimantan tengah
+ID-LA:
+- lampung
+- lampung
+ID-MA:
+- maluku
+- maluku
+ID-MU:
+- north maluku
+- maluku utara
+ID-NB:
+- west nusa tenggara
+- nusa tenggara barat
+ID-NT:
+- east nusa tenggara
+- nusa tenggara timur
+ID-PA:
+- papua
+- papua
+ID-PB:
+- west papua
+- papua barat
+ID-RI:
+- riau
+- riau
+ID-SA:
+- north sulawesi
+- sulawesi utara
+ID-SB:
+- west sumatra
+- sumatera barat
+ID-SG:
+- south east sulawesi
+- sulawesi tenggara
+ID-SN:
+- south sulawesi
+- sulawesi selatan
+ID-SR:
+- west sulawesi
+- sulawesi barat
+ID-SS:
+- south sumatra
+- sumatera selatan
+ID-ST:
+- central sulawesi
+- sulawesi tengah
+ID-SU:
+- north sumatra
+- sumatera utara
+ID-YO:
+- yogyakarta
+- d.i yogyakarta
+- di yogyakarta
+IE-C:
+- cork
+IE-CE:
+- clare
+IE-CN:
+- cavan
+- cavan
+IE-CW:
+- carlow
+- carlow
+IE-D:
+- dublin
+- dublin
+IE-DL:
+- donegal
+- donegal
+IE-G:
+- galway
+- galway
+IE-KE:
+- kildare
+- kildare
+IE-KK:
+- kilkenny
+- kilkenny
+IE-KY:
+- kerry
+IE-LD:
+- longford
+- longford
+IE-LH:
+- louth
+- louth
+IE-LK:
+- limerick
+IE-LM:
+- leitrim
+- leitrim
+IE-LS:
+- laois
+- laois
+IE-MH:
+- meath
+- meath
+IE-MN:
+- monaghan
+- monaghan
+IE-MO:
+- mayo
+- mayo
+IE-OY:
+- offaly
+- offaly
+IE-RN:
+- roscommon
+- roscommon
+IE-SO:
+- sligo
+- sligo
+IE-TA:
+- tipperary
+IE-WD:
+- waterford
+IE-WH:
+- westmeath
+- westmeath
+IE-WW:
+- wicklow
+- wicklow
+IE-WX:
+- wexford
+- wexford
+IL-D:
+- ! "×ž×—×•×– ×”×“×¨×•×\x9D"
+- south
+- hadarom
+IL-HA:
+- ×ž×—×•×– ×—×™×¤×”
+- haifa
+- hefa
+IL-JM:
+- ! "×ž×—×•×– ×™×¨×•×©×œ×™×\x9D"
+- jerusalem
+- yerushalayim
+IL-M:
+- ×ž×—×•×– ×”×ž×¨×›×–
+- center
+- hamerkaz
+IL-TA:
+- ! "×ž×—×•×– ×ª×œ ×\x90×‘×™×‘"
+- tel aviv
+- tel-aviv
+IL-Z:
+- ×ž×—×•×– ×”×¦×¤×•×Ÿ
+- north
+IN-AN:
+- andaman and nicobar islands
+- andaman and nicobar islands
+IN-AP:
+- andhra pradesh
+- andhra pradesh
+IN-AR:
+- arunachal pradesh
+- arunachal pradesh
+IN-AS:
+- assam
+- assam
+IN-BR:
+- bihar
+- bihar
+IN-CH:
+- chandigarh
+- chandigarh
+IN-CT:
+- chhattisgarh
+IN-DD:
+- daman and diu
+- daman and diu
+IN-DL:
+- delhi
+- delhi
+IN-DN:
+- dadra and nagar haveli
+- dadra and nagar haveli
+IN-GA:
+- goa
+- goa
+IN-GJ:
+- gujarat
+- gujarat
+IN-HP:
+- himachal pradesh
+- himachal pradesh
+IN-HR:
+- haryana
+- haryana
+IN-JH:
+- jharkhand
+IN-JK:
+- jammu and kashmir
+- jammu and kashmir
+IN-KA:
+- karnataka
+- karnataka
+IN-KL:
+- kerala
+- kerala
+IN-LD:
+- lakshadweep
+- lakshadweep
+IN-MH:
+- maharashtra
+- maharashtra
+IN-ML:
+- meghalaya
+- meghalaya
+IN-MN:
+- manipur
+- manipur
+IN-MP:
+- madhya pradesh
+- madhya pradesh
+IN-MZ:
+- mizoram
+- mizoram
+IN-NL:
+- nagaland
+- nagaland
+IN-OR:
+- orissa
+- orissa
+IN-PB:
+- punjab
+- punjab
+IN-PY:
+- puducherry
+- pondicherry
+IN-RJ:
+- rajasthan
+- rajasthan
+IN-SK:
+- sikkim
+- sikkim
+IN-TN:
+- tamil nadu
+- tamil nadu
+IN-TR:
+- tripura
+- tripura
+IN-UL:
+- uttarakhand
+IN-UP:
+- uttar pradesh
+- uttar pradesh
+IN-WB:
+- west bengal
+- west bengal
+IQ-AN:
+- al anbar
+- Ø§Ù„Ø£Ù†Ø¨Ø§Ø±
+- al anbār
+IQ-AR:
+- arbil
+- Ø£Ø±Ø¨ÙŠÙ„
+- arbīl
+IQ-BA:
+- al basrah
+- Ø§Ù„Ø¨ØµØ±Ø©
+- al başrah
+IQ-BB:
+- babil
+- Ø¨Ø§Ø¨Ù„
+- bābil
+IQ-BG:
+- baghdad
+- Ø¨ØºØ¯Ø§Ø¯
+- baghdād
+IQ-DA:
+- dahouk
+- Ø¯Ù‡ÙˆÙƒ
+- dahūk
+IQ-DI:
+- deyala
+- Ø¯ÙŠØ§Ù„Ù‰
+- diyālá
+IQ-DQ:
+- thi qar
+- Ø°ÙŠ Ù‚Ø§Ø±
+- dhī qār
+IQ-KA:
+- karbala
+- ÙƒØ±Ø¨Ù„Ø§Ø¡
+- karbalā'
+IQ-MA:
+- maysan
+- Ù…ÙŠØ³Ø§Ù†
+- maysān
+IQ-MU:
+- al muthanna
+- Ø§Ù„Ù…Ø«Ù†Ù‰
+- al muthanná
+IQ-NA:
+- al najaf
+- ! "Ø§Ù„Ù†Ø¬Ù\x81"
+- an najaf
+IQ-NI:
+- mousl (nainawa)
+- (Ù†ÙŠÙ†ÙˆÙ‰) Ø§Ù„Ù…ÙˆØµÙ„
+- nīnawá
+IQ-QA:
+- al quadisiya
+- Ø§Ù„Ù‚Ø§Ø¯Ø³ÙŠØ©
+- al qādisīyah
+IQ-SD:
+- salah al deen
+- ØµÙ„Ø§Ø­ Ø§Ù„Ø¯ÙŠÙ†
+- Şalāḩ ad dīn
+IQ-SU:
+- al sulaymaniah
+- Ø§Ù„Ø³Ù„ÙŠÙ…Ø§Ù†ÙŠØ©
+- as sulaymānīyah
+IQ-TS:
+- al ta'amim
+- Ø§Ù„ØªØ§Ù…ÙŠÙ…
+- at ta'mīm
+IQ-WA:
+- wasit
+- ÙˆØ§Ø³Ø·
+- wāsiţ
+IR-01:
+- east azarbaijan
+- Āzarbāyjān-e-sharqī
+IR-02:
+- west azarbaijan
+- Āzarbāyjān-e-gharbī
+IR-03:
+- ardabil
+- ardabīl
+IR-04:
+- isfahan
+- eşfahān
+IR-05:
+- ilam
+- Īlām
+IR-06:
+- bushehr
+- būshehr
+IR-07:
+- tehran
+- tehrān
+IR-08:
+- chahar mahaal and bakhtiari
+- chahār maḩāll vā bakhtīārī
+IR-09:
+- khorasan
+- khorāsān
+IR-10:
+- khuzestan
+- khūzestān
+IR-11:
+- zanjan
+- zanjān
+IR-12:
+- semnan
+- semnān
+IR-13:
+- sistan and baluchestan
+- sīstān va balūchestān
+IR-14:
+- fars
+- fārs
+IR-15:
+- kerman
+- kermān
+IR-16:
+- kurdistan
+- kordestān
+IR-17:
+- kermanshah
+- kermānshāhān
+IR-18:
+- kohgiluyeh and boyer-ahmad
+- kohkīlūyeh va būyer aḩmadī
+IR-19:
+- gilan
+- gīlān
+IR-20:
+- lorestan
+- lorestān
+IR-21:
+- mazandaran
+- māzandarān
+IR-22:
+- markazi
+- markazī
+IR-23:
+- hormozgan
+- hormozgān
+IR-24:
+- hamadan
+- hamadān
+IR-25:
+- yazd
+- yazd
+IR-26:
+- qom
+- qom
+IR-27:
+- golestan
+IR-28:
+- qazvin
+IR-29:
+- south khorasan
+IR-30:
+- razavi khorasan
+IR-31:
+- north khorasan
+IS-1:
+- hÃ¶fuÃ°borgarsvÃ¦Ã°i
+- höfudborgarsvædi utan reykjavíkur
+IS-2:
+- suÃ°urnes
+- sudurnes
+IS-3:
+- vesturland
+- vesturland
+IS-4:
+- vestfirÃ°ir
+- vestfirdir
+IS-5:
+- norÃ°urland vestra
+- nordurland vestra
+IS-6:
+- norÃ°urland eystra
+- nordurland eystra
+IS-7:
+- austurland
+- austurland
+IS-8:
+- suÃ°urland
+- sudurland
+IT-AG:
+- agrigento
+- agrigento
+IT-AL:
+- alessandria
+- alessandria
+IT-AN:
+- ancona
+- ancona
+IT-AO:
+- valle d'aosta
+- aosta
+IT-AP:
+- ascoli piceno
+- ascoli piceno
+IT-AQ:
+- l'aquila
+- l'aquila
+IT-AR:
+- arezzo
+- arezzo
+IT-AT:
+- asti
+- asti
+IT-AV:
+- avellino
+- avellino
+IT-BA:
+- bari
+- bari
+IT-BG:
+- bergamo
+- bergamo
+IT-BI:
+- biella
+- biella
+IT-BL:
+- belluno
+- belluno
+IT-BN:
+- benevento
+- benevento
+IT-BO:
+- bologna
+- bologna
+IT-BR:
+- brindisi
+- brindisi
+IT-BS:
+- brescia
+- brescia
+IT-BT:
+- barletta-andria-trani
+IT-BZ:
+- bolzano
+- bolzano
+IT-CA:
+- cagliari
+- cagliari
+IT-CB:
+- campobasso
+- campobasso
+IT-CE:
+- caserta
+- caserta
+IT-CH:
+- chieti
+- chieti
+IT-CI:
+- carbonia-iglesias
+IT-CL:
+- caltanissetta
+- caltanissetta
+IT-CN:
+- cuneo
+- cuneo
+IT-CO:
+- como
+- como
+IT-CR:
+- cremona
+- cremona
+IT-CS:
+- cosenza
+- cosenza
+IT-CT:
+- catania
+- catania
+IT-CZ:
+- catanzaro
+- catanzaro
+IT-EN:
+- enna
+- enna
+IT-FC:
+- forlÃ¬-cesena
+IT-FE:
+- ferrara
+- ferrara
+IT-FG:
+- foggia
+- foggia
+IT-FI:
+- firenze
+- firenze
+IT-FM:
+- fermo
+IT-FR:
+- frosinone
+- frosinone
+IT-GE:
+- genova
+- genova
+IT-GO:
+- gorizia
+- gorizia
+IT-GR:
+- grosseto
+- grosseto
+IT-IM:
+- imperia
+- imperia
+IT-IS:
+- isernia
+- isernia
+IT-KR:
+- crotone
+- crotone
+IT-LC:
+- lecco
+- lecco
+IT-LE:
+- lecce
+- lecce
+IT-LI:
+- livorno
+- livorno
+IT-LO:
+- lodi
+- lodi
+IT-LT:
+- latina
+- latina
+IT-LU:
+- lucca
+- lucca
+IT-MB:
+- monza e della brianza
+IT-MC:
+- macerata
+- macerata
+IT-ME:
+- messina
+- mesaina
+IT-MI:
+- milano
+- milano
+IT-MN:
+- mantova
+- mantova
+IT-MO:
+- modena
+- modena
+IT-MS:
+- massa-carrara
+- massa
+IT-MT:
+- matera
+- matera
+IT-NA:
+- napoli
+- napoli
+IT-NO:
+- novara
+- novara
+IT-NU:
+- nuoro
+- nuoro
+IT-OG:
+- ogliastra
+IT-OR:
+- oristano
+- oristano
+IT-OT:
+- olbia-tempio
+IT-PA:
+- palermo
+- palermo
+IT-PC:
+- piacenza
+- piacenza
+IT-PD:
+- padova
+- padova
+IT-PE:
+- pescara
+- pescara
+IT-PG:
+- perugia
+- perugia
+IT-PI:
+- pisa
+- pisa
+IT-PN:
+- pordenone
+- pordenone
+IT-PO:
+- prato
+- prato
+IT-PR:
+- parma
+- parma
+IT-PT:
+- pistoia
+- pistoia
+IT-PU:
+- pesaro e urbino
+IT-PV:
+- pavia
+- pavia
+IT-PZ:
+- potenza
+- potenza
+IT-RA:
+- ravenna
+- ravenna
+IT-RC:
+- reggio di calabria
+- reggio calabria
+IT-RE:
+- reggio nell'emilia
+- reggio emilia
+IT-RG:
+- ragusa
+- ragusa
+IT-RI:
+- rieti
+- rieti
+IT-RM:
+- roma
+- roma
+IT-RN:
+- rimini
+- rimini
+IT-RO:
+- rovigo
+- rovigo
+IT-SA:
+- salerno
+- salerno
+IT-SI:
+- siena
+- siena
+IT-SO:
+- sondrio
+- sondrio
+IT-SP:
+- la spezia
+- la spezia
+IT-SR:
+- siracusa
+- siracusa
+IT-SS:
+- sassari
+- sassari
+IT-SV:
+- savona
+- savona
+IT-TA:
+- taranto
+- taranto
+IT-TE:
+- teramo
+- teramo
+IT-TN:
+- trento
+- trento
+IT-TO:
+- torino
+- torino
+IT-TP:
+- trapani
+- trapani
+IT-TR:
+- terni
+- terni
+IT-TS:
+- trieste
+- trieste
+IT-TV:
+- treviso
+- treviso
+IT-UD:
+- udine
+- udine
+IT-VA:
+- varese
+- varese
+IT-VB:
+- verbano-cusio-ossola
+- verbano-cusio-ossola
+IT-VC:
+- vercelli
+- vercelli
+IT-VE:
+- venezia
+- venezia
+IT-VI:
+- vicenza
+- vicenza
+IT-VR:
+- verona
+- verona
+IT-VS:
+- medio campidano
+IT-VT:
+- viterbo
+- viterbo
+IT-VV:
+- vibo valentia
+JM-01:
+- kingston
+- kingston
+JM-02:
+- saint andrew
+- saint andrew
+JM-03:
+- saint thomas
+- saint thomas
+JM-04:
+- portland
+- portland
+JM-05:
+- saint mary
+- saint mary
+JM-06:
+- saint ann
+- saint ann
+JM-07:
+- trelawny
+- trelawny
+JM-08:
+- saint james
+- saint james
+JM-09:
+- hanover
+- hanover
+JM-10:
+- westmoreland
+- westmoreland
+JM-11:
+- saint elizabeth
+- saint elizabeth
+JM-12:
+- manchester
+- manchester
+JM-13:
+- clarendon
+- clarendon
+JM-14:
+- saint catherine
+- saint catherine
+JO-AJ:
+- ajlun
+- ‘ajlūn
+JO-AM:
+- amman
+- ‘ammān
+JO-AQ:
+- aqaba
+- al 'aqaba
+JO-AT:
+- tafilah
+- aţ Ţafīlah
+JO-AZ:
+- zarqa
+- az zarqā'
+JO-BA:
+- balqa
+- al balqā'
+JO-IR:
+- irbid
+- irbid
+JO-JA:
+- jarash
+- jarash
+JO-KA:
+- karak
+- al karak
+JO-MA:
+- mafraq
+- al mafraq
+JO-MD:
+- madaba
+- mādaba
+JO-MN:
+- ma'an
+- ma‘ān
+JP-01:
+- ! "hokkaidÅ\x8D"
+- ! "åŒ—æµ·é\x81“"
+- hokkaido
+JP-02:
+- aomori
+- ! "é\x9D’æ£®çœŒ"
+- aomori
+JP-03:
+- iwate
+- å²©æ‰‹çœŒ
+- iwate
+JP-04:
+- miyagi
+- å®®åŸŽçœŒ
+- miyagi
+JP-05:
+- akita
+- ç§‹ç”°çœŒ
+- akita
+JP-06:
+- yamagata
+- å±±å½¢çœŒ
+- yamagata
+JP-07:
+- fukushima
+- ! "ç¦\x8Få³¶çœŒ"
+- fukushima
+JP-08:
+- ibaraki
+- èŒ¨åŸŽçœŒ
+- ibaraki
+JP-09:
+- tochigi
+- æ ƒæœ¨çœŒ
+- tochigi
+JP-10:
+- gunma
+- ç¾¤é¦¬çœŒ
+- gunma
+JP-11:
+- saitama
+- åŸ¼çŽ‰çœŒ
+- saitama
+JP-12:
+- chiba
+- ! "å\x8Dƒè‘‰çœŒ"
+- chiba
+JP-13:
+- ! "tÅ\x8DkyÅ\x8D"
+- ! "æ\x9D±äº¬éƒ½"
+- tokyo
+JP-14:
+- kanagawa
+- ! "ç¥žå¥ˆå·\x9DçœŒ"
+- kanagawa
+JP-15:
+- niigata
+- æ–°æ½ŸçœŒ
+- niigata
+JP-16:
+- toyama
+- å¯Œå±±çœŒ
+- toyama
+JP-17:
+- ishikawa
+- ! "çŸ³å·\x9DçœŒ"
+- ishikawa
+JP-18:
+- fukui
+- ! "ç¦\x8Fäº•çœŒ"
+- fukui
+JP-19:
+- yamanashi
+- å±±æ¢¨çœŒ
+- yamanashi
+JP-20:
+- nagano
+- é•·é‡ŽçœŒ
+- nagano
+JP-21:
+- gifu
+- ! "å²\x90é˜œçœŒ"
+- gifu
+JP-22:
+- shizuoka
+- ! "é\x9D™å²¡çœŒ"
+- shizuoka
+JP-23:
+- aichi
+- æ„›çŸ¥çœŒ
+- aichi
+JP-24:
+- mie
+- ! "ä¸‰é‡\x8DçœŒ"
+- mie
+JP-25:
+- shiga
+- æ»‹è³€çœŒ
+- shiga
+JP-26:
+- ! "kyÅ\x8Dto"
+- äº¬éƒ½åºœ
+- kyoto
+JP-27:
+- ÅŒsaka
+- å¤§é˜ªåºœ
+- osaka
+JP-28:
+- ! "hyÅ\x8Dgo"
+- å…µåº«çœŒ
+- hyogo
+JP-29:
+- nara
+- å¥ˆè‰¯çœŒ
+- nara
+JP-30:
+- wakayama
+- å’Œæ­Œå±±çœŒ
+- wakayama
+JP-31:
+- tottori
+- ! "é³¥å\x8F–çœŒ"
+- tottori
+JP-32:
+- shimane
+- å³¶æ ¹çœŒ
+JP-33:
+- okayama
+- å²¡å±±çœŒ
+- okayama
+JP-34:
+- hiroshima
+- åºƒå³¶çœŒ
+- hiroshima
+JP-35:
+- yamaguchi
+- ! "å±±å\x8F£çœŒ"
+- yamaguchi
+JP-36:
+- tokushima
+- å¾³å³¶çœŒ
+- tokushima
+JP-37:
+- kagawa
+- ! "é¦™å·\x9DçœŒ"
+- kagawa
+JP-38:
+- ehime
+- æ„›åª›çœŒ
+- ehime
+JP-39:
+- ! "kÅ\x8Dchi"
+- é«˜çŸ¥çœŒ
+- kochi
+JP-40:
+- fukuoka
+- ! "ç¦\x8Få²¡çœŒ"
+- fukuoka
+JP-41:
+- saga
+- ! "ä½\x90è³€çœŒ"
+- saga
+JP-42:
+- nagasaki
+- é•·å´ŽçœŒ
+- nagasaki
+JP-43:
+- kumamoto
+- ç†Šæœ¬çœŒ
+- kumamoto
+JP-44:
+- ÅŒita
+- å¤§åˆ†çœŒ
+- oita
+JP-45:
+- miyazaki
+- å®®å´ŽçœŒ
+- miyazaki
+JP-46:
+- kagoshima
+- ! "é¹¿å…\x90å³¶çœŒ"
+- kagoshima
+JP-47:
+- okinawa
+- æ²–ç¸„çœŒ
+- okinawa
+KE-110:
+- nairobi
+- nairobi municipality
+KE-200:
+- central
+- central
+KE-300:
+- coast
+- coast
+KE-400:
+- eastern
+- eastern
+KE-500:
+- north-eastern
+- north-eastern
+KE-600:
+- nyanza
+- nyanza
+KE-700:
+- rift valley
+- rift valley
+KE-900:
+- western
+- western
+KG-B:
+- ! "Ð‘Ð°Ñ‚ÐºÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- batken province
+KG-C:
+- ! "Ð§ÑƒÐ¹Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- chuy province
+- chu
+KG-GB:
+- Ð‘Ð¸ÑˆÐºÐµÐº
+- bishkek city
+KG-J:
+- ! "Ð–Ð°Ð»Ð°Ð»Ð°Ð±Ð°Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- jalal-abad province
+- jalal-abad
+KG-N:
+- ! "Ð\x9DÐ°Ñ€Ñ‹Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- naryn province
+- naryn
+KG-O:
+- ÐžÑˆ
+- osh city
+- osh
+KG-T:
+- ! "Ð¢Ð°Ð»Ð°Ñ\x81Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- talas province
+- talas
+KG-Y:
+- ! "Ð˜Ñ\x81Ñ\x81Ñ‹Ðº-ÐšÑƒÐ»ÑŒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- issyk kul province
+- ysyk-köl
+KH-1:
+- banteay meanchey
+- banteay mean chey
+KH-10:
+- kratie
+- kracheh
+KH-11:
+- mondol kiri
+- mondól kiri
+KH-12:
+- phnom penh
+- phnom penh
+KH-13:
+- preah vihear
+- preah vihear
+KH-14:
+- prey veng
+- prey veaeng
+KH-15:
+- pursat
+- pousaat
+KH-16:
+- ratanakiri
+- rotanak kiri
+KH-17:
+- siem reap
+- siem reab
+KH-18:
+- krong preah sihanouk
+- krong preah sihanouk
+KH-19:
+- stung treng
+- stueng traeng
+KH-2:
+- battambang
+- baat dambang
+KH-20:
+- svay rieng
+- svaay rieng
+KH-21:
+- takeo
+- taakaev
+KH-22:
+- oudor meanchey
+- otdar mean chey
+KH-23:
+- krong kep
+- krong kaeb
+KH-24:
+- krong pailin
+KH-3:
+- kampong cham
+- kampong chaam
+KH-4:
+- kampong chhnang
+- kampong chhnang
+KH-5:
+- kampong speu
+- kampong spueu
+KH-6:
+- kampong thom
+- kampong thum
+KH-7:
+- kampot
+- kampot
+KH-8:
+- kandal
+- kandaal
+KH-9:
+- koh kong
+KI-G:
+- gilbert islands
+- gilbert islands
+KI-L:
+- line islands
+- line islands
+KI-P:
+- phoenix islands
+- phoenix islands
+KM-A:
+- anjouan
+- anjouan
+KM-G:
+- grande comore
+- grande comore
+KM-M:
+- mohÃ©li
+- mohéli
+KN-01:
+- christ church nichola town
+KN-02:
+- saint anne sandy point
+KN-03:
+- saint george basseterre
+KN-04:
+- saint george gingerland
+KN-05:
+- saint james windward
+KN-06:
+- saint john capisterre
+KN-07:
+- saint john figtree
+KN-08:
+- saint mary cayon
+KN-09:
+- saint paul capisterre
+KN-10:
+- saint paul charlestown
+KN-11:
+- saint peter basseterre
+KN-12:
+- saint thomas lowland
+KN-13:
+- saint thomas middle island
+KN-15:
+- trinity palmetto point
+KP-CHA:
+- chagang
+- chagang-do
+KP-HAB:
+- north hamgyong
+- hamgyongbuk-do
+KP-HAN:
+- south hamgyong
+- hamgyongnam-do
+KP-HWB:
+- north hwanghae
+- hwanghaebuk-do
+KP-HWN:
+- south hwanghae
+- hwanghaenam-do
+KP-KAE:
+- kaesong
+- kaesong-si
+KP-KAN:
+- kangwon
+- kangwon-do
+KP-NAJ:
+- rason
+KP-NAM:
+- nampho
+- nampo-si
+KP-PYB:
+- north pyongan
+- pyonganbuk-do
+KP-PYN:
+- south pyongan
+- pyongannam-do
+KP-PYO:
+- pyongyang
+- pyongyang-si
+KP-YAN:
+- ryanggang
+- yanggang-do
+KR-11:
+- seoul
+- ì„œìš¸
+- seoul teugbyeolsi
+KR-26:
+- busan
+- ë¶€ì‚°
+- busan gwang'yeogsi
+KR-27:
+- daegu
+- ëŒ€êµ¬
+- daegu gwang'yeogsi
+KR-28:
+- incheon
+- ! "ì\x9D¸ì²œ"
+- incheon gwang'yeogsi
+KR-29:
+- gwangju
+- ê´‘ì£¼
+- gwangju gwang'yeogsi
+KR-30:
+- daejeon
+- ëŒ€ì „
+- daejeon gwang'yeogsi
+KR-31:
+- ulsan
+- ìš¸ì‚°
+- ulsan gwang'yeogsi
+KR-41:
+- gyeonggi-do
+- ê²½ê¸°
+- gyeonggido
+KR-42:
+- gangwon-do
+- ! "ê°•ì›\x90"
+- gang'weondo
+KR-43:
+- chungcheongbuk-do
+- ! "ì¶©ë¶\x81"
+- chungcheongbugdo
+KR-44:
+- chungcheongnam-do
+- ì¶©ë‚¨
+- chungcheongnamdo
+KR-45:
+- jeollabuk-do
+- ! "ì „ë¶\x81"
+- jeonrabugdo
+KR-46:
+- jeollanam-do
+- ì „ë‚¨
+- jeonranamdo
+KR-47:
+- gyeongsangbuk-do
+- ! "ê²½ë¶\x81"
+- gyeongsangbugdo
+KR-48:
+- gyeongsangnam-do
+- ê²½ë‚¨
+- gyeongsangnamdo
+KR-49:
+- jeju-do
+- ì œì£¼
+- jejudo
+KW-AH:
+- al ahmadi
+- al aḩmadi
+KW-FA:
+- al farwaniyah
+- al farwānīyah
+KW-HA:
+- hawalli
+- Ḩawallī
+KW-JA:
+- al jahra
+- al jahrah
+KW-KU:
+- al asimah
+- al kuwayt
+KW-MU:
+- mubarak al-kabeer
+KY-01:
+- bodden town
+KY-02:
+- cayman brac
+KY-03:
+- east end
+KY-04:
+- george town
+KY-05:
+- little cayman
+KY-06:
+- north side
+KY-07:
+- west bay
+KZ-AKM:
+- ! "Ð\x90ÐºÐ¼Ð¾Ð»Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- akmola
+- aqmola oblysy
+KZ-AKT:
+- ! "Ð\x90ÐºÑ‚ÑŽÐ±Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- aktobe
+- aqtöbe oblysy
+KZ-ALA:
+- ! "Ð³Ð¾Ñ€Ð¾Ð´ Ð\x90Ð»Ð¼Ð°Ñ‚Ñ‹"
+- almaty city
+- almaty
+KZ-ALM:
+- ! "Ð\x90Ð»Ð¼Ð°Ñ‚Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- almaty region
+- almaty oblysy
+KZ-AST:
+- ! "Ð³Ð¾Ñ€Ð¾Ð´ Ð\x90Ñ\x81Ñ‚Ð°Ð½Ð°"
+- astana city
+KZ-ATY:
+- ! "Ð\x90Ñ‚Ñ‹Ñ€Ð°ÑƒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- atyrau
+- atyraü oblysy
+KZ-KAR:
+- ! "ÐšÐ°Ñ€Ð°Ð³Ð°Ð½Ð´Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- karagandy
+- qaraghandy oblysy
+KZ-KUS:
+- ! "ÐšÐ¾Ñ\x81Ñ‚Ð°Ð½Ð°Ð¹Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kostanay
+- qostanay oblysy
+KZ-KZY:
+- ! "ÐšÑ‹Ð·Ñ‹Ð»Ð¾Ñ€Ð´Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kyzylorda
+- qyzylorda oblysy
+KZ-MAN:
+- ! "ÐœÐ°Ð½Ð³Ð¸Ñ\x81Ñ‚Ð°ÑƒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- mangystau region
+- mangghystaū oblysy
+KZ-PAV:
+- ! "ÐŸÐ°Ð²Ð»Ð¾Ð´Ð°Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- pavlodar
+- pavlodar oblysy
+KZ-SEV:
+- ! "Ð¡ÐµÐ²ÐµÑ€Ð¾-ÐšÐ°Ð·Ð°Ñ…Ñ\x81Ñ‚Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- north kazakhstan
+- soltüstik kazakstan oblysy
+KZ-VOS:
+- ! "Ð’Ð¾Ñ\x81Ñ‚Ð¾Ñ‡Ð½Ð¾-ÐšÐ°Ð·Ð°Ñ…Ñ\x81Ñ‚Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- east kazakhstan
+- shyghys kazakstan oblysy
+KZ-YUZ:
+- ! "Ð®Ð¶Ð½Ð¾-ÐšÐ°Ð·Ð°Ñ…Ñ\x81Ñ‚Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F ÐžÐ±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- south kazakhstan
+- ongtüstik kazakstan oblysy
+KZ-ZAP:
+- ! "Ð—Ð°Ð¿Ð°Ð´Ð½Ð¾-ÐšÐ°Ð·Ð°Ñ…Ñ\x81Ñ‚Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- west kazakhstan
+- batys kazakstan oblysy
+KZ-ZHA:
+- ! "Ð–Ð°Ð¼Ð±Ñ‹Ð»Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- zhambyl
+- zhambyl oblysy
+LA-AT:
+- attapu
+- attapu
+LA-BK:
+- bokÃ¨o
+- bokèo
+LA-BL:
+- bolikhamxai
+- bolikhamxai
+LA-CH:
+- champasak
+- champasak
+LA-HO:
+- houaphan
+- houaphan
+LA-KH:
+- khammouan
+- khammouan
+LA-LM:
+- louang namtha
+- louang namtha
+LA-LP:
+- louangphabang
+- louangphabang
+LA-OU:
+- oudÃ´mxai
+- oudômxai
+LA-PH:
+- phÃ´ngsali
+- phôngsali
+LA-SL:
+- salavan
+- salavan
+LA-SV:
+- savannakhÃ©t
+- savannakhét
+LA-VI:
+- vientiane province
+- vientiane
+LA-VT:
+- vientiane prefecture
+- vientiane
+LA-XA:
+- sainyabuli
+- xaignabouli
+LA-XE:
+- sekong
+- xékong
+LA-XI:
+- xiangkhouang
+- xiangkhoang
+LA-XN:
+- xaisomboun
+LB-AS:
+- north
+- Ø§Ù„Ø´Ù…Ø§Ù„
+- loubnâne ech chemâli
+LB-BA:
+- beirut
+- ! "Ù…Ø­Ø§Ù\x81Ø¸Ø© Ø¨ÙŠØ±ÙˆØª"
+- beiroût
+LB-BI:
+- beqaa
+- Ø§Ù„Ø¨Ù‚Ø§Ø¹
+- el béqaa
+LB-JA:
+- south
+- ! "Ù…Ø­Ø§Ù\x81Ø¸Ø© Ø§Ù„Ø¬Ù†ÙˆØ¨"
+- loubnâne ej jnoûbi
+LB-JL:
+- mount lebanon
+- Ø¬Ø¨Ù„ Ù„Ø¨Ù†Ø§Ù†
+- jabal loubnâne
+LB-NA:
+- nabatieh
+- Ø§Ù„Ù†Ø¨Ø·ÙŠØ©
+- nabatîyé
+LC11:
+- dennery
+- vieux fort
+- choiseul
+- castries
+- dauphin
+- soufriÃ¨re
+- praslin
+- anse-la-raye
+- micoud
+- laborie
+- gros islet
+LI-01:
+- balzers
+LI-02:
+- eschen
+LI-03:
+- gamprin
+LI-04:
+- mauren
+LI-05:
+- planken
+LI-06:
+- ruggell
+LI-07:
+- schaan
+LI-08:
+- schellenberg
+LI-09:
+- triesen
+LI-10:
+- triesenberg
+LI-11:
+- vaduz
+LK-11:
+- colombo
+- colombo
+LK-12:
+- gampaha
+- gampaha
+LK-13:
+- kalutara
+- kalutara
+LK-21:
+- kandy
+- kandy
+LK-22:
+- matale
+- matale
+LK-23:
+- nuwara eliya
+- nuwara eliya
+LK-31:
+- galle
+- galle
+LK-32:
+- matara
+- matara
+LK-33:
+- hambantota
+- hambantota
+LK-41:
+- jaffna
+- jaffna
+LK-42:
+- kilinochchi
+- kilinochchi
+LK-43:
+- mannar
+- mannar
+LK-44:
+- vavuniya
+- vavuniya
+LK-45:
+- mullaitivu
+- mullaittivu
+LK-51:
+- batticaloa
+- batticaloa
+LK-52:
+- ampara
+- arnpara
+LK-53:
+- trincomalee
+- trincomalee
+LK-61:
+- kurunegala
+- kurunegala
+LK-62:
+- puttalam
+- puttalam
+LK-71:
+- anuradhapura
+- anuradhapura
+LK-72:
+- polonnaruwa
+- polonnaruwa
+LK-81:
+- badulla
+- badulla
+LK-82:
+- moneragala
+- monaragala
+LK-91:
+- ratnapura
+- ratnapura
+LK-92:
+- kegalle
+- kegalla
+LR-BG:
+- bong
+- bong
+LR-BM:
+- bomi
+- bomi
+LR-CM:
+- grand cape mount
+- grand cape mount
+LR-GB:
+- grand bassa
+- grand bassa
+LR-GG:
+- grand gedeh
+- grand gedeh
+LR-GK:
+- grand kru
+- grand kru
+LR-GP:
+- gbarpolu
+LR-LO:
+- lofa
+- lofa
+LR-MG:
+- margibi
+- margibi
+LR-MO:
+- montserrado
+- montserrado
+LR-MY:
+- maryland
+- maryland
+LR-NI:
+- nimba
+- nimba
+LR-RG:
+- river gee
+LR-RI:
+- rivercess
+- rivercess
+LR-SI:
+- sinoe
+- sinoe
+LS-A:
+- maseru
+- maseru
+LS-B:
+- butha-buthe
+- butha-buthe
+LS-C:
+- leribe
+- leribe
+LS-D:
+- berea
+- berea
+LS-E:
+- mafeteng
+- mafeteng
+LS-F:
+- mohale's hoek
+- mohale's hoek
+LS-G:
+- quthing
+- quthing
+LS-H:
+- qacha's nek
+- qacha's nek
+LS-J:
+- mokhotlong
+- mokhotlong
+LS-K:
+- thaba-tseka
+- thaba-tseka
+LT-AL:
+- alytaus
+- alytaus apskritis
+LT-KL:
+- klaipÄ—dos
+- klaipėdos apskritis
+LT-KU:
+- kauno
+- kauno apskritis
+LT-MR:
+- marijampolÄ—s
+- marijampolės apskritis
+LT-PN:
+- panevÄ—Å¾io
+- panevėžio apskritis
+LT-SA:
+- Å iauliÅ³
+- Šiauliu apskritis
+LT-TA:
+- tauragÄ—s
+- tauragės apskritis
+LT-TE:
+- telÅ¡iÅ³
+- telšiu apskritis
+LT-UT:
+- utenos
+- utenos apskritis
+LT-VL:
+- vilniaus
+- vilniaus apskritis
+LU-D:
+- diekirch
+- dikrech
+- diekirch
+LU-G:
+- grevenmacher
+- grÃ©iwemaacher
+- grevenmacher
+LU-L:
+- luxembourg
+- lÃ«tzebuerg
+- luxembourg
+LV-AI:
+- aizkraukles
+- aizkraukles aprinkis
+LV-AL:
+- alÅ«ksnes
+- alūksnes aprinkis
+LV-BL:
+- balvu
+- balvu aprinkis
+LV-BU:
+- bauskas
+- bauskas aprinkis
+LV-CE:
+- cÄ“su
+- cēsu aprinkis
+LV-DA:
+- daugavpils
+- daugavpils aprinkis
+LV-DGV:
+- daugavpils
+- daugavpils
+LV-DO:
+- dobeles
+- dobeles aprinkis
+LV-GU:
+- gulbenes
+- gulbenes aprinkis
+LV-JEL:
+- jelgava
+- jelgava
+LV-JK:
+- jÄ“kabpils
+- jēkabpils aprinkis
+LV-JL:
+- jelgavas
+- jelgavas aprinkis
+LV-JUR:
+- jÅ«rmala
+- jūrmala
+LV-KR:
+- ! "krÄ\x81slavas"
+- krāslavas aprinkis
+LV-KU:
+- kuldÄ«gas
+- kuldīgas aprinkis
+LV-LE:
+- ! "liepÄ\x81jas"
+- liepājas aprinkis
+LV-LM:
+- limbaÅ¾u
+- limbažu aprinkis
+LV-LPX:
+- ! "liepÄ\x81jas"
+- liepāja
+LV-LU:
+- ludzas
+- ludzas aprinkis
+LV-MA:
+- madonas
+- madonas aprinkis
+LV-OG:
+- ogres
+- ogres aprinkis
+LV-PR:
+- preiÄ¼u
+- preilu aprinkis
+LV-RE:
+- rÄ“zeknes
+- rēzeknes aprinkis
+LV-REZ:
+- rezekne
+- rēzekne
+LV-RI:
+- rÄ«gas
+- rīgas aprinkis
+LV-RIX:
+- rÄ«ga
+- rīga
+LV-SA:
+- saldus
+- saldus aprinkis
+LV-TA:
+- talsu
+- talsu aprinkis
+LV-TU:
+- tukuma
+- tukuma aprinkis
+LV-VE:
+- ventspils
+- ventspils aprinkis
+LV-VEN:
+- ventspils
+- ventspils
+LV-VK:
+- valkas
+- valkas aprinkis
+LV-VM:
+- valmieras
+- valmieras aprinkis
+LY-BA:
+- banghazi
+- banghāzī
+LY-BU:
+- al butnan
+- al buţnān
+LY-DR:
+- darnah
+LY-GT:
+- ghat
+LY-JA:
+- al jabal al akhdar
+- al jabal al akhḑar
+LY-JG:
+- al jabal al gharbi
+- al jabal al gharbī
+LY-JI:
+- al jifarah
+LY-JU:
+- al jufrah
+LY-KF:
+- al kufrah
+LY-MB:
+- al marqab
+LY-MI:
+- misratah
+- mişrātah
+LY-MJ:
+- al marj
+LY-MQ:
+- murzuq
+LY-NL:
+- nalut
+LY-NQ:
+- an nuqat al khams
+LY-SB:
+- sabha
+LY-SR:
+- surt
+LY-TB:
+- tarabulus
+- Ţarābulus
+LY-WA:
+- al wahat
+- al wāḩah
+LY-WD:
+- wadi al hayaa
+LY-WS:
+- wadi ash shati
+LY-ZA:
+- az zawiyah
+- az zāwiyah
+MA-AGD:
+- agadir ida-outanane
+- agadir
+MA-AOU:
+- aousserd
+MA-ASZ:
+- assa-zag
+- assa-zag
+MA-AZI:
+- azilal
+- azilal
+MA-BEM:
+- beni mellal
+- beni mellal
+MA-BER:
+- berkane
+- berkane
+MA-BES:
+- ben slimane
+- ben slimane
+MA-BOD:
+- boujdour
+- boujdour
+MA-BOM:
+- boulmane
+- boulemane
+MA-CAS:
+- casablanca
+- casablanca
+MA-CHE:
+- chefchaouen
+- chefchaouene
+MA-CHI:
+- chichaoua
+- chichaoua
+MA-CHT:
+- chtouka-aÃ¯t baha
+MA-ERR:
+- errachidia
+- errachidia
+MA-ESI:
+- essaouira
+- essaouira
+MA-ESM:
+- es-semara
+- es semara
+MA-FAH:
+- fahs-beni makada
+MA-FES:
+- fÃ¨s-dar-dbibegh
+- fès
+MA-FIG:
+- figuig
+- figuig
+MA-GUE:
+- guelmim
+- guelmim
+MA-HAJ:
+- el hajeb
+- el hajeb
+MA-HAO:
+- al haouz
+- al haouz
+MA-HOC:
+- al-hoceima
+- al hoceïma
+MA-IFR:
+- ifrane
+- ifrane
+MA-INE:
+- inezgane-aÃ¯t melloul
+MA-JDI:
+- el jadida
+- el jadida
+MA-JRA:
+- jerada
+MA-KEN:
+- kÃ©nitra
+- kénitra
+MA-KES:
+- kelÃ¢at es-sraghna
+- kelaat sraghna
+MA-KHE:
+- khÃ©misset
+- khemisset
+MA-KHN:
+- khÃ©nifra
+- khenifra
+MA-KHO:
+- khouribga
+- khouribga
+MA-LAA:
+- laÃ¢youne
+- laayoune
+MA-LAR:
+- larache
+- larache
+MA-MED:
+- mÃ©diouna
+MA-MEK:
+- meknÃ¨s
+- meknès
+MA-MMD:
+- marrakech-mÃ©dina
+MA-MMN:
+- marrakech-mÃ©nara
+MA-MOH:
+- mohammÃ©dia
+MA-MOU:
+- moulay yacoub
+MA-NAD:
+- nador
+- nador
+MA-NOU:
+- nouaceur
+MA-OUA:
+- ouarzazate
+- ouarzazate
+MA-OUD:
+- oued ed-dahab-lagouira
+- oued ed dahab
+MA-OUJ:
+- oujda-angad
+- oujda
+MA-RAB:
+- rabat
+MA-SAF:
+- safi
+- safi
+MA-SAL:
+- salÃ©
+MA-SEF:
+- sefrou
+- sefrou
+MA-SET:
+- settat
+- settat
+MA-SIK:
+- sidi kacem
+- sidi kacem
+MA-SKH:
+- skhirat-tÃ©mara
+MA-SYB:
+- sidi youssef ben ali
+MA-TAI:
+- taourirt
+MA-TAO:
+- taounate
+- taounate
+MA-TAR:
+- taroudant
+- taroudannt
+MA-TAT:
+- tata
+- tata
+MA-TAZ:
+- taza
+- taza
+MA-TET:
+- tÃ©touan
+- tétouan
+MA-TIZ:
+- tiznit
+- tiznit
+MA-TNG:
+- tanger-asilah
+- tanger
+MA-TNT:
+- tan-tan
+- tan-tan
+MA-ZAG:
+- zagora
+MD-AN:
+- anenii noi
+MD-BA:
+- bÄƒlÅ£i
+MD-BD:
+- tighina
+MD-BR:
+- briceni
+MD-BS:
+- basarabeasca
+MD-CA:
+- cahul
+MD-CL:
+- cÄƒlÄƒraÅŸi
+MD-CM:
+- cimiÅŸlia
+MD-CR:
+- criuleni
+MD-CS:
+- cÄƒuÅŸeni
+MD-CT:
+- cantemir
+MD-CU:
+- chiÅŸinÄƒu
+MD-DO:
+- donduÅŸeni
+MD-DR:
+- drochia
+MD-DU:
+- dubÄƒsari
+MD-ED:
+- edineÅ£
+MD-FA:
+- fÄƒleÅŸti
+MD-FL:
+- floreÅŸti
+MD-GA:
+- gagauzia
+MD-GL:
+- glodeni
+MD-HI:
+- hÃ®nceÅŸti
+MD-IA:
+- ialoveni
+MD-LE:
+- leova
+MD-NI:
+- nisporeni
+MD-OC:
+- ocniÅ£a
+MD-OR:
+- orhei
+MD-RE:
+- rezina
+MD-RI:
+- rÃ®ÅŸcani
+MD-SD:
+- ÅžoldÄƒneÅŸti
+MD-SI:
+- sÃ®ngerei
+MD-SO:
+- soroca
+MD-ST:
+- strÄƒÅŸeni
+MD-SV:
+- Åžtefan vodÄƒ
+MD-TA:
+- taraclia
+MD-TE:
+- teleneÅŸti
+MD-UN:
+- ungheni
+ME-01:
+- andrijevica
+ME-02:
+- bar
+ME-03:
+- berane
+ME-04:
+- bijelo polje
+ME-05:
+- budva
+ME-06:
+- cetinje
+ME-07:
+- danilovgrad
+ME-08:
+- herceg novi
+ME-09:
+- kolaÅ¡in
+ME-10:
+- kotor
+ME-11:
+- mojkovac
+ME-12:
+- nikÅ¡iÄ‡
+ME-13:
+- plav
+ME-14:
+- pljevlja
+ME-15:
+- pluÅ¾ine
+ME-16:
+- podgorica
+ME-17:
+- roÅ¾aje
+ME-18:
+- Å avnik
+ME-19:
+- tivat
+ME-20:
+- ulcinj
+ME-21:
+- Å½abljak
+MG-A:
+- toamasina
+- toamasina
+MG-D:
+- antsiranana
+- antsiranana
+MG-F:
+- fianarantsoa
+- fianarantsoa
+MG-M:
+- mahajanga
+- mahajanga
+MG-T:
+- antananarivo
+- antananarivo
+MG-U:
+- toliara
+- toliara
+MH-ALK:
+- ailuk
+- ailuk
+MH-ALL:
+- ailinglapalap
+- ailinglapalap
+MH-ARN:
+- arno
+- arno
+MH-AUR:
+- aur
+- aur
+MH-EBO:
+- ebon
+- ebon
+MH-ENI:
+- eniwetok
+- eniwetok
+MH-JAL:
+- jaluit
+- jaluit
+MH-KIL:
+- kili
+- kili
+MH-KWA:
+- kwajalein
+- kwajalein
+MH-LAE:
+- lae
+- lae
+MH-LIB:
+- lib
+- lib
+MH-LIK:
+- likiep
+- likiep
+MH-MAJ:
+- majuro
+- majuro
+MH-MAL:
+- maloelap
+- maloelap
+MH-MEJ:
+- mejit
+- mejit
+MH-MIL:
+- mili
+- mili
+MH-NMK:
+- namorik
+- namorik
+MH-NMU:
+- namu
+- namu
+MH-RON:
+- rongelap
+- rongelap
+MH-UJA:
+- ujae
+- ujae
+MH-UJL:
+- ujelang
+- ujelang
+MH-UTI:
+- utirik
+- utirik
+MH-WTH:
+- wotho
+- wotho
+MH-WTJ:
+- wotje
+- wotje
+MK-AD:
+- aerodrom
+- Ð”ÐµÑ€Ð¾Ð´Ñ€Ð¾Ð¼
+MK-AJ:
+- saraj
+- Ð¡Ð°Ñ€Ð°Ñ˜
+MK-AR:
+- ! "araÄ\x8Dinovo"
+- Ð”Ñ€Ð°Ñ‡Ð¸Ð½Ð¾Ð²Ð¾
+MK-AV:
+- kavadarci
+- ÐšÐ°Ð²Ð°Ð´Ð°Ñ€Ñ†Ð¸
+MK-BG:
+- bogdanci
+- Ð‘Ð¾Ð³Ð´Ð°Ð½Ñ†Ð¸
+MK-BN:
+- brvenica
+- Ð‘Ñ€Ð²ÐµÐ½Ð¸Ñ†Ð°
+MK-BR:
+- berovo
+- Ð‘ÐµÑ€Ð¾Ð²Ð¾
+MK-BS:
+- bosilovo
+- ! "Ð‘Ð¾Ñ\x81Ð¸Ð»Ð¾Ð²Ð¾"
+MK-BU:
+- butel
+- Ð‘ÑƒÑ‚ÐµÐ»
+MK-CA:
+- ÄŒaÅ¡ka
+- Ð§Ð°ÑˆÐºÐ°
+MK-CE:
+- centar
+- Ð¦ÐµÐ½Ñ‚Ð°Ñ€
+MK-CH:
+- ÄŒeÅ¡inovo-obleÅ¡evo
+- Ð§ÐµÑˆÐ¸Ð½Ð¾Ð²Ð¾-ÐžÐ±Ð»ÐµÑˆÐµÐ²Ð¾
+MK-CI:
+- ÄŒair
+- Ð§Ð°Ð¸Ñ€
+MK-CS:
+- ! "ÄŒuÄ\x8Der-sandevo"
+- Ð§ÑƒÑ‡ÐµÑ€-Ð¡Ð°Ð½Ð´ÐµÐ²Ð¾
+MK-CZ:
+- centar Å½upa
+- Ð¦ÐµÐ½Ñ‚Ð°Ñ€ Ð–ÑƒÐ¿Ð°
+MK-DA:
+- debarca
+- Ð”ÐµÐ±Ð°Ñ€Ñ†Ð°
+MK-DB:
+- debar
+- Ð”ÐµÐ±Ð°Ñ€
+MK-DE:
+- dolneni
+- Ð”Ð¾Ð»Ð½ÐµÐ½Ð¸
+MK-DK:
+- demir kapija
+- Ð”ÐµÐ¼Ð¸Ñ€ ÐšÐ°Ð¿Ð¸Ñ˜Ð°
+MK-DL:
+- ! "delÄ\x8Devo"
+- Ð”ÐµÐ»Ñ‡ÐµÐ²Ð¾
+MK-DM:
+- demir hisar
+- ! "Ð”ÐµÐ¼Ð¸Ñ€ Ð¥Ð¸Ñ\x81Ð°Ñ€"
+MK-DR:
+- drugovo
+- Ð”Ñ€ÑƒÐ³Ð¾Ð²Ð¾
+MK-ET:
+- tetovo
+- Ð¢ÐµÑ‚Ð¾Ð²Ð¾
+MK-GB:
+- gazi baba
+- Ð“Ð°Ð·Ð¸ Ð‘Ð°Ð±Ð°
+MK-GP:
+- ! "gjorÄ\x8De petrov"
+- ÐƒÐ¾Ñ€Ñ‡Ðµ ÐŸÐµÑ‚Ñ€Ð¾Ð²
+MK-GR:
+- gradsko
+- ! "Ð“Ñ€Ð°Ð´Ñ\x81ÐºÐ¾"
+MK-GT:
+- gostivar
+- ! "Ð“Ð¾Ñ\x81Ñ‚Ð¸Ð²Ð°Ñ€"
+MK-GV:
+- gevgelija
+- Ð“ÐµÐ²Ð³ÐµÐ»Ð¸Ñ˜Ð°
+MK-IL:
+- ilinden
+- Ð˜Ð»Ð¸Ð½Ð´ÐµÐ½
+MK-JG:
+- jegunovce
+- ÐˆÐµÐ³ÑƒÐ½Ð¾Ð²Ñ†Ðµ
+MK-KB:
+- karbinci
+- ÐšÐ°Ñ€Ð±Ð¸Ð½Ñ†Ð¸
+MK-KG:
+- krivogaÅ¡tani
+- ÐšÑ€Ð¸Ð²Ð¾Ð³Ð°ÑˆÑ‚Ð°Ð½Ð¸
+MK-KH:
+- kicevo
+- ÐšÐ¸Ñ‡ÐµÐ²Ð¾
+MK-KN:
+- ! "konÄ\x8De"
+- ÐšÐ¾Ð½Ñ‡Ðµ
+MK-KS:
+- kruÅ¡evo
+- ÐšÑ€ÑƒÑˆÐµÐ²Ð¾
+MK-KX:
+- karpoÅ¡
+- ÐšÐ°Ñ€Ð¿Ð¾Ñˆ
+MK-KY:
+- kratovo
+- ÐšÑ€Ð°Ñ‚Ð¾Ð²Ð¾
+MK-KZ:
+- kriva palanka
+- ÐšÑ€Ð¸Ð²Ð° ÐŸÐ°Ð»Ð°Ð½ÐºÐ°
+MK-LI:
+- lipkovo
+- Ð›Ð¸Ð¿ÐºÐ¾Ð²Ð¾
+MK-LO:
+- lozovo
+- Ð›Ð¾Ð·Ð¾Ð²Ð¾
+MK-MD:
+- makedonski brod
+- ! "ÐœÐ°ÐºÐµÐ´Ð¾Ð½Ñ\x81ÐºÐ¸ Ð‘Ñ€Ð¾Ð´"
+MK-MG:
+- mogila
+- ÐœÐ¾Ð³Ð¸Ð»Ð°
+MK-MK:
+- makedonska kamenica
+- ! "ÐœÐ°ÐºÐµÐ´Ð¾Ð½Ñ\x81ÐºÐ° ÐšÐ°Ð¼ÐµÐ½Ð¸Ñ†Ð°"
+- macedonia
+MK-MR:
+- mavrovo and rostuÅ¡a
+- ! "ÐœÐ°Ð²Ñ€Ð¾Ð²Ð¾ Ð¸ Ð Ð¾Ñ\x81Ñ‚ÑƒÑˆÐ°"
+MK-NA:
+- ! "staro nagoriÄ\x8Dane"
+- ! "Ð¡Ñ‚Ð°Ñ€Ð¾ Ð\x9DÐ°Ð³Ð¾Ñ€Ð¸Ñ‡Ð°Ð½Ðµ"
+MK-NG:
+- negotino
+- ! "Ð\x9DÐµÐ³Ð¾Ñ‚Ð¸Ð½Ð¾"
+MK-NI:
+- vinica
+- Ð’Ð¸Ð½Ð¸Ñ†Ð°
+MK-NS:
+- novo selo
+- ! "Ð\x9DÐ¾Ð²Ð¾ Ð¡ÐµÐ»Ð¾"
+MK-NV:
+- novaci
+- ! "Ð\x9DÐ¾Ð²Ð°Ñ†Ð¸"
+MK-OC:
+- kocani
+- ÐšÐ¾Ñ‡Ð°Ð½Ð¸
+MK-OD:
+- ohrid
+- ÐžÑ…Ñ€Ð¸Ð´
+MK-OS:
+- oslomej
+- ! "ÐžÑ\x81Ð»Ð¾Ð¼ÐµÑ˜"
+MK-PE:
+- petrovec
+- ÐŸÐµÑ‚Ñ€Ð¾Ð²ÐµÑ†
+MK-PH:
+- ! "pehÄ\x8Devo"
+- ÐŸÐµÑ…Ñ‡ÐµÐ²Ð¾
+MK-PN:
+- plasnica
+- ! "ÐŸÐ»Ð°Ñ\x81Ð½Ð¸Ñ†Ð°"
+MK-PP:
+- prilep
+- ÐŸÑ€Ð¸Ð»ÐµÐ¿
+MK-PT:
+- probiÅ¡tip
+- ÐŸÑ€Ð¾Ð±Ð¸ÑˆÑ‚Ð¸Ð¿
+MK-RE:
+- resen
+- ! "Ð ÐµÑ\x81ÐµÐ½"
+MK-RM:
+- rosoman
+- ! "Ð Ð¾Ñ\x81Ð¾Ð¼Ð°Ð½"
+MK-RN:
+- rankovce
+- Ð Ð°Ð½ÐºÐ¾Ð²Ñ†Ðµ
+MK-RU:
+- strumica
+- Ð¡Ñ‚Ñ€ÑƒÐ¼Ð¸Ñ†Ð°
+MK-RV:
+- radoviÅ¡
+- Ð Ð°Ð´Ð¾Ð²Ð¸Ñˆ
+MK-SD:
+- doÑ˜ran
+- Ð”Ð¾Ñ˜Ñ€Ð°Ð½
+MK-SL:
+- sveti nikole
+- ! "Ð¡Ð²ÐµÑ‚Ð¸ Ð\x9DÐ¸ÐºÐ¾Ð»Ðµ"
+MK-SO:
+- Å uto orizari
+- Ð¨ÑƒÑ‚Ð¾ ÐžÑ€Ð¸Ð·Ð°Ñ€Ð¸
+MK-SS:
+- sopiÅ¡te
+- Ð¡Ð¾Ð¿Ð¸ÑˆÑ‚Ðµ
+MK-ST:
+- Å tip
+- Ð¨Ñ‚Ð¸Ð¿
+MK-SU:
+- ! "studeniÄ\x8Dani"
+- Ð¡Ñ‚ÑƒÐ´ÐµÐ½Ð¸Ñ‡Ð°Ð½Ð¸
+MK-TL:
+- bitola
+- Ð‘Ð¸Ñ‚Ð¾Ð»Ð°
+MK-TR:
+- tearce
+- Ð¢ÐµÐ°Ñ€Ñ†Ðµ
+MK-UG:
+- struga
+- Ð¡Ñ‚Ñ€ÑƒÐ³Ð°
+MK-UM:
+- kumanovo
+- ÐšÑƒÐ¼Ð°Ð½Ð¾Ð²Ð¾
+MK-VA:
+- valandovo
+- Ð’Ð°Ð»Ð°Ð½Ð´Ð¾Ð²Ð¾
+MK-VC:
+- vraneÅ¡tica
+- Ð’Ñ€Ð°Ð½ÐµÑˆÑ‚Ð¸Ñ†Ð°
+MK-VD:
+- kisela voda
+- ! "ÐšÐ¸Ñ\x81ÐµÐ»Ð° Ð’Ð¾Ð´Ð°"
+MK-VE:
+- veles
+- ! "Ð’ÐµÐ»ÐµÑ\x81"
+MK-VH:
+- ! "vrapÄ\x8DiÅ¡te"
+- Ð’Ñ€Ð°Ð¿Ñ‡Ð¸ÑˆÑ‚Ðµ
+MK-VJ:
+- bogovinje
+- Ð‘Ð¾Ð³Ð¾Ð²Ð¸ÑšÐµ
+MK-VL:
+- vasilevo
+- ! "Ð’Ð°Ñ\x81Ð¸Ð»ÐµÐ²Ð¾"
+MK-VV:
+- ! "vevÄ\x8Dani"
+- Ð’ÐµÐ²Ñ‡Ð°Ð½Ð¸
+MK-ZA:
+- zajas
+- ! "Ð—Ð°Ñ˜Ð°Ñ\x81"
+MK-ZE:
+- Å½elino
+- Ð–ÐµÐ»Ð¸Ð½Ð¾
+MK-ZK:
+- zelenikovo
+- Ð—ÐµÐ»ÐµÐ½Ð¸ÐºÐ¾Ð²Ð¾
+MK-ZR:
+- zrnovci
+- Ð—Ñ€Ð½Ð¾Ð²Ñ†Ð¸
+ML-1:
+- kayes
+- kayes
+ML-2:
+- koulikoro
+- koulikoro
+ML-3:
+- sikasso
+- sikasso
+ML-4:
+- sÃ©gou
+- ségou
+ML-5:
+- mopti
+- mopti
+ML-6:
+- tombouctou
+- tombouctou
+ML-7:
+- gao
+- gao
+ML-8:
+- kidal
+- kidal
+ML-BKO:
+- bamako
+- bamako
+MM-01:
+- sagaing
+- sagaing
+MM-02:
+- bago
+- bago
+MM-03:
+- magway
+- magway
+MM-04:
+- mandalay
+- mandalay
+MM-05:
+- tanintharyi
+- tanintharyi
+MM-06:
+- yangon
+- yangon
+MM-07:
+- ayeyarwady
+- ayeyarwady
+MM-11:
+- kachin
+- kachin
+MM-12:
+- kayah
+- kayah
+MM-13:
+- kayin
+- kayin
+MM-14:
+- chin
+- chin
+MM-15:
+- mon
+- mon
+MM-16:
+- rakhine
+- rakhine
+MM-17:
+- shan
+- shan
+MN-035:
+- ÐžÑ€Ñ…Ð¾Ð½
+- orhon
+- orhon
+MN-037:
+- Ð”Ð°Ñ€Ñ…Ð°Ð½-Ð£ÑƒÐ»
+- darhan-uul
+- darhan uul
+MN-039:
+- ! "Ð¥Ñ\x8DÐ½Ñ‚Ð¸Ð¹"
+- hentii
+- hentiy
+MN-041:
+- ! "Ð¥Ó©Ð²Ñ\x81Ð³Ó©Ð»"
+- huvsgul
+- hövsgöl
+MN-043:
+- Ð¥Ð¾Ð²Ð´
+- hovd
+- hovd
+MN-046:
+- ! "Ð£Ð²Ñ\x81"
+- uvs
+- uvs
+MN-047:
+- Ð¢Ó©Ð²
+- tuv
+- töv
+MN-049:
+- ! "Ð¡Ñ\x8DÐ»Ñ\x8DÐ½Ð³Ñ\x8D"
+- selenge
+- selenge
+MN-051:
+- Ð¡Ò¯Ñ…Ð±Ð°Ð°Ñ‚Ð°Ñ€
+- syhbaatar
+- sühbaatar
+MN-053:
+- Ó¨Ð¼Ð½Ó©Ð³Ð¾Ð²ÑŒ
+- umnugovi
+- Ömnögovĭ
+MN-055:
+- Ó¨Ð²Ó©Ñ€Ñ…Ð°Ð½Ð³Ð°Ð¹
+- uvurhangai
+- Övörhangay
+MN-057:
+- Ð—Ð°Ð²Ñ…Ð°Ð½
+- zavhan
+- dzavhan
+MN-059:
+- Ð”ÑƒÐ½Ð´Ð³Ð¾Ð²ÑŒ
+- dundgovi
+- dundgovĭ
+MN-061:
+- Ð”Ð¾Ñ€Ð½Ð¾Ð´
+- dornod
+- dornod
+MN-063:
+- Ð”Ð¾Ñ€Ð½Ð¾Ð³Ð¾Ð²ÑŒ
+- dornogovi
+- dornogovĭ
+MN-064:
+- ! "Ð“Ð¾Ð²ÑŒÑ\x81Ò¯Ð¼Ð±Ñ\x8DÑ€"
+- govisymber
+- govĭ-sümber
+MN-065:
+- ! "Ð“Ð¾Ð²ÑŒ-Ð\x90Ð»Ñ‚Ð°Ð¹"
+- govi-altai
+- govĭ-altay
+MN-067:
+- Ð‘ÑƒÐ»Ð³Ð°Ð½
+- bulgan
+- bulgan
+MN-069:
+- ! "Ð‘Ð°Ñ\x8FÐ½Ñ…Ð¾Ð½Ð³Ð¾Ñ€"
+- bayunhongor
+- bayanhongor
+MN-071:
+- ! "Ð‘Ð°Ñ\x8FÐ½-Ó¨Ð»Ð³Ð¸Ð¹"
+- bayun-ulgii
+- bayan-Ölgiy
+MN-073:
+- ! "Ð\x90Ñ€Ñ…Ð°Ð½Ð³Ð°Ð¹"
+- arhangai
+- arhangay
+MN-1:
+- Ð£Ð»Ð°Ð°Ð½Ð±Ð°Ð°Ñ‚Ð°Ñ€
+- ulaanbaatar
+- ulaanbaatar
+MR-01:
+- hodh ech chargui
+- hodh ech chargui
+MR-02:
+- hodh el gharbi
+- hodh el gharbi
+MR-03:
+- assaba
+- assaba
+MR-04:
+- gorgol
+- gorgol
+MR-05:
+- brakna
+- brakna
+MR-06:
+- trarza
+- trarza
+MR-07:
+- adrar
+- adrar
+MR-08:
+- dakhlet nouÃ¢dhibou
+- dakhlet nouādhibou
+MR-09:
+- tagant
+- tagant
+MR-10:
+- guidimaka
+- guidimaka
+MR-11:
+- tiris zemmour
+- tiris zemmour
+MR-12:
+- inchiri
+- inchiri
+MR-NKC:
+- nouakchott
+- nouakchott
+MT-01:
+- attard
+MT-02:
+- balzan
+MT-03:
+- birgu
+MT-04:
+- birkirkara
+MT-05:
+- birzebbuga
+MT-06:
+- bormla
+MT-07:
+- dingli
+MT-08:
+- fgura
+MT-09:
+- floriana
+MT-10:
+- fontana
+MT-11:
+- gudja
+MT-12:
+- gzira
+MT-13:
+- gÄ§ajnsielem
+MT-14:
+- gÄ§arb
+MT-15:
+- gÄ§argÄ§ur
+MT-16:
+- gÄ§asri
+MT-17:
+- gÄ§axaq
+MT-18:
+- Ä¦amrun
+MT-19:
+- iklin
+MT-20:
+- isla
+MT-21:
+- kalkara
+MT-22:
+- kercem
+MT-23:
+- kirkop
+MT-24:
+- lija
+MT-25:
+- luqa
+MT-26:
+- marsa
+MT-27:
+- marsaskala
+MT-28:
+- marsaxlokk
+MT-29:
+- mdina
+MT-30:
+- mellieÄ§a
+MT-31:
+- mgarr
+MT-32:
+- mosta
+MT-33:
+- mqabba
+MT-34:
+- msida
+MT-35:
+- mtarfa
+MT-36:
+- munxar
+MT-37:
+- nadur
+MT-38:
+- naxxar
+MT-39:
+- paola
+MT-40:
+- pembroke
+MT-41:
+- pietÃ
+MT-42:
+- qala
+MT-43:
+- qormi
+MT-44:
+- qrendi
+MT-45:
+- rabat (gÄ§awdex)
+MT-46:
+- rabat (malta)
+MT-47:
+- safi
+MT-48:
+- san Ä iljan
+MT-49:
+- san Ä wann
+MT-50:
+- san lawrenz
+MT-51:
+- san pawl il-baÄ§ar
+MT-52:
+- sannat
+MT-53:
+- santa lucija
+MT-54:
+- santa venera
+MT-55:
+- siggiewi
+MT-56:
+- sliema
+MT-57:
+- swieqi
+MT-58:
+- ta' xbiex
+MT-59:
+- tarxien
+MT-60:
+- valletta
+MT-61:
+- xagÄ§ra
+MT-62:
+- xewkija
+MT-63:
+- xgÄ§ajra
+MT-64:
+- Å»abbar
+MT-65:
+- Å»ebbuÄ¡ (gÄ§awdex)
+MT-66:
+- Å»ebbuÄ¡ (malta)
+MT-67:
+- zejtun
+MT-68:
+- zurrieq
+MU-AG:
+- agalega islands
+- agalega islands
+MU-BL:
+- black river
+- black river
+MU-BR:
+- beau bassin-rose hill
+- beau bassin-rose hill
+MU-CC:
+- cargados carajos
+- cargados carajos shoals
+MU-CU:
+- curepipe
+- curepipe
+MU-FL:
+- flacq
+- flacq
+MU-GP:
+- grand port
+- grand port
+MU-MO:
+- moka
+- moka
+MU-PA:
+- pamplemousses
+- pamplemousses
+MU-PL:
+- port louis city
+- port louis
+MU-PU:
+- port louis district
+MU-PW:
+- plaines wilhems
+- plaines wilhems
+MU-QB:
+- quatre bornes
+- quatre bornes
+MU-RO:
+- rodrigues island
+- rodrigues island
+MU-RR:
+- riviÃ¨re du rempart
+- rivière du rempart
+MU-SA:
+- savanne
+- savanne
+MU-VP:
+- vacoas-phoenix
+- vacoas-phoenix
+MV-01:
+- seenu
+- seenu
+MV-02:
+- alif dhaalu
+- alif alif
+- alif
+MV-03:
+- lhaviyani
+- lhaviyani
+MV-04:
+- vaavu
+- vaavu
+MV-05:
+- laamu
+- laamu
+MV-07:
+- haa alif
+- haa alif
+MV-08:
+- thaa
+- thaa
+MV-12:
+- meemu
+- meemu
+MV-13:
+- raa
+- raa
+MV-14:
+- faafu
+- faafu
+MV-17:
+- dhaalu atoll
+- dhaalu
+MV-20:
+- baa
+- baa
+MV-23:
+- haa dhaalu
+- haa dhaalu
+MV-24:
+- shaviyani
+- shaviyani
+MV-25:
+- noonu
+- noonu
+MV-26:
+- kaafu
+- kaafu
+MV-27:
+- gaafu alif
+- gaaf alif
+MV-28:
+- gaafu dhaalu
+- gaafu dhaalu
+MV-29:
+- gnaviyani
+- gnaviyani
+MV-MLE:
+- malÃ©
+- male
+MW-BA:
+- balaka
+MW-BL:
+- blantyre
+- blantyre
+MW-CK:
+- chikwawa
+- chikwawa
+MW-CR:
+- chiradzulu
+- chiradzulu
+MW-CT:
+- chitipa
+- chitipa
+MW-DE:
+- dedza
+- dedza
+MW-DO:
+- dowa
+- dowa
+MW-KR:
+- karonga
+- karonga
+MW-KS:
+- kasungu
+- kasungu
+MW-LI:
+- lilongwe
+- lilongwe
+MW-LK:
+- likoma
+MW-MC:
+- mchinji
+- mchinji
+MW-MG:
+- mangochi
+- mangochi
+MW-MH:
+- machinga
+- machinga
+MW-MU:
+- mulanje
+- mulanje
+MW-MW:
+- mwanza
+- mwanza
+MW-MZ:
+- mzimba
+- mzimba
+MW-NB:
+- nkhata bay
+- nkhata bay
+MW-NE:
+- neno
+MW-NI:
+- ntchisi
+- ntchisi
+MW-NK:
+- nkhotakota
+- nkhotakota
+MW-NS:
+- nsanje
+- nsanje
+MW-NU:
+- ntcheu
+- ntcheu
+MW-PH:
+- phalombe
+MW-RU:
+- rumphi
+- rumphi
+MW-SA:
+- salima
+- salima
+MW-TH:
+- thyolo
+- thyolo
+MW-ZO:
+- zomba
+- zomba
+MX-AGU:
+- aguascalientes
+- aguascalientes
+MX-BCN:
+- baja california
+- baja california
+MX-BCS:
+- baja california sur
+- baja california sur
+MX-CAM:
+- campeche
+- campeche
+MX-CHH:
+- chihuahua
+- chihuahua
+MX-CHP:
+- chiapas
+- chiapas
+MX-COA:
+- coahuila de zaragoza
+- coahuila
+MX-COL:
+- colima
+- colima
+MX-DIF:
+- distrito federal
+- distrito federal
+MX-DUR:
+- durango
+- durango
+MX-GRO:
+- guerrero
+- guerrero
+MX-GUA:
+- guanajuato
+- guanajuato
+MX-HID:
+- hidalgo
+- hidalgo
+MX-JAL:
+- jalisco
+- jalisco
+MX-MEX:
+- mÃ©xico
+- méxico
+MX-MIC:
+- michoacÃ¡n de ocampo
+- michoacán
+MX-MOR:
+- morelos
+- morelos
+MX-NAY:
+- nayarit
+- nayarit
+MX-NLE:
+- nuevo leÃ³n
+- nuevo león
+MX-OAX:
+- oaxaca
+- oaxaca
+MX-PUE:
+- puebla
+- puebla
+MX-QUE:
+- querÃ©taro arteaga
+- queretaro
+MX-ROO:
+- quintana roo
+- quintana roo
+MX-SIN:
+- sinaloa
+- sinaloa
+MX-SLP:
+- san luÃ­s potosÃ­
+- san luis potosí
+MX-SON:
+- sonora
+- sonora
+MX-TAB:
+- tabasco
+- tabasco
+MX-TAM:
+- tamaulipas
+- tamaulipas
+MX-TLA:
+- tlaxcala
+- tlaxcala
+MX-VER:
+- veracruz llave
+- veracruz
+MX-YUC:
+- yucatÃ¡n
+- yucatán
+MX-ZAC:
+- zacatecas
+- zacatecas
+MY-01:
+- johor
+MY-02:
+- kedah
+MY-03:
+- kelantan
+MY-04:
+- melaka
+MY-05:
+- negeri sembilan
+MY-06:
+- pahang
+MY-07:
+- pulau pinang
+MY-08:
+- perak
+MY-09:
+- perlis
+MY-10:
+- selangor
+MY-11:
+- terengganu
+MY-12:
+- sabah
+MY-13:
+- sarawak
+MY-14:
+- wilayah persekutuan kuala lumpur
+MY-15:
+- wilayah persekutuan labuan
+MY-16:
+- wilayah persekutuan putra jaya
+MZ-A:
+- niassa
+- niassa
+MZ-B:
+- manica
+- manica
+MZ-G:
+- gaza
+- gaza
+MZ-I:
+- inhambane
+- inhambane
+MZ-L:
+- maputo
+- maputo
+MZ-N:
+- nampula
+- nampula
+MZ-P:
+- cabo delgado
+- cabo delgado
+MZ-Q:
+- zambÃ©zia
+- zambézia
+MZ-S:
+- sofala
+- sofala
+MZ-T:
+- tete
+- tete
+NA-CA:
+- caprivi
+- caprivi
+NA-ER:
+- erongo
+- erongo
+NA-HA:
+- hardap
+- hardap
+NA-KA:
+- karas
+- karas
+NA-KH:
+- khomas
+- khomas
+NA-KU:
+- kunene
+- kunene
+NA-OD:
+- otjozondjupa
+- otjozondjupa
+NA-OH:
+- omaheke
+- omaheke
+NA-OK:
+- okavango
+- okavango
+NA-ON:
+- oshana
+- oshana
+NA-OS:
+- omusati
+- omusati
+NA-OT:
+- oshikoto
+- oshikoto
+NA-OW:
+- ohangwena
+- ohangwena
+NE-1:
+- agadez
+- agadez
+NE-2:
+- diffa
+- diffa
+NE-3:
+- dosso
+- dosso
+NE-4:
+- maradi
+- maradi
+NE-5:
+- tahoua
+- tahoua
+NE-6:
+- tillabÃ©ri
+- tillaberi
+NE-7:
+- zinder
+- zinder
+NE-8:
+- niamey
+- niamey
+NG-AB:
+- abia
+- abia
+NG-AD:
+- adamawa
+- adamawa
+NG-AK:
+- akwa ibom
+- akwa ibom
+NG-AN:
+- anambra
+- anambra
+NG-BA:
+- bauchi
+- bauchi
+NG-BE:
+- benue
+- benue
+NG-BO:
+- borno
+- borno
+NG-BY:
+- bayelsa
+NG-CR:
+- cross river
+- cross river
+NG-DE:
+- delta
+- delta
+NG-EB:
+- ebonyi
+NG-ED:
+- edo
+- edo
+NG-EK:
+- ekiti
+NG-EN:
+- enugu
+- enugu
+NG-FC:
+- abuja (fct)
+- abuja capital territory
+NG-GO:
+- gombe
+NG-IM:
+- imo
+- imo
+NG-JI:
+- jigawa
+- jigawa
+NG-KD:
+- kaduna
+- kaduna
+NG-KE:
+- kebbi
+- kebbi
+NG-KN:
+- kano
+- kano
+NG-KO:
+- kogi
+- kogi
+NG-KT:
+- katsina
+- katsina
+NG-KW:
+- kwara
+- kwara
+NG-LA:
+- lagos
+- lagos
+NG-NA:
+- nasarawa
+NG-NI:
+- niger
+- niger
+NG-OG:
+- ogun
+- ogun
+NG-ON:
+- ondo
+- ondo
+NG-OS:
+- osun
+- osun
+NG-OY:
+- oyo
+- oyo
+NG-PL:
+- plateau
+- plateau
+NG-RI:
+- rivers
+- rivers
+NG-SO:
+- sokoto
+- sokoto
+NG-TA:
+- taraba
+- taraba
+NG-YO:
+- yobe
+- yobe
+NG-ZA:
+- zamfara
+NI-AN:
+- atlÃ¡ntico norte
+NI-AS:
+- atlÃ¡ntico sur
+NI-BO:
+- boaco
+- boaco
+NI-CA:
+- carazo
+- carazo
+NI-CI:
+- chinandega
+- chinandega
+NI-CO:
+- chontales
+- chontales
+NI-ES:
+- estelÃ­
+- estelí
+NI-GR:
+- granada
+- granada
+NI-JI:
+- jinotega
+- jinotega
+NI-LE:
+- leÃ³n
+- león
+NI-MD:
+- madriz
+- madriz
+NI-MN:
+- managua
+- manaqua
+NI-MS:
+- masaya
+- masaya
+NI-MT:
+- matagalpa
+- matagalpa
+NI-NS:
+- nueva segovia
+- nueva segovia
+NI-RI:
+- rivas
+- rivas
+NI-SJ:
+- rÃ­o san juan
+- río san juan
+NL-DR:
+- drenthe
+- drenthe
+NL-FL:
+- flevoland
+- flevoland
+NL-FR:
+- friesland
+- friesland
+NL-GE:
+- gelderland
+- gelderland
+NL-GR:
+- groningen
+- groningen
+NL-LI:
+- limburg
+- limburg
+NL-NB:
+- noord-brabant
+- noord-brabant
+NL-NH:
+- noord-holland
+- noord-holland
+NL-OV:
+- overijssel
+- overijssel
+NL-UT:
+- utrecht
+- utrecht
+NL-ZE:
+- zeeland
+- zeeland
+NL-ZH:
+- zuid-holland
+- zuid-holland
+NO-01:
+- Ã˜stfold
+- Østfold
+NO-02:
+- akershus
+- akershus
+NO-03:
+- oslo
+- oslo
+NO-04:
+- hedmark
+- hedmark
+NO-05:
+- oppland
+- oppland
+NO-06:
+- buskerud
+- buskerud
+NO-07:
+- vestfold
+- vestfold
+NO-08:
+- telemark
+- telemark
+NO-09:
+- aust-agder
+- aust-agder
+NO-10:
+- vest-agder
+- vest-agder
+NO-11:
+- rogaland
+- rogaland
+NO-12:
+- hordaland
+- hordaland
+NO-14:
+- sogn og fjordane
+- sogn og fjordane
+NO-15:
+- mÃ¸re og romsdal
+- møre og romsdal
+NO-16:
+- sÃ¸r-trÃ¸ndelag
+- sør-trøndelag
+NO-17:
+- nord-trÃ¸ndelag
+- nord-trøndelag
+NO-18:
+- nordland
+- nordland
+NO-19:
+- troms
+- troms
+NO-20:
+- finnmark
+- finnmark
+NO-21:
+- svalbard
+- svalbard
+NO-22:
+- jan mayen
+- jan mayen
+NP-BA:
+- bagmati
+- bagmati
+NP-BH:
+- bheri
+- bheri
+NP-DH:
+- dhawalagiri
+- dhawalagiri
+NP-GA:
+- gandaki
+- gandaki
+NP-JA:
+- janakpur
+- janakpur
+NP-KA:
+- karnali
+- karnali
+NP-KO:
+- kosi
+- kosi
+NP-LU:
+- lumbini
+- lumbini
+NP-MA:
+- mahakali
+- mahakali
+NP-ME:
+- mechi
+- mechi
+NP-NA:
+- narayani
+- narayani
+NP-RA:
+- rapti
+- rapti
+NP-SA:
+- sagarmatha
+- sagarmatha
+NP-SE:
+- seti
+- seti
+NR-01:
+- aiwo
+NR-02:
+- anabar
+NR-03:
+- anetan
+NR-04:
+- anibare
+NR-05:
+- baiti
+NR-06:
+- boe
+NR-07:
+- buada
+NR-08:
+- denigomodu
+NR-09:
+- ewa
+NR-10:
+- ijuw
+NR-11:
+- meneng
+NR-12:
+- nibok
+NR-13:
+- uaboe
+NR-14:
+- yaren
+NZ-AUK:
+- auckland
+- auckland
+NZ-BOP:
+- bay of plenty
+- bay of plenty
+NZ-CAN:
+- canterbury
+- canterbury
+NZ-GIS:
+- gisborne
+- gisborne
+NZ-HKB:
+- hawke's bay
+- hawkes's bay
+NZ-MBH:
+- marlborough
+- marlborough
+NZ-MWT:
+- manawatu-wanganui
+- manawatu-wanganui
+NZ-NSN:
+- nelson
+- nelson
+NZ-NTL:
+- northland
+- northland
+NZ-OTA:
+- otago
+- otago
+NZ-STL:
+- southland
+- southland
+NZ-TAS:
+- tasman
+- tasman
+NZ-TKI:
+- taranaki
+- taranaki
+NZ-WGN:
+- wellington
+- wellington
+NZ-WKO:
+- waikato
+- waikato
+NZ-WTC:
+- west coast
+- west coast
+OM-BA:
+- al batinah
+- al bāţinah
+OM-BU:
+- al buraymi
+OM-DA:
+- ad dakhiliyah
+- ad dākhilīyah
+OM-MA:
+- masqat
+- masqaţ
+OM-MU:
+- musandam
+- musandam
+OM-SH:
+- ash sharqiyah
+- ash sharqīyah
+OM-WU:
+- al wustÃ¡
+- al wusţā
+OM-ZA:
+- az zahirah
+- az zāhirah
+OM-ZU:
+- zhufar
+PA-1:
+- bocas del toro
+- botas del toro
+PA-2:
+- coclÃ©
+- coclé
+PA-3:
+- colÃ³n
+- colón
+PA-4:
+- chiriquÃ­
+- chiriquī
+PA-5:
+- dariÃ©n
+- darién
+PA-6:
+- herrera
+- herrera
+PA-7:
+- los santos
+- los santos
+PA-8:
+- panamÃ¡
+- panamá
+PA-9:
+- veraguas
+- veraguas
+PE-AMA:
+- amazonas
+- amazonas
+PE-ANC:
+- ancash
+- ancash
+PE-APU:
+- apurimac
+- apurímac
+PE-ARE:
+- arequipa
+- arequipa
+PE-AYA:
+- ayacucho
+- ayacucho
+PE-CAJ:
+- cajamarca
+- cajamarca
+PE-CAL:
+- callao
+- el callao
+PE-CUS:
+- cusco
+- cuzco
+PE-HUC:
+- huanuco
+- huánuco
+PE-HUV:
+- huancavelica
+- huancavelica
+PE-ICA:
+- ica
+- ica
+PE-JUN:
+- junÃ­n
+- junín
+PE-LAL:
+- la libertad
+- la libertad
+PE-LAM:
+- lambayeque
+- lambayeque
+PE-LIM:
+- lima
+- lima
+PE-LOR:
+- loreto
+- loreto
+PE-MDD:
+- madre de dios
+- madre de dios
+PE-MOQ:
+- moquegua
+- moquegua
+PE-PAS:
+- pasco
+- pasco
+PE-PIU:
+- piura
+- piura
+PE-PUN:
+- puno
+- puno
+PE-SAM:
+- san martin
+- san martín
+PE-TAC:
+- tacna
+- tacna
+PE-TUM:
+- tumbes
+- tumbes
+PE-UCA:
+- ucayali
+- ucayali
+PG-CPK:
+- simbu
+- chimbu
+PG-CPM:
+- central
+- central
+PG-EBR:
+- east new britain
+- east new britain
+PG-EHG:
+- eastern highlands
+- eastern highlands
+PG-EPW:
+- enga
+- enga
+PG-ESW:
+- east sepik
+- east sepik
+PG-GPK:
+- gulf
+- gulf
+PG-MBA:
+- milne bay
+- milne bay
+PG-MPL:
+- morobe
+- morobe
+PG-MPM:
+- madang
+- madang
+PG-MRL:
+- manus
+- manus
+PG-NCD:
+- national capital district
+- national capital district
+PG-NIK:
+- new ireland
+- new ireland
+PG-NPP:
+- oro
+- northern
+PG-NSA:
+- north solomons
+- north solomons
+PG-SAN:
+- sandaun
+- sandaun
+PG-SHM:
+- southern highlands
+- southern highlands
+PG-WBK:
+- west new britain
+- west new britain
+PG-WHM:
+- western highlands
+- western highlands
+PG-WPD:
+- western
+- western
+PH-00:
+- national capital region (ncr)
+PH-01:
+- ilocos region (region i)
+PH-02:
+- cagayan valley (region ii)
+PH-03:
+- central luzon (region iii)
+PH-05:
+- bicol region (region v)
+PH-06:
+- western visayas (region vi)
+PH-07:
+- central visayas (region vii)
+PH-08:
+- eastern visayas (region viii)
+PH-09:
+- zamboanga peninsula (region ix)
+PH-10:
+- northern mindanao (region x)
+PH-11:
+- davao region (region xi)
+
+PH-12:
+- soccsksargen (region xii)
+PH-13:
+- caraga (region xiii)
+PH-14:
+- autonomous region in muslim mindanao (armm)
+PH-15:
+- cordillera administrative region (car)
+PH-40:
+- calabarzon (region iv-a)
+PH-41:
+- mimaropa (region iv-b)
+PH-ABR:
+- abra
+- abra
+PH-AGN:
+- agusan del norte
+- agusan del norte
+PH-AGS:
+- agusan del sur
+- agusan del sur
+PH-AKL:
+- aklan
+- aklan
+PH-ALB:
+- albay
+- albay
+PH-ANT:
+- antique
+- antique
+PH-APA:
+- apayao
+- apayao
+PH-AUR:
+- aurora
+- aurora
+PH-BAN:
+- bataan
+- bataan
+PH-BAS:
+- basilan
+- basilan
+PH-BEN:
+- benguet
+- benguet
+PH-BIL:
+- biliran
+- biliran
+PH-BOH:
+- bohol
+- bohol
+PH-BTG:
+- batangas
+- batangas
+PH-BTN:
+- batanes
+- batanes
+PH-BUK:
+- bukidnon
+- bukidnon
+PH-BUL:
+- bulacan
+- bulacan
+PH-CAG:
+- cagayan
+- cagayan
+PH-CAM:
+- camiguin
+- camiguin
+PH-CAN:
+- camarines norte
+- camarines norte
+PH-CAP:
+- capiz
+- capiz
+PH-CAS:
+- camarines sur
+- camarines sur
+PH-CAT:
+- catanduanes
+- catanduanes
+PH-CAV:
+- cavite
+- cavite
+PH-CEB:
+- cebu
+- cebu
+PH-COM:
+- compostela valley
+- compostela valley
+PH-DAO:
+- davao oriental
+- davao oriental
+PH-DAS:
+- davao city
+- davao del sur
+- davao del sur
+PH-DAV:
+- davao del norte
+- davao del norte
+PH-DIN:
+- dinagat islands
+- dinagat islands
+PH-EAS:
+- eastern samar
+- eastern samar
+PH-GUI:
+- guimaras
+- guimaras
+PH-IFU:
+- ifugao
+- ifugao
+PH-ILI:
+- iloilo
+- iloilo
+PH-ILN:
+- ilocos norte
+- ilocos norte
+PH-ILS:
+- ilocos sur
+- ilocos sur
+PH-ISA:
+- isabela
+- isabela
+PH-KAL:
+- kalinga
+- kalinga
+PH-LAG:
+- laguna
+- laguna
+PH-LAN:
+- lanao del norte
+- lanao del norte
+PH-LAS:
+- lanao del sur
+- lanao del sur
+PH-LEY:
+- leyte
+- leyte
+PH-LUN:
+- la union
+- la union
+PH-MAD:
+- marinduque
+- marinduque
+PH-MAG:
+- maguindanao
+- maguindanao
+PH-MAS:
+- masbate
+- masbate
+PH-MDC:
+- occidental mindoro
+- occidental mindoro
+PH-MDR:
+- oriental mindoro
+- oriental mindoro
+PH-MOU:
+- mountain province
+- mountain
+PH-MSC:
+- misamis occidental
+- misamis occidental
+PH-MSR:
+- misamis oriental
+- misamis oriental
+PH-NCO:
+- cotabato
+- cotabato
+- cotabato city
+PH-NEC:
+- negros occidental
+- negros occidental
+- negros occidetal
+PH-NER:
+- negros oriental
+- negros oriental
+PH-NSA:
+- northern samar
+- northern samar
+PH-NUE:
+- nueva ecija
+- nueva ecija
+PH-NUV:
+- nueva vizcaya
+- nueva vizcaya
+PH-PAM:
+- pampanga
+- pampanga
+PH-PAN:
+- pangasinan
+- pangasinan
+PH-PLW:
+- palawan
+- palawan
+PH-QUE:
+- quezon
+- quezon
+PH-QUI:
+- quirino
+- quirino
+PH-RIZ:
+- rizal
+- rizal
+PH-ROM:
+- romblon
+- romblon
+PH-SAR:
+- sarangani
+- sarangani
+PH-SCO:
+- south cotabato
+- south cotabato
+PH-SIG:
+- siquijor
+- siquijor
+PH-SLE:
+- southern leyte
+- southern leyte
+PH-SLU:
+- sulu
+- sulu
+PH-SOR:
+- sorsogon
+- sorsogon
+PH-SUK:
+- sultan kudarat
+- sultan kudarat
+PH-SUN:
+- surigao del norte
+- surigao del norte
+PH-SUR:
+- surigao del sur
+- surigao del sur
+PH-TAR:
+- tarlac
+- tarlac
+PH-TAW:
+- tawi-tawi
+- tawi-tawi
+PH-WSA:
+- samar
+- samar
+PH-ZAN:
+- zamboanga del norte
+- zamboanga del norte
+PH-ZAS:
+- zamboanga del sur
+- zamboanga del sur
+PH-ZMB:
+- zambales
+- zambales
+PH-ZSI:
+- zamboanga sibugay
+- zamboanga-sibugay
+PK-BA:
+- balochisan
+- baluchistan
+PK-IS:
+- islamabad
+- islamabad
+PK-JK:
+- azad kashmir
+- azad kashmir
+PK-NA:
+- gilgit-baltistan
+- northern areas
+PK-NW:
+- khyber pakhtunkhwa
+- north-west frontier
+PK-PB:
+- punjab
+- punjab
+PK-SD:
+- sindh
+- sind
+PK-TA:
+- federally administered tribal areas
+- federally administered tribal areas
+PL-DS:
+- dolnoÅ›lÄ…skie
+PL-KP:
+- kujawsko-pomorskie
+PL-LB:
+- lubuskie
+PL-LD:
+- ! "Å\x81Ã³dzkie"
+- Łódź
+PL-LU:
+- lubelskie
+- lublin
+PL-MA:
+- maÅ‚opolskie
+PL-MZ:
+- mazowieckie
+PL-OP:
+- opolskie
+- opole
+PL-PD:
+- podlaskie
+PL-PK:
+- podkarpackie
+PL-PM:
+- pomorskie
+PL-SK:
+- ÅšwiÄ™tokrzyskie
+- skierniewice
+PL-SL:
+- ÅšlÄ…skie
+- słupsk
+PL-WN:
+- warmiÅ„sko-mazurskie
+PL-WP:
+- wielkopolskie
+PL-ZP:
+- zachodniopomorskie
+PT-01:
+- aveiro
+- aveiro
+PT-02:
+- beja
+- beja
+PT-03:
+- braga
+- braga
+PT-04:
+- braganÃ§a
+- bragança
+PT-05:
+- castelo branco
+- castelo branco
+PT-06:
+- coimbra
+- coimbra
+PT-07:
+- Ã‰vora
+- Évora
+PT-08:
+- faro
+- faro
+PT-09:
+- guarda
+- guarda
+PT-10:
+- leiria
+- leiria
+PT-11:
+- lisboa
+- lisboa
+PT-12:
+- portalegre
+- portalegre
+PT-13:
+- porto
+- porto
+PT-14:
+- santarÃ©m
+- santarém
+PT-15:
+- setÃºbal
+- setúbal
+PT-16:
+- viana do castelo
+- viana do castelo
+PT-17:
+- vila real
+- vila real
+PT-18:
+- viseu
+- viseu
+PT-20:
+- aÃ§ores
+- açores
+PT-30:
+- madeira
+- madeira
+PW-002:
+- aimeliik
+PW-004:
+- airai
+PW-010:
+- angaur
+PW-050:
+- hatobohei
+PW-100:
+- kayangel
+PW-150:
+- koror
+PW-212:
+- melekeok
+PW-214:
+- ngaraard
+PW-218:
+- ngarchelong
+PW-222:
+- ngardmau
+PW-224:
+- ngatpang
+PW-226:
+- ngchesar
+PW-227:
+- ngeremlengui
+PW-228:
+- ngiwal
+PW-350:
+- peleliu
+PW-370:
+- sonsorol
+PY-1:
+- concepciÃ³n
+- concepción
+PY-10:
+- alto paranÃ¡
+- alto parang
+PY-11:
+- central
+- central
+PY-12:
+- Ã‘eembucÃº
+- neembucú
+PY-13:
+- amambay
+- amambay
+PY-14:
+- canindeyÃº
+- canindeyú
+PY-15:
+- presidente hayes
+- presidente hayes
+PY-16:
+- alto paraguay
+- alto paraguay
+PY-19:
+- boquerÃ³n
+- boquerón
+PY-2:
+- san pedro
+- san pedro
+PY-3:
+- cordillera
+- cordillera
+PY-4:
+- guairÃ¡
+- guairá
+PY-5:
+- caaguazÃº
+- caaguazú
+PY-6:
+- caazapÃ¡
+- caazapá
+PY-7:
+- itapÃºa
+- itapúa
+PY-8:
+- misiones
+- misiones
+PY-9:
+- paraguarÃ­
+- paraguarī
+PY-ASU:
+- asunciÃ³n - distrito capital
+- asunción
+QA-DA:
+- ad dawhah
+- ad dawḩah
+QA-GH:
+- al ghuwayriyah
+- al ghuwayrīyah
+QA-JB:
+- jariyan al batnah
+- jarīyān al bāţnah
+QA-JU:
+- al jumayliyah
+- al jumaylīyah
+QA-KH:
+- al khawr
+- al khawr
+QA-MS:
+- madinat ash shamal
+- madīnat ash shamāl
+QA-RA:
+- ar rayyan
+- ar rayyān
+QA-US:
+- umm salal
+- umm Şalāl
+QA-WA:
+- al wakrah
+- al wakrah
+RO-AB:
+- alba
+- alba
+RO-AG:
+- argeÅŸ
+- argeş
+RO-AR:
+- arad
+- arad
+RO-B:
+- bucureÅŸti
+- bucureşti
+RO-BC:
+- bacÄƒu
+- bacău
+RO-BH:
+- bihor
+- bihor
+RO-BN:
+- bistriÅ£a-nÄƒsÄƒud
+- bistriţa-năsăud
+RO-BR:
+- brÄƒila
+- brăila
+RO-BT:
+- botoÅŸani
+- botoşani
+RO-BV:
+- braÅŸov
+- braşov
+RO-BZ:
+- buzÄƒu
+- buzău
+RO-CJ:
+- cluj
+- cluj
+RO-CL:
+- cÄƒlÄƒraÅŸi
+- călăraşi
+RO-CS:
+- caraÅŸ-severin
+- caraş-severin
+RO-CT:
+- constanÅ£a
+- constanţa
+RO-CV:
+- covasna
+- covasna
+RO-DB:
+- dÃ¢mboviÅ£a
+- dâmboviţa
+RO-DJ:
+- dolj
+- dolj
+RO-GJ:
+- gorj
+- gorj
+RO-GL:
+- galaÅ£i
+- galaţi
+RO-GR:
+- giurgiu
+- giurgiu
+RO-HD:
+- hunedoara
+- hunedoara
+RO-HR:
+- harghita
+- harghita
+RO-IF:
+- ilfov
+RO-IL:
+- ialomiÅ£a
+- ialomiţa
+RO-IS:
+- iaÅŸi
+- iaşi
+RO-MH:
+- mehedinÅ£i
+- mehedinţi
+RO-MM:
+- maramureÅŸ
+- maramureş
+RO-MS:
+- mureÅŸ
+- mureş
+RO-NT:
+- neamÅ£
+- neamţ
+RO-OT:
+- olt
+- olt
+RO-PH:
+- prahova
+- prahova
+RO-SB:
+- sibiu
+- sibiu
+RO-SJ:
+- sÄƒlaj
+- sălaj
+RO-SM:
+- satu mare
+- satu mare
+RO-SV:
+- suceava
+- suceava
+RO-TL:
+- tulcea
+- tulcea
+RO-TM:
+- timiÅŸ
+- timiş
+RO-TR:
+- teleorman
+- teleorman
+RO-VL:
+- valcea
+- vâlcea
+RO-VN:
+- vrancea
+- vrancea
+RO-VS:
+- vaslui
+- vaslui
+RS-00:
+- beograd
+RS-01:
+- ! "severnobaÄ\x8Dki"
+RS-02:
+- srednje-banatski
+RS-03:
+- severno-banatski
+RS-04:
+- juÅ¾no-banatski
+RS-05:
+- ! "zapadno-baÄ\x8Dki"
+RS-06:
+- ! "juÅ¾nobaÄ\x8Dki"
+RS-07:
+- sremski
+RS-08:
+- ! "maÄ\x8Dvanski"
+RS-09:
+- kolubarski
+RS-10:
+- podunavski
+RS-11:
+- ! "braniÄ\x8Devski"
+RS-12:
+- Å umadijski
+RS-13:
+- pomoravski
+RS-14:
+- borski
+RS-15:
+- ! "zajeÄ\x8Darski"
+RS-16:
+- zlatiborski
+RS-17:
+- ! "moraviÄ\x8Dki"
+RS-18:
+- raÅ¡ki
+RS-19:
+- rasinski
+RS-20:
+- niÅ¡avski
+RS-21:
+- ! "topliÄ\x8Dki"
+RS-22:
+- pirotski
+RS-23:
+- ! "jablaniÄ\x8Dki"
+RS-24:
+- ! "pÄ\x8Dinjski"
+RS-25:
+- kosovski
+RS-26:
+- peÄ‡ki
+RS-27:
+- prizrenski
+RS-28:
+- ! "kosovsko-mitrovaÄ\x8Dki"
+RS-29:
+- kosovsko-pomoravski
+RS-KM:
+- kosovo
+RS-VO:
+- vojvodina
+RU-AD:
+- ! "Ð\x90Ð´Ñ‹Ð³ÐµÑ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- adygea republic
+- adygeya
+RU-AL:
+- ! "Ð\x90Ð»Ñ‚Ð°Ð¹ Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- altai republic
+- altay
+RU-ALT:
+- ! "Ð\x90Ð»Ñ‚Ð°Ð¹Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- altai krai
+- altayskiy kray
+RU-AMU:
+- ! "Ð\x90Ð¼ÑƒÑ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- amur oblast
+- amurskaya oblast'
+RU-ARK:
+- ! "Ð\x90Ñ€Ñ…Ð°Ð½Ð³ÐµÐ»ÑŒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- arkhangelsk oblast
+- arkhangel'skaya oblast'
+RU-AST:
+- ! "Ð\x90Ñ\x81Ñ‚Ñ€Ð°Ñ…Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- astrakhan oblast
+- astrakhanskaya oblast'
+RU-BA:
+- ! "Ð‘Ð°ÑˆÐºÐ¾Ñ€Ñ‚Ð¾Ñ\x81Ñ‚Ð°Ð½ Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- bashkortostan republic
+- bashkortostan
+RU-BEL:
+- ! "Ð‘ÐµÐ»Ð³Ð¾Ñ€Ð¾Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- belgorod oblast
+- belgorodskaya oblast'
+RU-BRY:
+- ! "Ð‘Ñ€Ñ\x8FÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- bryansk oblast
+- bryanskaya oblast'
+RU-BU:
+- ! "Ð‘ÑƒÑ€Ñ\x8FÑ‚Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- buryatia republic
+- buryatiya
+RU-CE:
+- ! "Ð§ÐµÑ‡ÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- chechen republic
+- chechenskaya respublika
+RU-CHE:
+- ! "Ð§ÐµÐ»Ñ\x8FÐ±Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- chelyabinsk oblast
+- chelyabinskaya oblast'
+RU-CHU:
+- ! "Ð§ÑƒÐºÐ¾Ñ‚Ñ\x81ÐºÐ¸Ð¹ Ð\x90Ðž"
+- chukotka ao
+- chukotskiy avtonomnyy okrug
+RU-CU:
+- ! "Ð§ÑƒÐ²Ð°ÑˆÑ\x81ÐºÐ°Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- chuvashia republic
+- chuvashskaya respublika
+RU-DA:
+- ! "Ð”Ð°Ð³ÐµÑ\x81Ñ‚Ð°Ð½ Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- dagestan republic
+- dagestan
+RU-IN:
+- ! "Ð˜Ð½Ð³ÑƒÑˆÐµÑ‚Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- ingushetia republic
+- ingushskaya respublika
+RU-IRK:
+- ! "Ð˜Ñ€ÐºÑƒÑ‚Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- irkutsk oblast
+- irkutskaya oblast'
+RU-IVA:
+- ! "Ð˜Ð²Ð°Ð½Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- ivanovo oblast
+- ivanovskaya oblast'
+RU-KAM:
+- ! "ÐšÐ°Ð¼Ñ‡Ð°Ñ‚Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- kamchatka krai
+- kamchatskaya oblast'
+RU-KB:
+- ! "ÐšÐ°Ð±Ð°Ñ€Ð´Ð¸Ð½Ð¾-Ð‘Ð°Ð»ÐºÐ°Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- kabardino-balkar republic
+- kabardino-balkarskaya respublika
+RU-KC:
+- ! "ÐšÐ°Ñ€Ð°Ñ‡Ð°ÐµÐ²Ð¾-Ð§ÐµÑ€ÐºÐµÑ\x81Ñ\x81ÐºÐ°Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- karachay-cherkess republic
+- karachayevo-cherkesskaya respublika
+RU-KDA:
+- ! "ÐšÑ€Ð°Ñ\x81Ð½Ð¾Ð´Ð°Ñ€Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- krasnodar krai
+- krasnodarskiy kray
+RU-KEM:
+- ! "ÐšÐµÐ¼ÐµÑ€Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kemerovo oblast
+- kemerovskaya oblast'
+RU-KGD:
+- ! "ÐšÐ°Ð»Ð¸Ð½Ð¸Ð½Ð³Ñ€Ð°Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kaliningrad oblast
+- kaliningradskaya oblast'
+RU-KGN:
+- ! "ÐšÑƒÑ€Ð³Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kurgan oblast
+- kurganskaya oblast'
+RU-KHA:
+- ! "Ð¥Ð°Ð±Ð°Ñ€Ð¾Ð²Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- khabarovsk krai
+- khabarovskiy kray
+RU-KHM:
+- khanty-mansiyskiy avtonomnyy okrug
+- khanty-mansiyskiy avtonomnyy okrug
+RU-KIR:
+- ! "ÐšÐ¸Ñ€Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kirov oblast
+- kirovskaya oblast'
+RU-KK:
+- ! "Ð¥Ð°ÐºÐ°Ñ\x81Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- khakassia republic
+- khakasiya
+RU-KL:
+- ! "ÐšÐ°Ð»Ð¼Ñ‹ÐºÐ¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- kalmykia republic
+- kalmykiya
+RU-KLU:
+- ! "ÐšÐ°Ð»ÑƒÐ¶Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kaluga oblast
+- kaluzhskaya oblast'
+RU-KO:
+- ! "ÐšÐ¾Ð¼Ð¸ Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- komi republic
+- komi
+RU-KOS:
+- ! "ÐšÐ¾Ñ\x81Ñ‚Ñ€Ð¾Ð¼Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kostroma oblast
+- kostromskaya oblast'
+RU-KR:
+- ! "ÐšÐ°Ñ€ÐµÐ»Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- karelia republic
+- kareliya
+RU-KRS:
+- ! "ÐšÑƒÑ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kursk oblast
+- kurskaya oblast'
+RU-KYA:
+- ! "ÐšÑ€Ð°Ñ\x81Ð½Ð¾Ñ\x8FÑ€Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- krasnoyarsk krai
+- krasnoyarskiy kray
+RU-LEN:
+- ! "Ð›ÐµÐ½Ð¸Ð½Ð³Ñ€Ð°Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- leningrad oblast
+- leningradskaya oblast'
+RU-LIP:
+- ! "Ð›Ð¸Ð¿ÐµÑ†ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- lipetsk oblast
+- lipetskaya oblast'
+RU-MAG:
+- ! "ÐœÐ°Ð³Ð°Ð´Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- magadan oblast
+- magadanskaya oblast'
+RU-ME:
+- ! "ÐœÐ°Ñ€Ð¸Ð¹ Ð­Ð» Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- mari el republic
+- mariy el
+RU-MO:
+- ! "ÐœÐ¾Ñ€Ð´Ð¾Ð²Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- mordovia republic
+- mordoviya
+RU-MOS:
+- ! "ÐœÐ¾Ñ\x81ÐºÐ¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- moscow oblast
+- moskovskaya oblast'
+RU-MOW:
+- ! "ÐœÐ¾Ñ\x81ÐºÐ²Ð°"
+- moscow
+- moskva
+RU-MUR:
+- ! "ÐœÑƒÑ€Ð¼Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- murmansk oblast
+- murmanskaya oblast'
+RU-NEN:
+- ! "Ð\x9DÐµÐ½ÐµÑ†ÐºÐ¸Ð¹ Ð°Ð²Ñ‚Ð¾Ð½Ð¾Ð¼Ð½Ñ‹Ð¹ Ð¾ÐºÑ€ÑƒÐ³"
+- nenetskiy avtonomnyy okrug
+- nenetskiy avtonomnyy okrug
+RU-NGR:
+- ! "Ð\x9DÐ¾Ð²Ð³Ð¾Ñ€Ð¾Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- novgorod oblast
+- novgorodskaya oblast'
+RU-NIZ:
+- ! "Ð\x9DÐ¸Ð¶ÐµÐ³Ð¾Ñ€Ð¾Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- nizhny novgorod oblast
+- nizhegorodskaya oblast'
+RU-NVS:
+- ! "Ð\x9DÐ¾Ð²Ð¾Ñ\x81Ð¸Ð±Ð¸Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- novosibirsk oblast
+- novosibirskaya oblast'
+RU-OMS:
+- ! "ÐžÐ¼Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- omsk oblast
+- omskaya oblast'
+RU-ORE:
+- ! "ÐžÑ€ÐµÐ½Ð±ÑƒÑ€Ð³Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- orenburg oblast
+- orenburgskaya oblast'
+RU-ORL:
+- ! "ÐžÑ€Ð»Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- oryol oblast
+- orlovskaya oblast'
+RU-PER:
+- ! "ÐŸÐµÑ€Ð¼Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- perm krai
+- permskaya oblast'
+RU-PNZ:
+- ! "ÐŸÐµÐ½Ð·ÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- penza oblast
+- penzenskaya oblast'
+RU-PRI:
+- ! "ÐŸÑ€Ð¸Ð¼Ð¾Ñ€Ñ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- primorski krai
+- primorskiy kray
+RU-PSK:
+- ! "ÐŸÑ\x81ÐºÐ¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- pskov oblast
+- pskovskaya oblast'
+RU-ROS:
+- ! "Ð Ð¾Ñ\x81Ñ‚Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- rostov oblast
+- rostovskaya oblast'
+RU-RYA:
+- ! "Ð Ñ\x8FÐ·Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- ryazan oblast
+- ryazanskaya oblast'
+RU-SA:
+- ! "Ð¡Ð°Ñ…Ð° (Ð¯ÐºÑƒÑ‚Ð¸Ñ\x8F) Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- sakha republic
+- sakha
+RU-SAK:
+- ! "Ð¡Ð°Ñ…Ð°Ð»Ð¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- sakhalin oblast
+- sakhalinskaya oblast'
+RU-SAM:
+- ! "Ð¡Ð°Ð¼Ð°Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- samara oblast
+- samarskaya oblast’
+RU-SAR:
+- ! "Ð¡Ð°Ñ€Ð°Ñ‚Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- saratov oblast
+- saratovskaya oblast'
+RU-SE:
+- ! "Ð¡ÐµÐ²ÐµÑ€Ð½Ð°Ñ\x8F ÐžÑ\x81ÐµÑ‚Ð¸Ñ\x8F-Ð\x90Ð»Ð°Ð½Ð¸Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- north ossetia-alania republic
+- severnaya osetiya
+RU-SMO:
+- ! "Ð¡Ð¼Ð¾Ð»ÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- smolensk oblast
+- smolenskaya oblast'
+RU-SPE:
+- Ð¡Ð°Ð½ÐºÑ‚-ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³
+- saint petersburg
+- sankt-peterburg
+RU-STA:
+- ! "Ð¡Ñ‚Ð°Ð²Ñ€Ð¾Ð¿Ð¾Ð»ÑŒÑ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- stavropol krai
+- stavropol 'skiy kray
+RU-SVE:
+- ! "Ð¡Ð²ÐµÑ€Ð´Ð»Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- sverdlovsk oblast
+- sverdlovskaya oblast'
+RU-TA:
+- ! "Ð¢Ð°Ñ‚Ð°Ñ€Ñ\x81Ñ‚Ð°Ð½ Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- tatarstan republic
+- tatarstan
+RU-TAM:
+- ! "Ð¢Ð°Ð¼Ð±Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- tambov oblast
+- tambovskaya oblast'
+RU-TOM:
+- ! "Ð¢Ð¾Ð¼Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- tomsk oblast
+- tomskaya oblast’
+RU-TUL:
+- ! "Ð¢ÑƒÐ»ÑŒÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- tula oblast
+- tul'skaya oblast'
+RU-TVE:
+- ! "Ð¢Ð²ÐµÑ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- tver oblast
+- tverskaya oblast'
+RU-TY:
+- ! "Ð¢Ñ‹Ð²Ð° Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- tuva republic
+- tyva
+RU-TYU:
+- ! "Ð¢ÑŽÐ¼ÐµÐ½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- tyumens oblast
+- tyumenskaya oblast'
+RU-UD:
+- ! "Ð£Ð´Ð¼ÑƒÑ€Ñ‚Ñ\x81ÐºÐ°Ñ\x8F Ñ€ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ°"
+- udmurtia republic
+- udmurtskaya respublika
+RU-ULY:
+- ! "Ð£Ð»ÑŒÑ\x8FÐ½Ð¾Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- ulyanovsk oblast
+- ul'yanovskaya oblast'
+RU-VGG:
+- ! "Ð’Ð¾Ð»Ð³Ð¾Ð³Ñ€Ð°Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- volgograd oblast
+- volgogradskaya oblast'
+RU-VLA:
+- ! "Ð’Ð»Ð°Ð´Ð¸Ð¼Ð¸Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- vladimir oblast
+- vladimirskaya oblast'
+RU-VLG:
+- ! "Ð’Ð¾Ð»Ð¾Ð³Ð¾Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- vologda oblast
+- vologodskaya oblast'
+RU-VOR:
+- ! "Ð’Ð¾Ñ€Ð¾Ð½ÐµÐ¶Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- voronezh oblast
+- voronezhskaya oblast'
+RU-YAN:
+- yamalo-nenetskiy avtonomnyy okrug
+- yamalo-nenetskiy avtonomnyy okrug
+RU-YAR:
+- ! "Ð¯Ñ€Ð¾Ñ\x81Ð»Ð°Ð²Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- yaroslavl oblast
+- yaroslavskaya oblast'
+RU-YEV:
+- yevreyskaya avtonomnaya oblast
+- yevreyskaya avtonomnaya oblast'
+RU-ZAB:
+- ! "Ð—Ð°Ð±Ð°Ð¹ÐºÐ°Ð»ÑŒÑ\x81ÐºÐ¸Ð¹ ÐºÑ€Ð°Ð¹"
+- zabaykalsky krai
+RW-01:
+- kigali
+RW-02:
+- est
+RW-03:
+- nord
+RW-04:
+- ouest
+RW-05:
+- sud
+SA-01:
+- al riyadh
+SA-02:
+- makkah
+- makkah
+SA-03:
+- al madinah
+- al madīnah
+SA-04:
+- eastern province
+- ash sharqīyah
+SA-05:
+- al qasim
+- al qaşim
+SA-06:
+- ha'il
+- Ḩā'il
+SA-07:
+- tabuk
+- tabūk
+SA-08:
+- northern border
+- al Ḩudūd ash shamālīyah
+SA-09:
+- jizan
+- jīzān
+SA-10:
+- najran
+- najrān
+SA-11:
+- al bahah
+- al bāḩah
+SA-12:
+- al jawf
+- al jawf
+SA-14:
+- asir
+- ‘asīr
+SB-CE:
+- central
+- central
+SB-CH:
+- choiseul
+SB-CT:
+- honiara
+- capital territory (honiara)
+SB-GU:
+- guadalcanal
+- guadalcanal
+SB-IS:
+- isabel
+- isabel
+SB-MK:
+- makira
+- makira
+SB-ML:
+- malaita
+- malaita
+SB-RB:
+- rennell and bellona
+SB-TE:
+- temotu
+- temotu
+SB-WE:
+- western
+- western
+SC-01:
+- anse aux pins
+SC-02:
+- anse boileau
+SC-03:
+- anse Ã‰toile
+SC-04:
+- anse louis
+SC-05:
+- anse royale
+SC-06:
+- baie lazare
+SC-07:
+- baie sainte anne
+SC-08:
+- beau vallon
+SC-09:
+- bel air
+SC-10:
+- bel ombre
+SC-11:
+- cascade
+SC-12:
+- glacis
+SC-13:
+- grand'anse (mahÃ©)
+SC-14:
+- grand'anse (praslin)
+SC-15:
+- la digue
+SC-16:
+- la riviÃ¨re anglaise
+SC-17:
+- mont buxton
+SC-18:
+- mont fleuri
+SC-19:
+- plaisance
+SC-20:
+- pointe la rue
+SC-21:
+- port glaud
+SC-22:
+- saint louis
+SC-23:
+- takamaka
+SC-24:
+- les mamelles
+SC-25:
+- roche caiman
+SD-01:
+- northern
+- ash shamālīyah
+SD-02:
+- north darfur
+- shamāl dārfūr
+SD-03:
+- khartoum
+- al kharţūm
+SD-04:
+- river nile
+- an nīl
+SD-05:
+- kassala
+- kassalā
+SD-06:
+- al qadarif
+- al qaḑārif
+SD-07:
+- al jazirah
+- al jazīrah
+SD-08:
+- white nile
+- an nīl al abyaḑ
+SD-09:
+- north kurdufan
+- shamāl kurdufān
+SD-10:
+- west kurdufan
+- gharb kurdufān
+SD-11:
+- south darfur
+- janūb dārfūr
+SD-12:
+- west darfur
+- gharb dārfūr
+SD-13:
+- south kurdufan
+- janūb kurdufān
+SD-14:
+- west bahr al ghazal
+- gharb baḩr al ghazāl
+SD-15:
+- north bahr al ghazal
+- shamāl baḩr al ghazāl
+SD-16:
+- west equatoria
+- gharb al istiwā'īyah
+SD-17:
+- bahr al jebel
+- baḩr al jabal
+SD-18:
+- lakes
+- al buḩayrāt
+SD-19:
+- east equatoria
+- sharq al istiwā'iyah
+SD-20:
+- jonglei
+- jūnqalī
+SD-21:
+- warab
+- wārāb
+SD-22:
+- unity
+- al waḩdah
+SD-23:
+- upper nile
+- a‘ālī an nīl
+SD-24:
+- blue nile
+- an nīl al azraq
+SD-25:
+- sennar
+- sinnār
+SD-26:
+- red sea
+- al baḩr al aḩmar
+SE-AB:
+- stockholms lÃ¤n
+- stockholms län
+SE-AC:
+- vÃ¤sterbottens lÃ¤n
+- västerbottens län
+SE-BD:
+- norrbottens lÃ¤n
+- norrbottens län
+SE-C:
+- uppsala lÃ¤n
+- uppsala län
+SE-D:
+- sÃ¶dermanlands lÃ¤n
+- södermanlands län
+SE-E:
+- Ã–stergÃ¶tlands lÃ¤n
+- Östergötlands län
+SE-F:
+- jÃ¶nkÃ¶pings lÃ¤n
+- jönköpings län
+SE-G:
+- kronobergs lÃ¤n
+- kronobergs län
+SE-H:
+- kalmar lÃ¤n
+- kalmar län
+SE-I:
+- gotlands lÃ¤n
+- gotlands län
+SE-K:
+- blekinge lÃ¤n
+- blekinge län
+SE-M:
+- skÃ¥ne lÃ¤n
+- skåne län
+SE-N:
+- hallands lÃ¤n
+- hallands län
+SE-O:
+- vÃ¤stra gÃ¶talands lÃ¤n
+- västra götalands län
+SE-S:
+- vÃ¤rmlands lÃ¤n
+- värmlands län
+SE-T:
+- Ã–rebro lÃ¤n
+- Örebro län
+SE-U:
+- vÃ¤stmanlands lÃ¤n
+- västmanlands län
+SE-W:
+- dalarnas lÃ¤n
+- dalarnas län
+SE-X:
+- gÃ¤vleborgs lÃ¤n
+- gävleborgs län
+SE-Y:
+- vÃ¤sternorrlands lÃ¤n
+- västernorrlands län
+SE-Z:
+- jÃ¤mtlands lÃ¤n
+- jämtlands län
+SG-01:
+- central singapore
+SG-02:
+- north-east
+SG-03:
+- north-west
+SG-04:
+- south-east
+SG-05:
+- south-west
+SI-001:
+- ! "ajdovÅ¡Ä\x8Dina"
+SI-002:
+- beltinci
+SI-003:
+- bled
+SI-004:
+- bohinj
+SI-005:
+- borovnica
+SI-006:
+- bovec
+SI-007:
+- brda
+SI-008:
+- brezovica
+SI-009:
+- breÅ¾ice
+SI-010:
+- tiÅ¡ina
+SI-011:
+- celje
+SI-012:
+- cerklje na gorenjskem
+SI-013:
+- cerknica
+SI-014:
+- cerkno
+SI-015:
+- ÄŒrenÅ¡ovci
+SI-016:
+- ÄŒrna na koroÅ¡kem
+SI-017:
+- ÄŒrnomelj
+SI-018:
+- destrnik
+SI-019:
+- ! "divaÄ\x8Da"
+SI-020:
+- dobrepolje
+SI-021:
+- dobrova-polhov gradec
+SI-022:
+- dol pri ljubljani
+SI-023:
+- domÅ¾ale
+SI-024:
+- dornava
+SI-025:
+- dravograd
+SI-026:
+- duplek
+SI-027:
+- gorenja vas-poljane
+SI-028:
+- goriÅ¡nica
+SI-029:
+- gornja radgona
+SI-030:
+- gornji grad
+SI-031:
+- gornji petrovci
+SI-032:
+- grosuplje
+SI-033:
+- Å alovci
+SI-034:
+- hrastnik
+SI-035:
+- hrpelje-kozina
+SI-036:
+- idrija
+SI-037:
+- ig
+SI-038:
+- ilirska bistrica
+SI-039:
+- ! "ivanÄ\x8Dna gorica"
+SI-040:
+- izola
+SI-041:
+- jesenice
+SI-042:
+- jurÅ¡inci
+SI-043:
+- kamnik
+SI-044:
+- kanal
+SI-045:
+- ! "kidriÄ\x8Devo"
+SI-046:
+- kobarid
+SI-047:
+- kobilje
+SI-048:
+- ! "koÄ\x8Devje"
+SI-049:
+- komen
+SI-050:
+- koper
+SI-051:
+- kozje
+SI-052:
+- kranj
+SI-053:
+- kranjska gora
+SI-054:
+- krÅ¡ko
+SI-055:
+- kungota
+SI-056:
+- kuzma
+SI-057:
+- laÅ¡ko
+SI-058:
+- lenart
+SI-059:
+- lendava
+SI-060:
+- litija
+SI-061:
+- ljubljana
+SI-062:
+- ljubno
+SI-063:
+- ljutomer
+SI-064:
+- logatec
+SI-065:
+- loÅ¡ka dolina
+SI-066:
+- loÅ¡ki potok
+SI-067:
+- ! "luÄ\x8De"
+SI-068:
+- lukovica
+SI-069:
+- majÅ¡perk
+SI-070:
+- maribor
+SI-071:
+- medvode
+SI-072:
+- mengeÅ¡
+SI-073:
+- metlika
+SI-074:
+- meÅ¾ica
+SI-075:
+- miren-kostanjevica
+SI-076:
+- mislinja
+SI-077:
+- ! "moravÄ\x8De"
+SI-078:
+- moravske toplice
+SI-079:
+- mozirje
+SI-080:
+- murska sobota
+SI-081:
+- muta
+SI-082:
+- naklo
+SI-083:
+- nazarje
+SI-084:
+- nova gorica
+SI-085:
+- novo mesto
+SI-086:
+- odranci
+SI-087:
+- ormoÅ¾
+SI-088:
+- osilnica
+SI-089:
+- pesnica
+SI-090:
+- piran
+SI-091:
+- pivka
+SI-092:
+- ! "podÄ\x8Detrtek"
+SI-093:
+- podvelka
+SI-094:
+- postojna
+SI-095:
+- preddvor
+SI-096:
+- ptuj
+SI-097:
+- puconci
+SI-098:
+- ! "raÄ\x8De-fram"
+SI-099:
+- ! "radeÄ\x8De"
+SI-100:
+- radenci
+SI-101:
+- radlje ob dravi
+SI-102:
+- radovljica
+SI-103:
+- ravne na koroÅ¡kem
+SI-104:
+- ribnica
+SI-105:
+- rogaÅ¡ovci
+SI-106:
+- rogaÅ¡ka slatina
+SI-107:
+- rogatec
+SI-108:
+- ruÅ¡e
+SI-109:
+- ! "semiÄ\x8D"
+SI-110:
+- sevnica
+SI-111:
+- seÅ¾ana
+SI-112:
+- slovenj gradec
+SI-113:
+- slovenska bistrica
+SI-114:
+- slovenske konjice
+SI-115:
+- starÅ¡e
+SI-116:
+- ! "sveti jurij ob Å Ä\x8Davnici"
+SI-117:
+- ! "Å enÄ\x8Dur"
+SI-118:
+- Å entilj
+SI-119:
+- Å entjernej
+SI-120:
+- Å entjur
+SI-121:
+- Å kocjan
+SI-122:
+- Å kofja loka
+SI-123:
+- Å kofljica
+SI-124:
+- Å marje pri jelÅ¡ah
+SI-125:
+- Å martno ob paki
+SI-126:
+- Å oÅ¡tanj
+SI-127:
+- Å tore
+SI-128:
+- tolmin
+SI-129:
+- trbovlje
+SI-130:
+- trebnje
+SI-131:
+- ! "trÅ¾iÄ\x8D"
+SI-132:
+- ! "turniÅ¡Ä\x8De"
+SI-133:
+- velenje
+SI-134:
+- ! "velike laÅ¡Ä\x8De"
+SI-135:
+- videm
+SI-136:
+- vipava
+SI-137:
+- vitanje
+SI-138:
+- vodice
+SI-139:
+- vojnik
+SI-140:
+- vrhnika
+SI-141:
+- vuzenica
+SI-142:
+- zagorje ob savi
+SI-143:
+- ! "zavrÄ\x8D"
+SI-144:
+- ! "zreÄ\x8De"
+SI-146:
+- Å½elezniki
+SI-147:
+- Å½iri
+SI-148:
+- benedikt
+SI-149:
+- bistrica ob sotli
+SI-150:
+- bloke
+SI-151:
+- ! "braslovÄ\x8De"
+SI-152:
+- cankova
+SI-153:
+- cerkvenjak
+SI-154:
+- dobje
+SI-155:
+- dobrna
+SI-156:
+- dobrovnik
+SI-157:
+- dolenjske toplice
+SI-158:
+- grad
+SI-159:
+- hajdina
+SI-160:
+- ! "hoÄ\x8De-slivnica"
+SI-161:
+- hodoÅ¡
+SI-162:
+- horjul
+SI-163:
+- jezersko
+SI-164:
+- komenda
+SI-165:
+- kostel
+SI-166:
+- kriÅ¾evci
+SI-167:
+- lovrenc na pohorju
+SI-168:
+- markovci
+SI-169:
+- miklavÅ¾ na dravskem polju
+SI-170:
+- ! "mirna peÄ\x8D"
+SI-171:
+- oplotnica
+SI-172:
+- podlehnik
+SI-173:
+- polzela
+SI-174:
+- prebold
+SI-175:
+- prevalje
+SI-176:
+- razkriÅ¾je
+SI-177:
+- ribnica na pohorju
+SI-178:
+- selnica ob dravi
+SI-179:
+- sodraÅ¾ica
+SI-180:
+- ! "solÄ\x8Dava"
+SI-181:
+- sveta ana
+SI-182:
+- sveti andraÅ¾ v slovenskih goricah
+SI-183:
+- Å empeter-vrtojba
+SI-184:
+- tabor
+SI-185:
+- trnovska vas
+SI-186:
+- trzin
+SI-187:
+- velika polana
+SI-188:
+- verÅ¾ej
+SI-189:
+- vransko
+SI-190:
+- Å½alec
+SI-191:
+- Å½etale
+SI-192:
+- Å½irovnica
+SI-193:
+- Å½uÅ¾emberk
+SI-194:
+- Å martno pri litiji
+SI-195:
+- ! "apaÄ\x8De"
+SI-196:
+- cirkulane
+SI-197:
+- kostanjevica na krki
+SI-198:
+- makole
+SI-199:
+- mokronog-trebelno
+SI-200:
+- ! "poljÄ\x8Dane"
+SI-201:
+- ! "renÄ\x8De-vogrsko"
+SI-202:
+- ! "srediÅ¡Ä\x8De ob dravi"
+SI-203:
+- straÅ¾a
+SI-204:
+- sveta trojica v slovenskih goricah
+SI-205:
+- sveti tomaÅ¾
+SI-206:
+- Å marjeÅ¡ke toplice
+SI-207:
+- gorje
+SI-208:
+- log-dragomer
+SI-209:
+- ! "reÄ\x8Dica ob savinji"
+SI-210:
+- sveti jurij v slovenskih goricah
+SI-211:
+- Å entrupert
+SK-BC:
+- banskobystrickÃ½ kraj
+- banskobystrický kraj
+SK-BL:
+- bratislavskÃ½ kraj
+- bratislavský kraj
+SK-KI:
+- koÅ¡ickÃ½ kraj
+- košický kraj
+SK-NI:
+- nitriansky kraj
+- nitriansky kraj
+SK-PV:
+- preÅ¡ovskÃ½ kraj
+- prešovský kraj
+SK-TA:
+- trnavskÃ½ kraj
+- trnavský kraj
+SK-TC:
+- ! "trenÄ\x8Diansky kraj"
+- trenčiansky kraj
+SK-ZI:
+- Å½ilinskÃ½ kraj
+- Žilinský kraj
+SL-E:
+- eastern
+- eastern
+SL-N:
+- northern
+- northern
+SL-S:
+- southern
+- southern
+SL-W:
+- western area
+- western area
+SM-01:
+- acquaviva
+SM-02:
+- chiesanuova
+SM-03:
+- domagnano
+SM-04:
+- faetano
+SM-05:
+- fiorentino
+SM-06:
+- borgo maggiore
+SM-07:
+- san marino
+SM-08:
+- montegiardino
+SM-09:
+- serravalle
+SN-DB:
+- diourbel
+- diourbel
+SN-DK:
+- dakar
+- dakar
+SN-FK:
+- fatick
+- fatick
+SN-KA:
+- kaffrine
+SN-KD:
+- kolda
+- kolda
+SN-KE:
+- kÃ©dougou
+SN-KL:
+- kaolack
+- kaolack
+SN-LG:
+- louga
+- louga
+SN-MT:
+- matam
+SN-SE:
+- sÃ©dhiou
+SN-SL:
+- saint-louis
+- saint-louis
+SN-TC:
+- tambacounda
+- tambacounda
+SN-TH:
+- thiÃ¨s
+- thiès
+SN-ZG:
+- ziguinchor
+- ziguinchor
+SO-AW:
+- awdal
+- awdal
+SO-BK:
+- bakool
+- bakool
+SO-BN:
+- banaadir
+- banaadir
+SO-BR:
+- bari
+- bari
+SO-BY:
+- bay
+- bay
+SO-GA:
+- galguduud
+- galguduud
+SO-GE:
+- gedo
+- gedo
+SO-HI:
+- hiiraan
+- hiiraan
+SO-JD:
+- jubbada dhexe
+- jubbada dhexe
+SO-JH:
+- jubbada hoose
+- jubbada hoose
+SO-MU:
+- mudug
+- mudug
+SO-NU:
+- nugaal
+- nugaal
+SO-SA:
+- sanaag
+- sanaag
+SO-SD:
+- shabeellaha dhexe
+- shabeellaha dhexe
+SO-SH:
+- shabeellaha hoose
+- shabeellaha hoose
+SO-SO:
+- sool
+- sool
+SO-TO:
+- togdheer
+- togdheer
+SO-WO:
+- woqooyi galbeed
+- woqooyi galbeed
+SR-BR:
+- brokopondo
+- brokopondo
+SR-CM:
+- commewijne
+- commewijne
+SR-CR:
+- coronie
+- coronie
+SR-MA:
+- marowijne
+- marowijne
+SR-NI:
+- nickerie
+- nickerie
+SR-PM:
+- paramaribo
+- paramaribo
+SR-PR:
+- para
+- para
+SR-SA:
+- saramacca
+- saramacca
+SR-SI:
+- sipaliwini
+- sipaliwini
+SR-WA:
+- wanica
+- wanica
+ST-P:
+- prÃ­ncipe
+- príncipe
+ST-S:
+- sÃ£o tomÃ©
+- sāo tomé
+SV-AH:
+- ahuachapÃ¡n
+- ahuachapán
+SV-CA:
+- cabaÃ±as
+- cabañas
+SV-CH:
+- chalatenango
+- chalatenango
+SV-CU:
+- cuscatlÃ¡n
+- cuscatlán
+SV-LI:
+- la libertad
+- la libertad
+SV-MO:
+- morazÃ¡n
+- morazán
+SV-PA:
+- la paz
+- la paz
+SV-SA:
+- santa ana
+- santa ana
+SV-SM:
+- san miguel
+- san miguel
+SV-SO:
+- sonsonate
+- sonsonate
+SV-SS:
+- san salvador
+- san salvador
+SV-SV:
+- san vicente
+- san vicente
+SV-UN:
+- la uniÃ³n
+- la unión
+SV-US:
+- usulutÃ¡n
+SY-DI:
+- dimashq
+- dimashq
+SY-DR:
+- daraa
+- dar’ā
+SY-DY:
+- deir ez-zor
+- dayr az zawr
+SY-HA:
+- al-hasakah
+- al Ḩasakah
+SY-HI:
+- hims
+- Ḩimş
+SY-HL:
+- aleppo
+- Ḩalab
+SY-HM:
+- hama
+- Ḩamāh
+SY-ID:
+- idlib
+- idlib
+SY-LA:
+- latakia
+- al lādhiqīyah
+SY-QU:
+- quneitra
+- al qunayţirah
+SY-RA:
+- ar-raqqah
+- ar raqqah
+SY-RD:
+- rif dimashq
+- rīf dimashq
+SY-SU:
+- as-suwayda
+- as suwaydā'
+SY-TA:
+- tartus
+- Ţarţūs
+SZ-HH:
+- hhohho
+- hhohho
+SZ-LU:
+- lubombo
+- lubombo
+SZ-MA:
+- manzini
+- manzini
+SZ-SH:
+- shiselweni
+- shiselweni
+TD-BA:
+- batha
+- batha
+TD-BG:
+- bahr el gazel
+TD-BO:
+- borkou
+TD-CB:
+- chari-baguirmi
+- chari-baguirmi
+TD-EN:
+- ennedi
+TD-GR:
+- guÃ©ra
+- guéra
+TD-HL:
+- hadjer-lamis
+TD-KA:
+- kanem
+- kanem
+TD-LC:
+- lac
+- lac
+TD-LO:
+- logone occidental
+- logone-occidental
+TD-LR:
+- logone oriental
+- logone-oriental
+TD-MA:
+- mandoul
+TD-MC:
+- moyen-chari
+- moyen-chari
+TD-ME:
+- mayo-kÃ©bbi est
+TD-MO:
+- mayo-kÃ©bbi ouest
+TD-ND:
+- n'djamena
+TD-OD:
+- ouaddaÃ¯
+- ouaddaï
+TD-SA:
+- salamat
+- salamat
+TD-SI:
+- sila
+TD-TA:
+- tandjilÃ©
+- tandjilé
+TD-TI:
+- tibesti
+TD-WF:
+- wadi fira
+TG-C:
+- centre
+- centre
+TG-K:
+- kara
+- kara
+TG-M:
+- rÃ©gion maritime
+- maritime
+TG-P:
+- plateaux
+- plateaux
+TG-S:
+- savannes
+- savannes
+TH-10:
+- bangkok
+- ! "à¸\x81à¸£à¸¸à¸‡à¹€à¸—à¸žà¸¡à¸«à¸²à¸™à¸„à¸£"
+- bangkok
+TH-11:
+- samut prakan
+- ! "à¸ªà¸¡à¸¸à¸—à¸£à¸›à¸£à¸²à¸\x81à¸²à¸£"
+- samut prakan
+TH-12:
+- nonthaburi
+- à¸™à¸™à¸—à¸šà¸¸à¸£à¸µ
+- nonthaburi
+TH-13:
+- pathum thani
+- à¸›à¸—à¸¸à¸¡à¸˜à¸²à¸™à¸µ
+- pathum thani
+TH-14:
+- phra nakhon si ayutthaya
+- à¸žà¸£à¸°à¸™à¸„à¸£à¸¨à¸£à¸µà¸­à¸¢à¸¸à¸˜à¸¢à¸²
+- phra nakhon si ayutthaya
+TH-15:
+- ang thong
+- à¸­à¹ˆà¸²à¸‡à¸—à¸­à¸‡
+- ang thong
+TH-16:
+- lopburi
+- à¸¥à¸žà¸šà¸¸à¸£à¸µ
+- lop buri
+TH-17:
+- sing buri
+- à¸ªà¸´à¸‡à¸«à¹Œà¸šà¸¸à¸£à¸µ
+- sing buri
+TH-18:
+- chai nat
+- à¸Šà¸±à¸¢à¸™à¸²à¸—
+- chai nat
+TH-19:
+- saraburi
+- à¸ªà¸£à¸°à¸šà¸¸à¸£à¸µ
+- saraburi
+TH-20:
+- chonburi
+- à¸Šà¸¥à¸šà¸¸à¸£à¸µ
+- chon buri
+TH-21:
+- rayong
+- à¸£à¸°à¸¢à¸­à¸‡
+- rayong
+TH-22:
+- chanthaburi
+- à¸ˆà¸±à¸™à¸—à¸šà¸¸à¸£à¸µ
+- chanthaburi
+TH-23:
+- trat
+- à¸•à¸£à¸²à¸”
+- trat
+TH-24:
+- chachoengsao
+- à¸‰à¸°à¹€à¸Šà¸´à¸‡à¹€à¸—à¸£à¸²
+- chachoengsao
+TH-25:
+- prachin buri
+- à¸›à¸£à¸²à¸ˆà¸µà¸™à¸šà¸¸à¸£à¸µ
+- prachin buri
+TH-26:
+- nakhon nayok
+- ! "à¸™à¸„à¸£à¸™à¸²à¸¢à¸\x81"
+- nakhon nayok
+TH-27:
+- sa kaeo
+- ! "à¸ªà¸£à¸°à¹\x81à¸\x81à¹‰à¸§"
+- sa kaeo
+TH-30:
+- nakhon ratchasima
+- à¸™à¸„à¸£à¸£à¸²à¸Šà¸ªà¸µà¸¡à¸²
+- nakhon ratchasima
+TH-31:
+- buri ram
+- à¸šà¸¸à¸£à¸µà¸£à¸±à¸¡à¸¢à¹Œ
+- buri ram
+TH-32:
+- surin
+- à¸ªà¸¸à¸£à¸´à¸™à¸—à¸£à¹Œ
+- surin
+TH-33:
+- sisaket
+- ! "à¸¨à¸£à¸µà¸ªà¸°à¹€à¸\x81à¸©"
+- si sa ket
+TH-34:
+- ubon ratchathani
+- à¸­à¸¸à¸šà¸¥à¸£à¸²à¸Šà¸˜à¸²à¸™à¸µ
+- ubon ratchathani
+TH-35:
+- yasothon
+- à¸¢à¹‚à¸ªà¸˜à¸£
+- yasothon
+TH-36:
+- chaiyaphum
+- à¸Šà¸±à¸¢à¸ à¸¹à¸¡à¸´
+- chaiyaphum
+TH-37:
+- amnat charoen
+- ! "à¸­à¸³à¸™à¸²à¸ˆà¹€à¸ˆà¸£à¸´à¸\x8D"
+- amnat charoen
+TH-39:
+- nong bua lamphu
+- à¸«à¸™à¸­à¸‡à¸šà¸±à¸§à¸¥à¸³à¸ à¸¹
+- nong bua lam phu
+TH-40:
+- khon kaen
+- ! "à¸‚à¸­à¸™à¹\x81à¸\x81à¹ˆà¸™"
+- khon kaen
+TH-41:
+- udon thani
+- à¸­à¸¸à¸”à¸£à¸˜à¸²à¸™à¸µ
+- udon thani
+TH-42:
+- loei
+- à¹€à¸¥à¸¢
+- loei
+TH-43:
+- nong khai
+- à¸«à¸™à¸­à¸‡à¸„à¸²à¸¢
+- nong khai
+TH-44:
+- maha sarakham
+- à¸¡à¸«à¸²à¸ªà¸²à¸£à¸„à¸²à¸¡
+- maha sarakham
+TH-45:
+- roi et
+- à¸£à¹‰à¸­à¸¢à¹€à¸­à¹‡à¸”
+- roi et
+TH-46:
+- kalasin
+- ! "à¸\x81à¸²à¸¬à¸ªà¸´à¸™à¸˜à¸¸à¹Œ"
+- kalasin
+TH-47:
+- sakon nakhon
+- ! "à¸ªà¸\x81à¸¥à¸™à¸„à¸£"
+- sakon nakhon
+TH-48:
+- nakhon phanom
+- à¸™à¸„à¸£à¸žà¸™à¸¡
+- nakhon phanom
+TH-49:
+- mukdahan
+- ! "à¸¡à¸¸à¸\x81à¸”à¸²à¸«à¸²à¸£"
+- mukdahan
+TH-50:
+- chiang mai
+- à¹€à¸Šà¸µà¸¢à¸‡à¹ƒà¸«à¸¡à¹ˆ
+- chiang mai
+TH-51:
+- lamphun
+- à¸¥à¸³à¸žà¸¹à¸™
+- lamphun
+TH-52:
+- lampang
+- à¸¥à¸³à¸›à¸²à¸‡
+- lampang
+TH-53:
+- uttaradit
+- à¸­à¸¸à¸•à¸£à¸”à¸´à¸•à¸–à¹Œ
+- uttaradit
+TH-54:
+- phrae
+- ! "à¹\x81à¸žà¸£à¹ˆ"
+- phrae
+TH-55:
+- nan
+- à¸™à¹ˆà¸²à¸™
+- nan
+TH-56:
+- phayao
+- à¸žà¸°à¹€à¸¢à¸²
+- phayao
+TH-57:
+- chiang rai
+- à¹€à¸Šà¸µà¸¢à¸‡à¸£à¸²à¸¢
+- chiang rai
+TH-58:
+- mae hong son
+- ! "à¹\x81à¸¡à¹ˆà¸®à¹ˆà¸­à¸‡à¸ªà¸­à¸™"
+- mae hong son
+TH-60:
+- nakhon sawan
+- à¸™à¸„à¸£à¸ªà¸§à¸£à¸£à¸„à¹Œ
+- nakhon sawan
+TH-61:
+- uthai thani
+- à¸­à¸¸à¸—à¸±à¸¢à¸˜à¸²à¸™à¸µ
+- uthai thani
+TH-62:
+- kamphaeng phet
+- ! "à¸\x81à¸³à¹\x81à¸žà¸‡à¹€à¸žà¸Šà¸£"
+- kamphaeng phet
+TH-63:
+- tak
+- ! "à¸•à¸²à¸\x81"
+- tak
+TH-64:
+- sukhothai
+- à¸ªà¸¸à¹‚à¸‚à¸—à¸±à¸¢
+- sukhothai
+TH-65:
+- phitsanulok
+- ! "à¸žà¸´à¸©à¸“à¸¸à¹‚à¸¥à¸\x81"
+- phitsanulok
+TH-66:
+- phichit
+- à¸žà¸´à¸ˆà¸´à¸•à¸£
+- phichit
+TH-67:
+- phetchabun
+- à¹€à¸žà¸Šà¸£à¸šà¸¹à¸£à¸“à¹Œ
+- phetchabun
+TH-70:
+- ratchaburi
+- à¸£à¸²à¸Šà¸šà¸¸à¸£à¸µ
+- ratchaburi
+TH-71:
+- kanchanaburi
+- ! "à¸\x81à¸²à¸\x8Dà¸ˆà¸™à¸šà¸¸à¸£à¸µ"
+- kanchanaburi
+TH-72:
+- suphan buri
+- à¸ªà¸¸à¸žà¸£à¸£à¸“à¸šà¸¸à¸£à¸µ
+- suphan buri
+TH-73:
+- nakhon pathom
+- ! "à¸™à¸„à¸£à¸›à¸\x90à¸¡"
+- nakhon pathom
+TH-74:
+- samut sakhon
+- à¸ªà¸¡à¸¸à¸—à¸£à¸ªà¸²à¸„à¸£
+- samut sakhon
+TH-75:
+- samut songkhram
+- à¸ªà¸¡à¸¸à¸—à¸£à¸ªà¸‡à¸„à¸£à¸²à¸¡
+- samut songkhram
+TH-76:
+- phetchaburi
+- à¹€à¸žà¸Šà¸£à¸šà¸¸à¸£à¸µ
+- phetchaburi
+TH-77:
+- prachuap khiri khan
+- à¸›à¸£à¸°à¸ˆà¸§à¸šà¸„à¸µà¸£à¸µà¸‚à¸±à¸™à¸˜à¹Œ
+- prachuap khiri khan
+TH-80:
+- nakhon si thammarat
+- à¸™à¸„à¸£à¸¨à¸£à¸µà¸˜à¸£à¸£à¸¡à¸£à¸²à¸Š
+- nakhon si thammarat
+TH-81:
+- krabi
+- ! "à¸\x81à¸£à¸°à¸šà¸µà¹ˆ"
+- krabi
+TH-82:
+- phang nga
+- à¸žà¸±à¸‡à¸‡à¸²
+- phangnga
+TH-83:
+- phuket
+- ! "à¸ à¸¹à¹€à¸\x81à¹‡à¸•"
+- phuket
+TH-84:
+- surat thani
+- à¸ªà¸¸à¸£à¸²à¸©à¸Žà¸£à¹Œà¸˜à¸²à¸™à¸µ
+- surat thani
+TH-85:
+- ranong
+- à¸£à¸°à¸™à¸­à¸‡
+- ranong
+TH-86:
+- chumphon
+- à¸Šà¸¸à¸¡à¸žà¸£
+- chumphon
+TH-90:
+- songkhla
+- à¸ªà¸‡à¸‚à¸¥à¸²
+- songkhla
+TH-91:
+- satun
+- à¸ªà¸•à¸¹à¸¥
+- satun
+TH-92:
+- trang
+- à¸•à¸£à¸±à¸‡
+- trang
+TH-93:
+- phatthalung
+- à¸žà¸±à¸—à¸¥à¸¸à¸‡
+- phatthalung
+TH-94:
+- pattani
+- à¸›à¸±à¸•à¸•à¸²à¸™à¸µ
+- pattani
+TH-95:
+- yala
+- à¸¢à¸°à¸¥à¸²
+- yala
+TH-96:
+- narathiwat
+- à¸™à¸„à¸£à¸¨à¸£à¸µà¸˜à¸£à¸£à¸¡à¸£à¸²à¸Š
+- narathiwat
+TH-S:
+- pattaya
+- à¸žà¸±à¸—à¸¢à¸²
+TJ-GB:
+- gorno-badakhshan
+- gorno-badakhshan
+TJ-KT:
+- khatlon
+- khatlon
+TJ-SU:
+- sughd
+TL-AL:
+- aileu
+TL-AN:
+- ainaro
+TL-BA:
+- baucau
+TL-BO:
+- bobonaro
+TL-CO:
+- cova lima
+TL-DI:
+- dili
+TL-ER:
+- ermera
+TL-LA:
+- lautem
+TL-LI:
+- liquiÃ§a
+TL-MF:
+- manufahi
+TL-MT:
+- manatuto
+TL-OE:
+- oecussi
+TL-VI:
+- viqueque
+TM-A:
+- ahal
+- ahal
+TM-B:
+- balkan
+- balkan
+TM-D:
+- dasoguz
+- daşhowuz
+TM-L:
+- lebap
+- lebap
+TM-M:
+- mary
+- mary
+TN-11:
+- tunis
+- tunis
+TN-12:
+- ariana
+- l'ariana
+TN-13:
+- ben arous
+- ben arous
+TN-14:
+- la manouba
+TN-21:
+- nabeul
+- nabeul
+TN-22:
+- zaghouan
+- zaghouan
+TN-23:
+- bizerte
+- bizerte
+TN-31:
+- bÃ©ja
+- béja
+TN-32:
+- jendouba
+- jendouba
+TN-33:
+- le kef
+- le kef
+TN-34:
+- siliana
+- siliana
+TN-41:
+- kairouan
+- kairouan
+TN-42:
+- kasserine
+- kasserine
+TN-43:
+- sidi bouzid
+- sidi bouzid
+TN-51:
+- sousse
+- sousse
+TN-52:
+- monastir
+- monastir
+TN-53:
+- mahdia
+- mahdia
+TN-61:
+- sfax
+- sfax
+TN-71:
+- gafsa
+- gafsa
+TN-72:
+- tozeur
+- tozeur
+TN-73:
+- kebili
+- kebili
+TN-81:
+- gabes
+- gabès
+TN-82:
+- mÃ©denine
+- medenine
+TN-83:
+- tataouine
+- tataouine
+TO-01:
+- eua
+TO-02:
+- ha'apai
+TO-03:
+- niuas
+TO-04:
+- tongatapu
+TO-05:
+- vava'u
+TR-01:
+- adana
+- adana
+TR-02:
+- adÄ±yaman
+- adiyaman
+TR-03:
+- afyonkarahisar
+- afyon
+TR-04:
+- aÄŸrÄ±
+- ağrı
+TR-05:
+- amasya
+- amasya
+TR-06:
+- ankara
+- ankara
+TR-07:
+- antalya
+- antalya
+TR-08:
+- artvin
+- artvin
+TR-09:
+- aydÄ±n
+- aydin
+TR-10:
+- balÄ±kesir
+- balıkesir
+TR-11:
+- bilecik
+- bilecik
+TR-12:
+- bingÃ¶l
+- bingöl
+TR-13:
+- bitlis
+- bitlis
+TR-14:
+- bolu
+- bolu
+TR-15:
+- burdur
+- burdur
+TR-16:
+- bursa
+- bursa
+TR-17:
+- Ã‡anakkale
+- Çanakkale
+TR-18:
+- Ã‡ankÄ±rÄ±
+- Çankırı
+TR-19:
+- Ã‡orum
+- Çorum
+TR-20:
+- denizli
+- denizli
+TR-21:
+- diyarbakÄ±r
+- diyarbakır
+TR-22:
+- edirne
+- edirne
+TR-23:
+- elazÄ±ÄŸ
+- elaziğ
+TR-24:
+- erzincan
+- erzincan
+TR-25:
+- erzurum
+- erzurum
+TR-26:
+- eskiÅŸehir
+- eskişehir
+TR-27:
+- gaziantep
+- gaziantep
+TR-28:
+- giresun
+- giresun
+TR-29:
+- gÃ¼mÃ¼ÅŸhane
+- gümüşhane
+TR-30:
+- hakkari
+- hakkari
+TR-31:
+- hatay
+- hatay
+TR-32:
+- isparta
+- isparta
+TR-33:
+- mersin
+- İçel
+TR-34:
+- Ä°stanbul
+- İstanbul
+TR-35:
+- Ä°zmir
+- İzmir
+TR-36:
+- kars
+- kars
+TR-37:
+- kastamonu
+- kastamonu
+TR-38:
+- kayseri
+- kayseri
+TR-39:
+- kÄ±rklareli
+- kırklareli
+TR-40:
+- kÄ±rÅŸehir
+- kırşehir
+TR-41:
+- kocaeli
+- kocaeli
+TR-42:
+- konya
+- konya
+TR-43:
+- kÃ¼tahya
+- kütahya
+TR-44:
+- malatya
+- malatya
+TR-45:
+- manisa
+TR-46:
+- kahramanmaraÅŸ
+- kahramanmaraş
+TR-47:
+- mardin
+- mardin
+TR-48:
+- muÄŸla
+- muğla
+TR-49:
+- muÅŸ
+- muş
+TR-50:
+- nevÅŸehir
+TR-51:
+- niÄŸde
+- niğde
+TR-52:
+- ordu
+- ordu
+TR-53:
+- rize
+- rize
+TR-54:
+- sakarya
+- sakarya
+TR-55:
+- samsun
+TR-56:
+- siirt
+- siirt
+TR-57:
+- sinop
+- sinop
+TR-58:
+- sivas
+TR-59:
+- tekirdaÄŸ
+- tekirdağ
+TR-60:
+- tokat
+- tokat
+TR-61:
+- trabzon
+- trabzon
+TR-62:
+- tunceli
+- tunceli
+TR-63:
+- ÅžanlÄ±urfa
+- Şanlıurfa
+TR-64:
+- uÅŸak
+- uşak
+TR-65:
+- van
+- van
+TR-66:
+- yozgat
+- yozgat
+TR-67:
+- zonguldak
+- zonguldak
+TR-68:
+- aksaray
+- aksaray
+TR-69:
+- bayburt
+- bayburt
+TR-70:
+- karaman
+- karaman
+TR-71:
+- kÄ±rÄ±kkale
+- kırıkkale
+TR-72:
+- batman
+- batman
+TR-73:
+- ÅžÄ±rnak
+- Şirnak
+TR-74:
+- bartÄ±n
+- bartın
+TR-75:
+- ardahan
+- ardahan
+TR-76:
+- Ä°ÄŸdir
+- iğdir
+TR-77:
+- yalova
+- yalova
+TR-78:
+- karabÃ¼k
+- karabük
+TR-79:
+- kilis
+- kilis
+TR-80:
+- osmaniye
+TR-81:
+- dÃ¼zce
+TT-ARI:
+- arima
+- arima
+TT-CHA:
+- chaguanas
+- chaguanas
+TT-CTT:
+- couva-tabaquite-talparo
+- couva-tabaquite-talparo
+TT-DMN:
+- diego martin
+- diego martin
+TT-ETO:
+- eastern tobago
+- eastern tobago
+TT-PED:
+- penal-debe
+- penal-debe
+TT-POS:
+- port of spain
+- port of spain
+TT-PRT:
+- princes town
+- princes town
+TT-PTF:
+- point fortin
+- point fortin
+TT-RCM:
+- rio claro-mayaro
+- rio claro-mayaro
+TT-SFO:
+- san fernando
+- san fernando
+TT-SGE:
+- sangre grande
+- sangre grande
+TT-SIP:
+- siparia
+- siparia
+TT-SJL:
+- san juan-laventille
+- san juan-laventille
+TT-TUP:
+- tunapuna-piarco
+- tunapuna-piarco
+TT-WTO:
+- western tobago
+- western tobago
+TV-FUN:
+- funafuti
+TV-NIT:
+- niutao
+TV-NIU:
+- nui
+TV-NKF:
+- nukufetau
+TV-NKL:
+- nukulaelae
+TV-NMA:
+- nanumea
+TV-NMG:
+- nanumanga
+TV-VAI:
+- vaitupu
+TW-CHA:
+- changhua county
+- å½°åŒ–ç¸£
+- changhua
+TW-CYI:
+- chiayi city
+- å˜‰ç¾©å¸‚
+- chiayi
+TW-CYQ:
+- chiayi county
+- å˜‰ç¾©ç¸£
+TW-HSQ:
+- hsinchu county
+- æ–°ç«¹ç¸£
+TW-HSZ:
+- hsinchu city
+- æ–°ç«¹å¸‚
+- hsinchu
+TW-HUA:
+- hualien county
+- èŠ±è“®ç¸£
+- hualien
+TW-ILA:
+- yilan county
+- å®œè˜­ç¸£
+- ilan
+TW-KEE:
+- keelung city
+- åŸºéš†å¸‚
+- keelung
+TW-KHH:
+- kaohsiung city
+- é«˜é›„å¸‚
+- kaohsiung
+TW-KHQ:
+- kaohsiung county
+- é«˜é›„ç¸£
+TW-MIA:
+- miaoli county
+- è‹—æ —ç¸£
+- miaoli
+TW-na2:
+- lienchiang county
+- é€£æ±Ÿç¸£
+TW-na3:
+- nanhai islands
+- ! "å\x8D—æµ·å³¶"
+TW-nan:
+- kinmen county
+- é‡‘é–€ç¸£
+TW-NAN:
+- nantou county
+- ! "å\x8D—æŠ•ç¸£"
+- nantou
+TW-PEN:
+- penghu county
+- æ¾Žæ¹–ç¸£
+- penghu
+TW-PIF:
+- pingtung county
+- ! "å±\x8Fæ\x9D±ç¸£"
+- pingtung
+TW-TAO:
+- taoyuan county
+- æ¡ƒåœ’ç¸£
+- taoyuan
+TW-TNN:
+- tainan city
+- ! "å\x8F°å\x8D—å¸‚"
+- tainan
+TW-TNQ:
+- tainan county
+- ! "å\x8F°å\x8D—ç¸£"
+TW-TPE:
+- taipei city
+- ! "å\x8F°åŒ—å¸‚"
+- taipei
+TW-TPQ:
+- taipei county
+- ! "å\x8F°åŒ—ç¸£"
+TW-TTT:
+- taitung county
+- ! "å\x8F°æ\x9D±ç¸£"
+- taitung
+TW-TXG:
+- taichung city
+- ! "å\x8F°ä¸­å¸‚"
+- taichung
+TW-TXQ:
+- taichung county
+- ! "å\x8F°ä¸­ç¸£"
+TW-YUN:
+- yunlin county
+- é›²æž—ç¸£
+- yunlin
+TZ-01:
+- arusha
+- arusha
+TZ-02:
+- dar es salaam
+- dar-es-salaam
+TZ-03:
+- dodoma
+- dodoma
+TZ-04:
+- iringa
+- iringa
+TZ-05:
+- kagera
+- kagera
+TZ-06:
+- kaskazini pemba
+- kaskazini pemba
+TZ-07:
+- kaskazini unguja
+- kaskazini unguja
+TZ-08:
+- kigoma
+- kigoma
+TZ-09:
+- kilimanjaro
+- kilimanjaro
+TZ-10:
+- kusini pemba
+- kusini pemba
+TZ-11:
+- kusini unguja
+- kusini unguja
+TZ-12:
+- lindi
+- lindi
+TZ-13:
+- mara
+- mara
+TZ-14:
+- mbeya
+- mbeya
+TZ-15:
+- mjini magharibi
+- mjini magharibi
+TZ-16:
+- morogoro
+- morogoro
+TZ-17:
+- mtwara
+- mtwara
+TZ-18:
+- mwanza
+- mwanza
+TZ-19:
+- pwani
+- pwani
+TZ-20:
+- rukwa
+- rukwa
+TZ-21:
+- ruvuma
+- ruvuma
+TZ-22:
+- shinyanga
+- shinyanga
+TZ-23:
+- singida
+- singida
+TZ-24:
+- tabora
+- tabora
+TZ-25:
+- tanga
+- tanga
+TZ-26:
+- manyara
+UA-05:
+- ! "Ð’Ñ–Ð½Ð½Ð¸Ñ†ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- vinnytsia oblast
+- vinnyts'ka oblast'
+UA-07:
+- ! "Ð’Ð¾Ð»Ð¸Ð½Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- volyn oblast
+- volyns'ka oblast'
+UA-09:
+- ! "Ð›ÑƒÐ³Ð°Ð½Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- luhansk oblast
+- luhans'ka oblast'
+UA-12:
+- ! "Ð”Ð½Ñ–Ð¿Ñ€Ð¾Ð¿ÐµÑ‚Ñ€Ð¾Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- dnipropetrovsk oblast
+- dnipropetrovs'ka oblast'
+UA-14:
+- ! "Ð”Ð¾Ð½ÐµÑ†ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- donetsk oblast
+- donets'ka oblast'
+UA-18:
+- ! "Ð–Ð¸Ñ‚Ð¾Ð¼Ð¸Ñ€Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- zhytomyr oblast
+- zhytomyrs'ka oblast'
+UA-21:
+- ! "Ð—Ð°ÐºÐ°Ñ€Ð¿Ð°Ñ‚Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- zakarpattia oblast
+- zakarpats'ka oblast'
+UA-23:
+- ! "Ð—Ð°Ð¿Ð¾Ñ€Ñ–Ð·ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- zaporizhia oblast
+- zaporiz'ka oblast'
+UA-26:
+- ! "Ð†Ð²Ð°Ð½Ð¾-Ð¤Ñ€Ð°Ð½ÐºÑ–Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- ivano-frankivsk oblast
+- ivano-frankivs'ka oblast'
+UA-30:
+- ÐšÐ¸Ñ—Ð²
+- kiev
+- kyïv
+UA-32:
+- ! "ÐšÐ¸Ñ—Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kiev oblast
+- kyïvs'ka oblast'
+UA-35:
+- ! "ÐšÑ–Ñ€Ð¾Ð²Ð¾Ð³Ñ€Ð°Ð´Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kirovohrad oblast
+- kirovohrads'ka oblast'
+UA-40:
+- ! "Ð¡ÐµÐ²Ð°Ñ\x81Ñ‚Ð¾Ð¿Ð¾Ð»ÑŒ"
+- sevastopol
+- sevastopol'
+UA-43:
+- ! "Ð\x90Ð²Ñ‚Ð¾Ð½Ð¾Ð¼Ð½Ð° Ð ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ñ–ÐºÐ° ÐšÑ€Ð¸Ð¼"
+- autonomous republic of crimea
+- respublika krym
+UA-46:
+- ! "Ð›ÑŒÐ²Ñ–Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- lviv oblast
+- l'vivs'ka oblast'
+UA-48:
+- ! "ÐœÐ¸ÐºÐ¾Ð»Ð°Ñ—Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- mykolaiv oblast
+- mykolaïvs'ka oblast'
+UA-51:
+- ! "ÐžÐ´ÐµÑ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- odessa oblast
+- odes'ka oblast'
+UA-53:
+- ! "ÐŸÐ¾Ð»Ñ‚Ð°Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- poltava oblast
+- poltavs'ka oblast'
+UA-56:
+- ! "Ð Ñ–Ð²Ð½ÐµÐ½Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- rivne oblast
+- rivnens'ka oblast'
+UA-59:
+- ! "Ð¡ÑƒÐ¼Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- sumy oblast
+- sums'ka oblast'
+UA-61:
+- ! "Ð¢ÐµÑ€Ð½Ð¾Ð¿Ñ–Ð»ÑŒÑ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- ternopil oblast
+- ternopil's'ka oblast'
+UA-63:
+- ! "Ð¥Ð°Ñ€ÐºÑ–Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kharkiv oblast
+- kharkivs'ka oblast'
+UA-65:
+- ! "Ð¥ÐµÑ€Ñ\x81Ð¾Ð½Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- kherson oblast
+- khersons'ka oblast'
+UA-68:
+- ! "Ð¥Ð¼ÐµÐ»ÑŒÐ½Ð¸Ñ†ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- khmelnytskyi oblast
+- khmel'nyts'ka oblast'
+UA-71:
+- ! "Ð§ÐµÑ€ÐºÐ°Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- cherkasy oblast
+- cherkas'ka oblast'
+UA-74:
+- ! "Ð§ÐµÑ€Ð½Ñ–Ð³Ñ–Ð²Ñ\x81ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- chernihiv oblast
+- chernihivs'ka oblast'
+UA-77:
+- ! "Ð§ÐµÑ€Ð½Ñ–Ð²ÐµÑ†ÑŒÐºÐ° Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- chernivtsi oblast
+- chernivets'ka oblast'
+UG-101:
+- kalangala
+UG-102:
+- kampala
+UG-103:
+- kiboga
+UG-104:
+- luwero
+UG-105:
+- masaka
+UG-106:
+- mpigi
+UG-107:
+- mubende
+UG-108:
+- mukono
+UG-109:
+- nakasongola
+UG-110:
+- rakai
+UG-111:
+- sembabule
+UG-112:
+- kayunga
+UG-113:
+- wakiso
+UG-201:
+- bugiri
+UG-202:
+- busia
+UG-203:
+- iganga
+UG-204:
+- jinja
+UG-205:
+- kamuli
+UG-206:
+- kapchorwa
+UG-207:
+- katakwi
+UG-208:
+- kumi
+UG-209:
+- mbale
+UG-210:
+- pallisa
+UG-211:
+- soroti
+UG-212:
+- tororo
+UG-213:
+- kaberamaido
+UG-214:
+- mayuge
+UG-215:
+- sironko
+UG-301:
+- adjumani
+UG-302:
+- apac
+UG-303:
+- arua
+UG-304:
+- gulu
+UG-305:
+- kitgum
+UG-306:
+- kotido
+UG-307:
+- lira
+UG-308:
+- moroto
+UG-309:
+- moyo
+UG-310:
+- nebbi
+UG-311:
+- nakapiripirit
+UG-312:
+- pader
+UG-313:
+- yumbe
+UG-401:
+- bundibugyo
+UG-402:
+- bushenyi
+UG-403:
+- hoima
+UG-404:
+- kabale
+UG-405:
+- kabarole
+UG-406:
+- kasese
+UG-407:
+- kibale
+UG-408:
+- kisoro
+UG-409:
+- masindi
+UG-410:
+- mbarara
+UG-411:
+- ntungamo
+UG-412:
+- rukungiri
+UG-413:
+- kamwenge
+UG-414:
+- kanungu
+UG-415:
+- kyenjojo
+US-AK:
+- alaska
+- alaska
+US-AL:
+- alabama
+- alabama
+US-AR:
+- arkansas
+- arkansas
+US-AS:
+- american samoa
+- american samoa
+US-AZ:
+- arizona
+- arizona
+US-CA:
+- california
+- california
+US-CO:
+- colorado
+- colorado
+US-CT:
+- connecticut
+- connecticut
+US-DC:
+- district of columbia
+- district of columbia
+US-DE:
+- delaware
+- delaware
+US-FL:
+- florida
+- florida
+US-FM:
+- federated states of micronesia
+US-GA:
+- georgia
+- georgia
+US-GU:
+- guam
+- guam
+US-HI:
+- hawaii
+- hawaii
+US-IA:
+- iowa
+- iowa
+US-ID:
+- idaho
+- idaho
+US-IL:
+- illinois
+- illinois
+US-IN:
+- indiana
+- indiana
+US-KS:
+- kansas
+- kansas
+US-KY:
+- kentucky
+- kentucky
+US-LA:
+- louisiana
+- louisiana
+US-MA:
+- massachusetts
+- massachusetts
+US-MD:
+- maryland
+- maryland
+US-ME:
+- maine
+- maine
+US-MH:
+- marshall islands
+US-MI:
+- michigan
+- michigan
+US-MN:
+- minnesota
+- minnesota
+US-MO:
+- missouri
+- missouri
+US-MP:
+- northern mariana islands
+- northern mariana islands
+US-MS:
+- mississippi
+- mississippi
+US-MT:
+- montana
+- montana
+US-NC:
+- north carolina
+- north carolina
+US-ND:
+- north dakota
+- north dakota
+US-NE:
+- nebraska
+- nebraska
+US-NH:
+- new hampshire
+- new hampshire
+US-NJ:
+- new jersey
+- new jersey
+US-NM:
+- new mexico
+- new mexico
+US-NV:
+- nevada
+- nevada
+US-NY:
+- new york
+- new york
+US-OH:
+- ohio
+- ohio
+US-OK:
+- oklahoma
+- oklahoma
+US-OR:
+- oregon
+- oregon
+US-PA:
+- pennsylvania
+- pennsylvania
+US-PR:
+- puerto rico
+- puerto rico
+US-PW:
+- palau
+US-RI:
+- rhode island
+- rhode island
+US-SC:
+- south carolina
+- south carolina
+US-SD:
+- south dakota
+- south dakota
+US-TN:
+- tennessee
+- tennessee
+US-TX:
+- texas
+- texas
+US-UM:
+- minor outlying islands
+- united states minor outlying islands
+US-UT:
+- utah
+- utah
+US-VA:
+- virginia
+- virginia
+US-VI:
+- virgin islands
+- virgin islands
+US-VT:
+- vermont
+- vermont
+US-WA:
+- washington
+- washington
+US-WI:
+- wisconsin
+- wisconsin
+US-WV:
+- west virginia
+- west virginia
+US-WY:
+- wyoming
+- wyoming
+UY-AR:
+- artigas
+- artigas
+UY-CA:
+- canelones
+- canelones
+UY-CL:
+- cerro largo
+- cerro largo
+UY-CO:
+- colonia
+- colonia
+UY-DU:
+- durazno
+- durazno
+UY-FD:
+- florida
+- florida
+UY-FS:
+- flores
+- flores
+UY-LA:
+- lavalleja
+- lavalleja
+UY-MA:
+- maldonado
+- maldonado
+UY-MO:
+- montevideo
+- montevideo
+UY-PA:
+- paysandÃº
+- paysandú
+UY-RN:
+- rio negro
+- río negro
+UY-RO:
+- rocha
+- rocha
+UY-RV:
+- rivera
+- rivera
+UY-SA:
+- salto
+- salto
+UY-SJ:
+- san josÃ©
+- san josé
+UY-SO:
+- soriano
+- soriano
+UY-TA:
+- tacuarembÃ³
+- tacuarembó
+UY-TT:
+- treinta y tres
+- treinta y tres
+UZ-AN:
+- andijan province
+- ! "Ð\x90Ð½Ð´Ð¸Ð¶Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- andijon
+UZ-BU:
+- bukhara province
+- ! "Ð‘ÑƒÑ…Ð°Ñ€Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- bukhoro
+UZ-FA:
+- fergana province
+- ! "Ð¤ÐµÑ€Ð³Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- farghona
+UZ-JI:
+- jizzakh province
+- ! "Ð”Ð¶Ð¸Ð·Ð°ÐºÑ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- jizzakh
+UZ-NG:
+- namangan province
+- ! "Ð\x9DÐ°Ð¼Ð°Ð½Ð³Ð°Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- namangan
+UZ-NW:
+- navoiy province
+- ! "Ð\x9DÐ°Ð²Ð¾Ð¸Ð¹Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- nawoiy
+UZ-QA:
+- qashqadaryo province
+- ! "ÐšÐ°ÑˆÐºÐ°Ð´Ð°Ñ€ÑŒÐ¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- qashqadaryo
+UZ-QR:
+- karakalpakstan republic
+- ! "Ð ÐµÑ\x81Ð¿ÑƒÐ±Ð»Ð¸ÐºÐ° ÐšÐ°Ñ€Ð°ÐºÐ°Ð»Ð¿Ð°ÐºÑ\x81Ñ‚Ð°Ð½"
+- qoraqalpoghiston respublikasi
+UZ-SA:
+- samarqand province
+- ! "Ð¡Ð°Ð¼Ð°Ñ€ÐºÐ°Ð½Ð´Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- samarqand
+UZ-SI:
+- sirdaryo province
+- ! "Ð¡Ñ‹Ñ€Ð´Ð°Ñ€ÑŒÐ¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- sirdaryo
+UZ-SU:
+- surxondaryo province
+- ! "Ð¡ÑƒÑ€Ñ…Ð°Ð½Ð´Ð°Ñ€ÑŒÐ¸Ð½Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- surkhondaryo
+UZ-TK:
+- tashkent city
+- Ð¢Ð°ÑˆÐºÐµÐ½Ñ‚
+UZ-TO:
+- tashkent province
+- ! "Ð¢Ð°ÑˆÐºÐµÐ½Ñ‚Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+- toshkent
+UZ-XO:
+- xorazm province
+- ! "Ð¥Ð¾Ñ€ÐµÐ·Ð¼Ñ\x81ÐºÐ°Ñ\x8F Ð¾Ð±Ð»Ð°Ñ\x81Ñ‚ÑŒ"
+VC-01:
+- charlotte
+VC-02:
+- saint andrew
+VC-03:
+- saint david
+VC-04:
+- saint george
+VC-05:
+- saint patrick
+VC-06:
+- grenadines
+VE-A:
+- caracas
+- distrito federal
+VE-B:
+- anzoÃ¡tegui
+- anzoátegui
+VE-C:
+- apure
+- apure
+VE-D:
+- aragua
+- aragua
+VE-E:
+- barinas
+- barinas
+VE-F:
+- bolÃ­var
+- bolívar
+VE-G:
+- carabobo
+- carabobo
+VE-H:
+- cojedes
+- cojedes
+VE-I:
+- falcÃ³n
+- falcón
+VE-J:
+- guÃ¡rico
+- guárico
+VE-K:
+- lara
+- lara
+VE-L:
+- mÃ©rida
+- mérida
+VE-M:
+- miranda
+- miranda
+VE-N:
+- monagas
+- monagas
+VE-O:
+- nueva esparta
+- nueva esparta
+VE-P:
+- portuguesa
+- portuguesa
+VE-R:
+- sucre
+- sucre
+VE-S:
+- tÃ¡chira
+- táchira
+VE-T:
+- trujillo
+- trujillo
+VE-U:
+- yaracuy
+- yaracuy
+VE-V:
+- zulia
+- zulia
+VE-W:
+- dependencias federales
+- dependencias federales
+VE-X:
+- vargas
+VE-Y:
+- delta amacuro
+- delta amacuro
+VE-Z:
+- amazonas
+- amazonas
+VN-01:
+- lai chÃ¢u
+- lai chau
+VN-02:
+- lÃ o cai
+- lao cai
+VN-03:
+- hÃ  giang
+- ha giang
+VN-04:
+- cao báº±ng
+- cao bang
+VN-05:
+- sÆ¡n la
+- son la
+VN-06:
+- yÃªn bÃ¡i
+- yen bai
+VN-07:
+- tuyÃªn quang
+- tuyen quang
+VN-09:
+- láº¡ng sÆ¡n
+- lang son
+VN-13:
+- quáº£ng ninh
+VN-14:
+- hÃ²a bÃ¬nh
+- hoa binh
+VN-15:
+- hÃ  tÃ¢y
+- ha tay
+VN-18:
+- ninh bÃ¬nh
+- ninh binh
+VN-20:
+- thÃ¡i bÃ¬nh
+- thai binh
+VN-21:
+- thanh hÃ³a
+- thanh hoa
+VN-22:
+- nghá»‡ an
+- nghe an
+VN-23:
+- hÃ  tÄ©nh
+- ha tinh
+VN-24:
+- quáº£ng bÃ¬nh
+- quang ninh
+VN-25:
+- quáº£ng trá»‹
+- quang tri
+VN-26:
+- thá»«a thiÃªn - huáº¿
+- thua thien-hue
+VN-27:
+- quáº£ng nam
+- quang nam
+VN-28:
+- kon tum
+- kon turn
+VN-29:
+- quáº£ng ngÃ£i
+- quang ngai
+VN-30:
+- gia lai
+- gia lai
+VN-31:
+- ! "bÃ¬nh Ä\x90á»‹nh"
+- binh dinh
+VN-32:
+- phÃº yÃªn
+- phu yen
+VN-33:
+- ! "Ä\x90áº¯k láº¯k"
+- dac lac
+VN-34:
+- khÃ¡nh hÃ²a
+- khanh hoa
+VN-35:
+- ! "lÃ¢m Ä\x90á»“ng"
+- lam dong
+VN-36:
+- ninh thuáº­n
+- ninh thuan
+VN-37:
+- tÃ¢y ninh
+- tay ninh
+VN-39:
+- ! "Ä\x90á»“ng nai"
+- dong nai
+VN-40:
+- bÃ¬nh thuáº­n
+- binh thuan
+VN-41:
+- long an
+- long an
+VN-43:
+- bÃ  rá»‹a - vÅ©ng tÃ u
+- ba ria - vung tau
+VN-44:
+- an giang
+- an giang
+VN-45:
+- ! "Ä\x90á»“ng thÃ¡p"
+- dong thap
+VN-46:
+- ! "tiá»\x81n giang"
+- tien giang
+VN-47:
+- kiÃªn giang
+- kien giang
+VN-48:
+- cáº§n thÆ¡
+- can tho
+VN-49:
+- vÄ©nh long
+- vinh long
+VN-50:
+- báº¿n tre
+- ben tre
+VN-51:
+- trÃ  vinh
+- tra vinh
+VN-52:
+- sÃ³c trÄƒng
+- sec trang
+VN-53:
+- báº¯c káº¡n
+- bat can
+VN-54:
+- báº¯c giang
+- bat giang
+VN-55:
+- báº¡c liÃªu
+- bat lieu
+VN-56:
+- báº¯c ninh
+- bat ninh
+VN-57:
+- bÃ¬nh dÆ°Æ¡ng
+- binh duong
+VN-58:
+- bÃ¬nh phÆ°á»›c
+- binh phuoc
+VN-59:
+- cÃ  mau
+- ca mau
+VN-60:
+- ! "Ä\x90Ã  náºµng"
+- da nang
+VN-61:
+- háº£i dÆ°Æ¡ng
+- hai duong
+VN-62:
+- háº£i phÃ²ng
+- hai phong
+VN-63:
+- hÃ  nam
+- ha nam
+VN-64:
+- hÃ  ná»™i
+- ha noi
+VN-65:
+- há»“ chÃ­ minh
+- ho chi minh
+VN-66:
+- hÆ°ng yÃªn
+- hung yen
+VN-67:
+- ! "nam Ä\x90á»‹nh"
+- nam dinh
+VN-68:
+- ! "phÃº thá»\x8D"
+- phu tho
+VN-69:
+- thÃ¡i nguyÃªn
+- thai nguyen
+VN-70:
+- vÄ©nh phÃºc
+- vinh yen
+VN-71:
+- ! "Ä\x90iá»‡n biÃªn"
+VN-72:
+- ! "Ä\x90áº¯k nÃ´ng"
+VN-73:
+- háº­u giang
+VU-MAP:
+- malampa
+- malampa
+VU-PAM:
+- pÃ©nama
+- pénama
+VU-SAM:
+- sanma
+- sanma
+VU-SEE:
+- shÃ©fa
+- shéfa
+VU-TAE:
+- tafÃ©a
+- taféa
+VU-TOB:
+- torba
+- torba
+WS-AA:
+- a'ana
+- a'ana
+WS-AL:
+- aiga-i-le-tai
+- aiga-i-le-tai
+WS-AT:
+- atua
+- atua
+WS-FA:
+- fa'asaleleaga
+- fa'asaleleaga
+WS-GE:
+- gaga'emauga
+- gaga'emauga
+WS-GI:
+- gagaifomauga
+- gagaifomauga
+WS-PA:
+- palauli
+- palauli
+WS-SA:
+- satupa'itea
+- satupa'itea
+WS-TU:
+- tuamasaga
+- tuamasaga
+WS-VF:
+- va'a-o-fonoti
+- va'a-o-fonoti
+WS-VS:
+- vaisigano
+- vaisigano
+YE-AB:
+- abyan
+- abyān
+YE-AD:
+- ! '''adan'
+- ‘adan
+YE-AM:
+- ! '''amran'
+YE-BA:
+- al bayda'
+- al bayḑā'
+YE-DA:
+- ad dali'
+YE-DH:
+- dhamar
+- dhamār
+YE-HD:
+- hadramaut
+- Ḩaḑramawt
+YE-HJ:
+- hajjah
+- Ḩajjah
+YE-HU:
+- al hudaydah
+- al Ḩudaydah
+YE-IB:
+- ibb
+- ibb
+YE-JA:
+- al jawf
+- al jawf
+YE-LA:
+- lahij
+- laḩij
+YE-MA:
+- ma'rib
+- ma'rib
+YE-MR:
+- al mahrah
+- al mahrah
+YE-MW:
+- al mahwit
+- al maḩwit
+YE-RA:
+- raymah
+YE-SD:
+- sa'dah
+- Şa'dah
+YE-SH:
+- shabwah
+- shabwah
+YE-SN:
+- sana'a
+- Şan‘ā'
+YE-TA:
+- ta'izz
+- ta‘izz
+ZA-EC:
+- eastern cape
+- eastern cape
+ZA-FS:
+- free state
+- free state
+ZA-GT:
+- gauteng
+- gauteng
+ZA-LP:
+- limpopo
+ZA-MP:
+- mpumalanga
+- mpumalanga
+ZA-NC:
+- northern cape
+- northern cape
+ZA-NL:
+- kwazulu-natal
+- kwazulu-natal
+ZA-NW:
+- north west
+- north-west
+ZA-WC:
+- western cape
+- western cape
+ZM-01:
+- western
+- western
+ZM-02:
+- central
+- central
+ZM-03:
+- eastern
+- eastern
+ZM-04:
+- luapula
+- luapula
+ZM-05:
+- northern
+- northern
+ZM-06:
+- north-western
+- north-western
+ZM-07:
+- southern
+- southern
+ZM-08:
+- copperbelt
+- copperbelt
+ZM-09:
+- lusaka
+- lusaka
+ZW-BU:
+- bulawayo
+- bulawayo
+ZW-HA:
+- harare
+- harare
+ZW-MA:
+- manicaland
+- manicaland
+ZW-MC:
+- mashonaland central
+- mashonaland central
+ZW-ME:
+- mashonaland east
+- mashonaland east
+ZW-MI:
+- midlands
+- midlands
+ZW-MN:
+- matabeleland north
+- matabeleland north
+ZW-MS:
+- matabeleland south
+- matabeleland south
+ZW-MV:
+- masvingo
+- masvingo
+ZW-MW:
+- mashonaland west
+- mashonaland west
+! '': []
+TH-38:
+- bueng kan
+PH-???:
+- davao occidental
+PH-MNL:
+- metropolitan manila
+- metro manila
+AD-AD:
+- andorra
+AG-AG:
+- antigua & barbuda
+AI-AI:
+- anguilla
+AL-LA:
+- laç
+AN-AN:
+- netherlands antilles
+AQ-AQ:
+- antarctica
+AS-AS:
+- american samoa
+AW-AW:
+- aruba
+AZ-MM:
+- naxçivan
+BB-BB:
+- barbados
+BD-1:
+- barisal bibhag
+BD-1B:
+- barisal anchal
+BD-1Q:
+- patuakhali anchal
+BD-2:
+- chittagong bibhag
+BD-2A:
+- bandarban anchal
+BD-2D:
+- chittagong anchal
+BD-2E:
+- chittagong hill tracts
+BD-2F:
+- comilla anchal
+BD-2O:
+- noakhali anchal
+BD-2T:
+- sylhet anchal
+BD-3:
+- dhaka bibhag
+BD-3G:
+- dhaka anchal
+BD-3I:
+- faridpur anchal
+BD-3J:
+- jamalpur anchal
+BD-3N:
+- mymensingh anchal
+BD-3U:
+- tangail anchal
+BD-4:
+- khulna bibhag
+BD-4K:
+- jessore anchal
+BD-4L:
+- khulna anchal
+BD-4M:
+- khustia anchal
+BD-5:
+- rajshahi bibhag
+BD-5C:
+- bogra anchal
+BD-5H:
+- dinajpur anchal
+BD-5P:
+- pabna anchal
+BD-5R:
+- rajshahi anchal
+BD-5S:
+- rangpur anchal
+BE-VLG:
+- vlaamse gewest
+BE-WAL:
+- wallonne region
+BH-01:
+- al Ḩadd
+BH-02:
+- al muḩarraq
+BH-03:
+- al manāmah
+BH-04:
+- jidd Ḩafş
+BH-05:
+- al minţaqah ash shamālīyah
+BH-06:
+- sitrah
+BH-07:
+- al minţaqah al wusţa
+BH-08:
+- madīnat ‘Īsá
+BH-09:
+- ar rifā‘
+BH-10:
+- al minţaqah al gharbīyah
+BH-11:
+- minţaqat juzur Ḩawār
+BH-12:
+- madīnat Ḩamad
+BI-BJ:
+- bujumbura
+BM-BM:
+- bermuda
+BR-R0:
+- rondônia
+BV-BV:
+- bouvet island
+BW-CH:
+- chobe
+BW-NG:
+- ngamiland
+CA-NF:
+- newfoundland
+CC-CC:
+- cocos keeling islands
+CD-HC:
+- haut-congo
+CK-CK:
+- cook islands
+CN-71:
+- taiwan
+CV-B:
+- ilhas de barlavento
+CV-FO:
+- fogo
+CV-S:
+- ilhas de sotavento
+CV-SN:
+- sāo nicolau
+CX-CX:
+- christmas island
+CZ-CJC:
+- jihočeský kraj
+CZ-CJM:
+- jihomoravský kraj
+CZ-CSC:
+- severočeský kraj
+CZ-CSM:
+- severomoravský kraj
+CZ-CST:
+- středočeský kraj
+CZ-CVC:
+- východočeský kraj
+CZ-CZC:
+- západočeský kraj
+CZ-PRG:
+- praha
+DK-015:
+- kǿbenhavn
+DK-020:
+- frederiksborg
+DK-025:
+- roskilde
+DK-030:
+- vestsjælland
+DK-035:
+- storstrǿm
+DK-040:
+- bornholm
+DK-042:
+- fyn
+DK-050:
+- sǿnderjylland
+DK-055:
+- ribe
+DK-060:
+- vejle
+DK-065:
+- ringkǿbing
+DK-070:
+- Århus
+DK-076:
+- viborg
+DK-080:
+- nordjylland
+DK-101:
+- kǿbenhavn
+DK-147:
+- frederiksberg
+DM-DM:
+- dominica
+DO-AL:
+- la altagracia
+DO-AZ:
+- azua
+DO-BH:
+- barahona
+DO-BR:
+- bahoruco
+DO-CR:
+- san cristóbal
+DO-DA:
+- dajabón
+DO-DN:
+- santo domingo
+DO-DU:
+- duarte
+DO-EP:
+- la estrelleta
+DO-HM:
+- hato mayor
+DO-IN:
+- independencia
+DO-JU:
+- san juan
+DO-MC:
+- monte cristi
+DO-MN:
+- monseñor nouel
+DO-MP:
+- monte plata
+DO-MT:
+- maría trinidad sánchez
+DO-PM:
+- san pedro de macorís
+DO-PN:
+- pedernales
+DO-PP:
+- puerto plata
+DO-PR:
+- peravia
+DO-RO:
+- la romana
+DO-SC:
+- salcedo
+DO-SE:
+- el seibo
+DO-SM:
+- samaná
+DO-SR:
+- santiago rodríguez
+DO-ST:
+- santiago
+DO-SZ:
+- sanchez ramírez
+DO-VA:
+- valverde
+DO-VE:
+- la vega
+EH-EH:
+- western sahara
+ER-AG:
+- akele guzai
+ER-AS:
+- asmara
+ER-BA:
+- barka
+ER-DE:
+- denkalia
+ER-GS:
+- gash-setit
+ER-HA:
+- hamasien
+ER-SA:
+- sahel
+ER-SM:
+- semhar
+ER-SN:
+- senhit
+ER-SR:
+- seraye
+ES-AN:
+- andalucía
+ES-AR:
+- aragón
+ES-CL:
+- castilla y león
+ES-CM:
+- castilla-la mancha
+ES-CN:
+- canarias
+ES-CT:
+- cataluña
+ES-EX:
+- extremadura
+ES-GA:
+- galicia
+ES-GE:
+- gerona
+ES-PV:
+- país vasco
+ES-VC:
+- valenciana
+FK-FK:
+- falkland islands (malvinas)
+FO-FO:
+- faroe islands
+FR-A:
+- alsace
+FR-B:
+- aquitaine
+FR-C:
+- auvergne
+FR-D:
+- bourgogne
+FR-E:
+- bretagne
+FR-F:
+- centre
+FR-G:
+- champagne-ardenne
+FR-H:
+- corse
+FR-I:
+- franche-comté
+FR-J:
+- Île-de-france
+FR-K:
+- languedoc-roussillon
+FR-L:
+- limousin
+FR-M:
+- lorraine
+FR-N:
+- midi-pyrénées
+FR-O:
+- nord-pas-de-calais
+FR-P:
+- basse-normandie
+FR-Q:
+- haute-normandie
+FR-R:
+- pays de la loire
+FR-S:
+- picardie
+FR-T:
+- poitou-charentes
+FR-U:
+- provence-alpes-côte d'azur
+FR-V:
+- rhône-alpes
+GB-CHA:
+- channel islands
+GB-CHS:
+- cheshire
+GB-ENG:
+- england
+GB-GSY:
+- guernsey
+GB-IOM:
+- isle of man
+GB-IOS:
+- isles of scilly
+GB-JSY:
+- jersey
+GB-NIR:
+- northern ireland
+GB-SCT:
+- scotland
+GB-WLS:
+- wales
+GD-GD:
+- grenada
+GE-01:
+- abashis raioni
+GE-02:
+- adigenis raioni
+GE-03:
+- akhalgoris raioni
+GE-04:
+- akhalk'alak'is raioni
+GE-05:
+- akhalts'ikhis raioni
+GE-06:
+- akhmetis raioni
+GE-07:
+- ambrolauris raioni
+GE-08:
+- aspindzis raioni
+GE-09:
+- baghdat'is raioni
+GE-10:
+- bolnisis raioni
+GE-11:
+- borjomis raioni
+GE-12:
+- ch'khorotsqus raioni
+GE-13:
+- ch'okhatauris raioni
+GE-14:
+- dedop'listsqaros raioni
+GE-15:
+- dmanisis raioni
+GE-16:
+- dushet'is raioni
+GE-17:
+- galis raioni
+GE-18:
+- gardabnis raioni
+GE-19:
+- goris raioni
+GE-20:
+- gudaut'is raioni
+GE-21:
+- gulrip'shis raioni
+GE-22:
+- gurjaanis raioni
+GE-23:
+- javis raioni
+GE-24:
+- k'arelis raioni
+GE-25:
+- kaspis raioni
+GE-26:
+- k'edis raioni
+GE-27:
+- kharagaulis raioni
+GE-28:
+- khashuris raioni
+GE-29:
+- khelvach'auris raioni
+GE-30:
+- khobis raioni
+GE-31:
+- khonis raioni
+GE-32:
+- khulos raioni
+GE-33:
+- k'obuletis raioni
+GE-34:
+- lagodekhis raioni
+GE-35:
+- lanch'khut'is raioni
+GE-36:
+- lentekhis raioni
+GE-37:
+- marneulis raioni
+GE-38:
+- martvilis raioni
+GE-39:
+- mestiis raioni
+GE-40:
+- mts'khet'is raioni
+GE-41:
+- ninotsmindis raioni
+GE-42:
+- och'amch'iris raioni
+GE-43:
+- onis raioni
+GE-44:
+- ozurget'is raioni
+GE-45:
+- qazbegis raioni
+GE-46:
+- qvarlis raioni
+GE-47:
+- sach'kheris raioni
+GE-48:
+- sagarejos raioni
+GE-49:
+- samtrediis raioni
+GE-50:
+- senakis raioni
+GE-51:
+- shuakhevis raioni
+GE-52:
+- sighnaghis raioni
+GE-53:
+- sokhumis raioni
+GE-54:
+- t'elavis raioni
+GE-55:
+- t'erjolis raioni
+GE-56:
+- t'et'ritsqaros raioni
+GE-57:
+- t'ianet'is raioni
+GE-58:
+- ts'ageris raioni
+GE-59:
+- tsalenjikhis raioni
+GE-60:
+- tsalkis raioni
+GE-61:
+- vanis raioni
+GE-62:
+- zestap'onis raioni
+GE-63:
+- zugdidis raioni
+GE-BUS:
+- bat'umi
+GE-CHI:
+- chiat'ura
+GE-GAG:
+- gagra
+GE-GOR:
+- gori
+GE-KUT:
+- k'ut'aisi
+GE-PTI:
+- p'ot'i
+GE-RUS:
+- rust'avi
+GE-SUI:
+- sokhumi
+GE-TBS:
+- t'bilisi
+GE-TQI:
+- tqibuli
+GE-TQV:
+- tqvarch'eli
+GE-TSQ:
+- tsqalmbo
+GE-ZUG:
+- zugdidi
+GF-GF:
+- french guiana
+GI-GI:
+- gibraltar
+GL-GL:
+- greenland
+GN-B:
+- bake
+GN-D:
+- kindia
+GN-K:
+- kankan
+GN-M:
+- mamou
+GP-GP:
+- guadeloupe
+GR-I:
+- anatoliki makedonia kai thraki
+GR-II:
+- kentriki makedonia
+GR-III:
+- dytiki makedonia
+GR-IV:
+- ipeiros
+GR-IX:
+- attiki
+GR-V:
+- thessalia
+GR-VI:
+- ionioi nisoi
+GR-VII:
+- dytiki ellada
+GR-VIII:
+- sterea ellada
+GR-X:
+- peloponnisos
+GR-XI:
+- voreio aigaio
+GR-XII:
+- notio aigaio
+GR-XIII:
+- kriti
+GS-GS:
+- s.georgia & s.sandwich islands
+GU-GU:
+- guam
+HK-HK:
+- hong kong
+HM-HM:
+- heard & mcdonald islands
+IE-CP:
+- connaught
+IE-LP:
+- leinster
+IE-M:
+- munster
+IE-UP:
+- ulster
+IL-2:
+- hazafon
+IO-IO:
+- british indian ocean territory
+IS-0:
+- reykjavīk
+IT-21:
+- piemonte
+IT-23:
+- valle d'aosta
+IT-25:
+- lombardia
+IT-32:
+- trentino-alte adige
+IT-34:
+- veneto
+IT-36:
+- friuli-venezia giulia
+IT-42:
+- liguria
+IT-45:
+- emilia-romagna
+IT-52:
+- toscana
+IT-55:
+- umbria
+IT-57:
+- marche
+IT-62:
+- lazio
+IT-65:
+- abruzzo
+IT-67:
+- molise
+IT-72:
+- campania
+IT-75:
+- puglia
+IT-77:
+- basilicata
+IT-78:
+- calabria
+IT-82:
+- sicilia
+IT-88:
+- sardegna
+IT-FO:
+- forlì
+IT-PS:
+- pesaro
+IT-W:
+- vibo valentia
+KN-KN:
+- saint kitts & nevis
+KY-KY:
+- cayman islands
+KZ-BAY:
+- bayqonyr
+LC-LC:
+- saint lucia
+LI-LI:
+- liechtenstein
+LK-1:
+- basnahira palata
+LK-2:
+- madhyama palata
+LK-3:
+- dakunu palata
+LK-4:
+- uturu palata
+LK-5:
+- negenahira palata
+LK-6:
+- wayamba palata
+LK-7:
+- uturumeda palata
+LK-8:
+- uva palata
+LK-9:
+- sabaragamuwa palata
+LY-FA:
+- fazzān
+LY-Ju:
+- al jufrah
+LY-NA:
+- naggaza
+LY-SF:
+- sawfajjin
+LY-Wu:
+- al wusţá
+MA-BAH:
+- aït baha
+MA-CE:
+- centre
+MA-CN:
+- centre-nord
+MA-CS:
+- centre-sud
+MA-ES:
+- est
+MA-IRA:
+- jrada
+MA-MAR:
+- marrakech
+MA-MEL:
+- aït melloul
+MA-NO:
+- nord-ouest
+MA-RBA:
+- rabat-salé
+MA-SU:
+- sud
+MA-TS:
+- tensift
+MC-MC:
+- monaco
+MD-ANE:
+- anenii noi
+MD-BAL:
+- bălţi
+MD-BAS:
+- basarabeasca
+MD-BRI:
+- brinceni
+MD-CAH:
+- cahul
+MD-CAI:
+- căinari
+MD-CAL:
+- călăraşi
+MD-CAM:
+- camenca
+MD-CAN:
+- cantemir
+MD-CAS:
+- căuşeni
+MD-CHI:
+- chişinău
+MD-CHL:
+- cahul
+MD-CIA:
+- ciadîr-lunga
+MD-CIM:
+- cimişlia
+MD-COM:
+- comrat
+MD-CRI:
+- criuleni
+MD-DBI:
+- dubăsari
+MD-DON:
+- donduşeni
+MD-DRO:
+- drochia
+MD-DUB:
+- dubăsari
+MD-EDI:
+- edineţ
+MD-FAL:
+- făleşti
+MD-FLO:
+- floreşti
+MD-GLO:
+- glodeni
+MD-GRI:
+- grigoriopol
+MD-HIN:
+- hînceşti
+MD-IAL:
+- ialoveni
+MD-LEO:
+- leova
+MD-NIS:
+- nisporeni
+MD-OCN:
+- ocniţa
+MD-OHI:
+- orhei
+MD-ORH:
+- orhei
+MD-REZ:
+- rezina
+MD-RIB:
+- rîbniţa
+MD-RIS:
+- rîşcani
+MD-RIT:
+- rîbniţa
+MD-SIN:
+- sîngerei
+MD-SLO:
+- slobozia
+MD-SOA:
+- soroca
+MD-SOC:
+- soroca
+MD-SOL:
+- Şoldăneşti
+MD-STE:
+- Ştefan vodă
+MD-STR:
+- străşeni
+MD-TAR:
+- taraclia
+MD-TEL:
+- teleneşti
+MD-TIG:
+- tighina
+MD-TIR:
+- tiraspol
+MD-UGI:
+- ungheni
+MD-UNG:
+- ungheni
+MD-VUL:
+- vulcăneşti
+MH-L:
+- ralik chain
+MH-T:
+- ratak chain
+MO-MO:
+- macau
+MP-MP:
+- northern mariana islands
+MQ-MQ:
+- martinique
+MS-MS:
+- montserrat
+MT-MT:
+- malta
+MW-C:
+- central
+MW-N:
+- northern
+MW-S:
+- southern
+MY-A:
+- perak
+MY-B:
+- selangor
+MY-C:
+- pahang
+MY-D:
+- kelantan
+MY-J:
+- johor
+MY-K:
+- kedah
+MY-L:
+- labuan
+MY-M:
+- melaka
+MY-N:
+- negeri sembilan
+MY-P:
+- pulau pinang
+MY-R:
+- perlis
+MY-SA:
+- sabah
+MY-SK:
+- sarawak
+MY-T:
+- terengganu
+MY-W:
+- kuala lumpur
+MZ-MPM:
+- maputo
+NC-NC:
+- new caledonia
+NF-NF:
+- norfolk island
+NI-ZE:
+- zelaya
+NP-1:
+- madhyamanchal
+NP-2:
+- madhya pashchimanchal
+NP-3:
+- pashchimanchal
+NP-4:
+- purwanchal
+NP-5:
+- sudur pashchimanchal
+NR-NR:
+- nauru
+NU-NU:
+- niue
+NZ-N:
+- north island
+NZ-S:
+- south island
+OM-JA:
+- al janūbīyah
+PA-0:
+- comarca de san blas
+PF-PF:
+- french polynesia
+PL-BB:
+- bielsko
+PL-BK:
+- białystok
+PL-BP:
+- biała podlaska
+PL-BY:
+- bydgoszcz
+PL-CH:
+- chełm
+PL-CI:
+- ciechanów
+PL-CZ:
+- czestochowa
+PL-EL:
+- elblag
+PL-GD:
+- gdańsk
+PL-GO:
+- gorzów
+PL-JG:
+- jelenia gera
+PL-KA:
+- katowice
+PL-KI:
+- kielce
+PL-KL:
+- kalisz
+PL-KN:
+- konin
+PL-KO:
+- koszalin
+PL-KR:
+- kraków
+PL-KS:
+- krosno
+PL-LE:
+- leszno
+PL-LG:
+- legnica
+PL-LO:
+- Łomia
+PL-NS:
+- nowy sacz
+PL-OL:
+- olsztyn
+PL-OS:
+- ostrołeka
+PL-PI:
+- piła
+PL-PL:
+- płock
+PL-PO:
+- poznań
+PL-PR:
+- przemyśl
+PL-PT:
+- piotrków
+PL-RA:
+- radom
+PL-RZ:
+- rzeszów
+PL-SE:
+- siedlce
+PL-SI:
+- sieradz
+PL-SU:
+- suwałki
+PL-SZ:
+- szczecin
+PL-TA:
+- tarnów
+PL-TG:
+- tarnobrzeg
+PL-TO:
+- toruń
+PL-WA:
+- warszawa
+PL-WB:
+- wałbrzych
+PL-WL:
+- włocławek
+PL-WR:
+- wrocław
+PL-ZA:
+- zamość
+PL-ZG:
+- zielona góra
+PM-PM:
+- st. pierre & miquelon
+PN-PN:
+- pitcairn
+PR-PR:
+- puerto rico
+PW-PW:
+- palau
+RE-RE:
+- reunion
+RU-AGB:
+- aginskiy buryatskiy avtonomnyy okrug
+RU-CHI:
+- chitinskaya oblast'
+RU-EVE:
+- evenkiyskiy avtonomnyy okrug
+RU-KOP:
+- komi-permyatskiy avtonomnyy okrug
+RU-KOR:
+- koryakskiy avtonomnyy okrug
+RU-TAY:
+- taymyrskiy (dolgano-nenetskiy) avtonomnyy okrug
+RU-UOB:
+- ust’-ordynskiy buryatskiy avtonomnyy okrug
+RW-B:
+- gitarama
+RW-C:
+- butare
+RW-D:
+- gikongoro
+RW-E:
+- cyangugu
+RW-F:
+- kibuye
+RW-G:
+- gisenyi
+RW-H:
+- ruhengeri
+RW-I:
+- byumba
+RW-J:
+- kibungo
+RW-K:
+- kigali-rural
+RW-L:
+- kigali-ville
+RW-M:
+- mutara
+SA-O1:
+- ar riyāḑ
+SC-SC:
+- seychelles
+SG-SG:
+- singapore
+SH-AC:
+- ascension
+SH-SH:
+- saint helena
+SH-TA:
+- tristan da cunha
+SI-01:
+- pomurska
+SI-02:
+- podravska
+SI-03:
+- koroška
+SI-04:
+- savinjska
+SI-05:
+- zasavska
+SI-06:
+- spodnjeposavska
+SI-07:
+- dolenjska
+SI-08:
+- osrednjeslovenska
+SI-09:
+- gorenjska
+SI-10:
+- notranjsko-kraška
+SI-11:
+- goriška
+SI-12:
+- obalno-kraška
+SJ-SJ:
+- svalbard & jan mayen islands
+SM-SM:
+- san marino
+SV-SU:
+- usulután
+TC-TC:
+- turks & caicos islands
+TD-BET:
+- borkou-ennedi-tibesti
+TD-BI:
+- biltine
+TD-MK:
+- mayo-kébbi
+TF-TF:
+- french southern territories
+TJ-KR:
+- karategin
+TJ-LN:
+- leninabad
+TK-TK:
+- tokelau
+TO-TO:
+- tonga
+TP-TP:
+- east timor
+TR-4S:
+- manisa
+TR-S8:
+- sivas
+TR-SO:
+- nevşehir
+TR-SS:
+- samsun
+TV-TV:
+- tuvalu
+UG-APA:
+- apac
+UG-ARU:
+- arua
+UG-BUN:
+- bundibugyo
+UG-BUS:
+- bushenyi
+UG-GUL:
+- gulu
+UG-HOI:
+- hoima
+UG-IGA:
+- iganga
+UG-JIN:
+- jinja
+UG-KAP:
+- kapchorwa
+UG-KAS:
+- kasese
+UG-KBL:
+- kabale
+UG-KBR:
+- kabarole
+UG-KIB:
+- kiboga
+UG-KIS:
+- kisoro
+UG-KIT:
+- kitgum
+UG-KLA:
+- kampala
+UG-KLE:
+- kibaale
+UG-KLG:
+- kalangala
+UG-KLI:
+- kamuli
+UG-KOT:
+- kotido
+UG-KUM:
+- kumi
+UG-LIR:
+- lira
+UG-LUW:
+- luwero
+UG-MBL:
+- mbale
+UG-MBR:
+- mbarara
+UG-MOR:
+- moroto
+UG-MOY:
+- moyo
+UG-MPI:
+- mpigi
+UG-MSI:
+- masindi
+UG-MSK:
+- masaka
+UG-MUB:
+- mubende
+UG-MUK:
+- mukono
+UG-NEB:
+- nebbi
+UG-NTU:
+- ntungamo
+UG-PAL:
+- pallisa
+UG-RAK:
+- rakai
+UG-RUK:
+- rukungiri
+UG-SOR:
+- soroti
+UG-TOR:
+- tororo
+UZ-KH:
+- khorazm
+VA-VA:
+- vatican city
+VC-VC:
+- st. vincent & the grenadines
+VG-VG:
+- british virgin islands
+VI-VI:
+- us virgin islands
+WF-WF:
+- wallis & futuna islands
+YT-YT:
+- mayotte
+YU-CG:
+- crna gora
+YU-KM:
+- kosovo-metohija
+YU-SR:
+- srbija
+YU-VO:
+- vojvodina
+ZA-NP:
+- northern province

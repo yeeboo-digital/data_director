@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DataDirector</title>
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "//www.google.com/jsapi" %>
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+  <div id="container">
+    <div class="navigation">
+      <ul>
+        <li>
+          <%= link_to "DataDirector Data", root_url %>
+        </li>
+        <% if user_signed_in? %>
+        <li>
+          <%= link_to('Logout', destroy_user_session_path, :method => :delete) %>        
+        </li>
+        <% end %>
+      </ul>
+    </div>
+    <div id="content">
+      <%= yield %>
+    </div>
+  </div>
+</body>
+</html>

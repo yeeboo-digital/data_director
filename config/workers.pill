@@ -1,0 +1,42 @@
+# encoding: UTF-8
+
+$:.unshift File.expand_path(File.join(File.dirname(__FILE__), *%w[../lib]))
+
+require 'data_director'
+
+def number_of_workers
+  ENV['WORKERS'] ? ENV['WORKERS'].to_i : 16
+end
+
+def start_command
+  env = ''
+  env = " FORMAT=#{ENV['FORMAT']} " if ENV['FORMAT'].present?
+  env = " RAILS_ENV=#{ENV['RAILS_ENV']} " if ENV['RAILS_ENV'].present?
+  env = " METHOD_NAME=#{ENV['METHOD_NAME']} " if ENV['METHOD_NAME'].present?
+  env = " SKIP_EMPTY_COLUMNS=#{ENV['SKIP_EMPTY_COLUMNS']} " if ENV['SKIP_EMPTY_COLUMNS'].present?
+  "bundle exec sidekiq -c 4 -L #{DataDirector.root_path}/log/sidekiq.log -r #{DataDirector.root_path}/config/workers.rb #{env}"
+end
+
+Bluepill.application("data_director-workers", log_file: "#{DataDirector.root_path}/log/workers.log") do |app|
+number_of_workers.times do |i|
+    app.process("data_director-workers-#{i}") do |process|
+      # App directory, start command, group name and location of PID file
+      process.working_dir         = DataDirector.root_path
+      process.group               = 'data_director-workers'
+      
+      process.start_command       = start_command
+      process.pid_file            = "#{DataDirector.root_path}/run/data_director-workers-#{i}.pid"
+      process.stop_command        = "kill `cat #{DataDirector.root_path}/run/data_director-workers-#{i}.pid`"
+      # Daemonzie
+      process.daemonize           = true
+      # Grace period to start and restart
+      process.start_grace_time    = 20.seconds
+      process.stop_grace_time     = 20.seconds
+      process.restart_grace_time  = 20.seconds
+      # Redirect output
+      process.stdout              = "#{DataDirector.root_path}/log/workers-stdout.log"
+      process.stderr              = "#{DataDirector.root_path}/log/workers-errors.log"
+    end
+  end
+end
+

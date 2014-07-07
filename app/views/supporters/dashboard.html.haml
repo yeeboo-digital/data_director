@@ -1,0 +1,77 @@
+%section.dashboard
+  %h1== Dashboard #{params[:country]}
+  - if params[:country].present?
+    %h3== Total records #{Supporter::Search.group_country_count.find{|r| r[0] == params['country'] }[1] }
+
+  %table.supporters-table
+    %tbody
+      %tr
+
+        %tr
+          %td{colspan: 2}
+            .title 
+              Intersection of duplicates by country
+              = chart_csv_link(:country_duplicates_pivot_table_charts_supporters_path)
+            .chart{ data: { behaviour: 'chart', type: 'ColumnChart', url: country_duplicates_pivot_table_charts_supporters_path(chart_conditions) } }
+        
+        %td
+          .title 
+            Sum of supporters per country
+            = link_to 'CSV', countries_charts_supporters_url(format: 'csv'), class: 'icon-save', target: :blank
+          .chart{ data: { behaviour: 'chart', type: 'GeoChart', url: countries_charts_supporters_path } }
+        %td
+          .title 
+            Sum of supporters per optin date
+            = chart_csv_link(:optin_dates_charts_supporters_url)
+          .chart{ data: { behaviour: 'chart', type: 'AreaChart', url: optin_dates_charts_supporters_path(chart_conditions) } }
+
+      %tr
+        %td
+          .title 
+            Sum of supporters by age
+            = chart_csv_link(:age_charts_supporters_url)          
+          .chart{ data: { behaviour: 'chart', type: 'AreaChart', url: age_charts_supporters_path(chart_conditions) } }
+        %td
+          .title 
+            Sum of supporters by year of birth
+            = chart_csv_link(:birthday_year_charts_supporters_url)
+          .chart{ data: { behaviour: 'chart', type: 'PieChart', url: birthday_year_charts_supporters_path(chart_conditions) } }
+      
+      %tr
+        %td
+        %td
+      %tr
+        %td{colspan: 2}
+          .title 
+            For each country, what percentage of the population participated in each issue?
+            = chart_csv_link(:participation_per_country_charts_supporters_path)
+          .chart{ data: { behaviour: 'chart', type: 'ColumnChart', url: participation_per_country_charts_supporters_path(chart_conditions) } }
+      %tr
+        %td{colspan: 2}
+
+      %tr
+        %td
+          .title
+            Sum of rows per supporter ( greater than 1 are duplicates )
+            = chart_csv_link(:duplicate_rows_charts_supporters_path)
+          .chart{ data: { behaviour: 'chart', type: 'LineChart', url: duplicate_rows_charts_supporters_path(chart_conditions) } }
+        %td
+          .title 
+            Sum of rows per supporter ( greater than 1 are duplicates )
+            = chart_csv_link(:duplicate_rows_charts_supporters_path)
+          .table
+            .chart{ data: { behaviour: 'chart', type: 'Table', url: duplicate_rows_charts_supporters_path(chart_conditions) } }
+        
+      %tr
+        %td
+          .title 
+            Percentage of supporters with phone numbers
+            = chart_csv_link(:phone_number_country_count_charts_supporters_path)
+          .chart{ data: { behaviour: 'chart', type: 'GeoChart', url: phone_number_country_count_charts_supporters_path } }
+          
+        %td
+          .title 
+            Supporter Phone Type
+            = chart_csv_link(:grouped_phone_type_charts_supporters_path)
+          .chart{ data: { behaviour: 'chart', type: 'PieChart', url: grouped_phone_type_charts_supporters_path(chart_conditions) } }
+      
